@@ -148,7 +148,7 @@ def best(inputted_word, suggestions, word_model=None):
 
 if __name__ == '__main__':
     # init the word frequency model with a simple list of all possible words
-    word_model = train(file('/usr/share/dict/words').read())
+    word_model = train(file('words.txt').read())
     real_words = set(word_model)
 
     # add other texts here, they are used to train the word frequency model
