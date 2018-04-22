@@ -2,8 +2,10 @@ __author__ = 'eslamelsawy'
 
 import xml.etree.cElementTree as ET
 import xml.dom.minidom as Minidom
+import dateutil.parser as DateParser
 
 def main():
+    parse_dates_enabled = True
     input_file_name = "input.txt"
     tei_header_file_name = "teiheader.xml"
     output_file_name = "output.xml"
@@ -33,7 +35,18 @@ def main():
 
     for line in content_lines:
         if line.strip():
-            ET.SubElement(body_root, "p").text = line
+            p_element = ET.SubElement(body_root, "p")
+
+            if parse_dates_enabled:
+                try:
+                    parsed_date = DateParser.parse(line.strip())
+                    date_element = ET.SubElement(p_element, "date")
+                    date_element.text = line
+                    date_element.set("When", parsed_date.__str__())
+                except ValueError:
+                    p_element.text = line
+            else:
+                p_element.text = line
 
     # prettify
     pretty_xml_str = Minidom.parseString(ET.tostring(tei_root)).toprettyxml(indent="   ")

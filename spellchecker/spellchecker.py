@@ -142,8 +142,8 @@ def best(inputted_word, suggestions, word_model=None):
 
     freq_sorted = sorted(suggestions, cmp=comparefreq)[10:]     # take the top 10
     hamming_sorted = sorted(suggestions, cmp=comparehamm)[10:]  # take the top 10
-    print 'FREQ', freq_sorted
-    print 'HAM', hamming_sorted
+    # print 'FREQ', freq_sorted
+    # print 'HAM', hamming_sorted
     return ''
 
 if __name__ == '__main__':
@@ -167,10 +167,10 @@ if __name__ == '__main__':
 
             possibilities = suggestions(word, real_words, short_circuit=False)
             short_circuit_result = suggestions(word, real_words, short_circuit=True)
-            if VERBOSE:
-                print [(x, word_model[x]) for x in possibilities]
-                print best(word, possibilities, word_model)
-                print '---'
+            # if VERBOSE:
+                # print [(x, word_model[x]) for x in possibilities]
+                # print best(word, possibilities, word_model)
+                # print '---'
             print [(x, word_model[x]) for x in short_circuit_result]
             if VERBOSE:
                 print best(word, short_circuit_result, word_model)
