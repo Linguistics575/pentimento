@@ -217,7 +217,6 @@ def tokenize(filename):
 def getLineTokens(text, toks):
     tokI = 0
     for line in text.split('\n'):
-        print(line)
         linetoks = line.split()
         linetokI = 0
         revisedlinetoks = []
