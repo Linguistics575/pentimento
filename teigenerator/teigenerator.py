@@ -1,14 +1,24 @@
 __author__ = 'eslamelsawy'
 
+import sys
 import xml.etree.cElementTree as ET
 import xml.dom.minidom as Minidom
 import dateutil.parser as DateParser
 
-def main():
+def main(argv):
+    # DEFAULT VALUES
     parse_dates_enabled = True
     input_file_name = "input.txt"
     tei_header_file_name = "teiheader.xml"
     output_file_name = "output.xml"
+
+    # command line params
+    if argv:
+        input_file_name = argv[0]
+        output_file_name = argv[1]
+
+    print("input file: " + input_file_name)
+    print("output file: " + output_file_name)
 
     # read tei header file
     with open(tei_header_file_name) as f:
@@ -56,4 +66,4 @@ def main():
         f.write(pretty_xml_str)
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1:])

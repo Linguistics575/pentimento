@@ -32,7 +32,7 @@ def main():
         im = ImageOps.invert(im)
         im.save(output_dir + "2_enhanced" + extension, dpi=(600, 600))
 
-        # cropping and resizing
+        # cropping
         width, height = im.size
         margin_top = 100
         margin_bottom = 100
