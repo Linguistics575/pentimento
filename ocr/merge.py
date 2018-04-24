@@ -18,6 +18,24 @@ class bcolors:
     #todo: print in colors, to display when we have errors
     #print(bcolors.WARNING + "Warning: No active frommets remain. Continue?" + bcolors.ENDC)
 
+class Token:
+    def __init__(self, val, after, sourcedoc):
+        self.val = val
+        self.after = after
+        self.sourcedoc = sourcedoc
+
+def tokenize(filename):
+    text = ''.join(open(filename).readlines()).replace('-\n', '').replace('``', '"').replace("''", '"')
+    tokstrs = [s.replace('``', '"').replace("''", '"') for s in nltk.word_tokenize(text)]
+    tokens = []
+    chunkNumber = 0
+    i = 0
+    for line, afters in getLineTokens(text, tokstrs):
+        if len(line) == 0:
+            tokens[-1].after += '\n'
+        for tok,after in zip(line, afters):
+            tokens.append(Token(tok, after, filename))
+    return tokens
 
 p = PorterStemmer()
 wikiwords = set([line.split('\t')[0] for line in open('../WikipediaTitles/titleWordCount.tsv')])
@@ -34,7 +52,7 @@ def isMorphologicallyPlausable(word, dictionary, allowLemma=False):
 
 def areWords(seq, dictionary, allowLemma=False):
     for elem in seq:
-        if re.search(r'[a-zA-Z]', elem) and not isMorphologicallyPlausable(elem, dictionary, allowLemma):
+        if re.search(r'[a-zA-Z]', elem.val) and not isMorphologicallyPlausable(elem.val, dictionary, allowLemma):
             return False
     return True
 
@@ -62,16 +80,18 @@ def doSpellingMerge(mergeInfo):
 
 def isCorrectCapitalization(seq, prevToken):
     for prev,cur in zip([prevToken] + seq, seq):
-        if prev == '.':
-            if not cur[0].isupper():
+        if prev.val == '.':
+            if not cur.val[0].isupper():
                 return False
         else:
-            if cur not in words:
+            if cur.val not in words:
                 return False
     return True
 
 def mergeAlternateCapitalization(seqa, seqb, prevToken):
-    if ' '.join(seqa).lower() == ' '.join(seqb).lower():
+    stringa = ' '.join([s.val for s in seqa])
+    stringb = ' '.join([s.val for s in seqb])
+    if stringa.lower() == stringb.lower():
         aIsCorrect = isCorrectCapitalization(seqa, prevToken)
         bIsCorrect = isCorrectCapitalization(seqb, prevToken)
         if aIsCorrect and not bIsCorrect:
@@ -79,9 +99,9 @@ def mergeAlternateCapitalization(seqa, seqb, prevToken):
         if not aIsCorrect and bIsCorrect:
             return [seqb]
         if aIsCorrect and bIsCorrect:
-            if ' '.join(seqa).islower():
+            if stringa.islower():
                 return [seqa]
-            if ' '.join(seqb).islower():
+            if stringb.islower():
                 return [seqb]
     return [seqa, seqb]
 
@@ -106,9 +126,9 @@ def mergeUnigramFrequency(seqa, seqb, wordFreq):
         aScore = 1
         bScore = 1
         for word in seqa:
-            aScore *= (wordFreq.get(word) or 0)
+            aScore *= (wordFreq.get(word.val) or 0)
         for word in seqb:
-            bScore *= (wordFreq.get(word) or 0)
+            bScore *= (wordFreq.get(word.val) or 0)
         if aScore > bScore:
             return [seqa]
         if bScore > aScore:
@@ -132,7 +152,7 @@ def mergeExtraPunctuation(seqa, seqb):
     if len(seqa) == 0 or len(seqb) == 0:
         if len(seqb) == 0:
             seqa,seqb = seqb,seqa
-        if not re.search(r'\w', ''.join(seqb)):
+        if not re.search(r'\w', ''.join([s.val for s in seqb])):
             return [seqa]
     return [seqa, seqb]
     
@@ -151,8 +171,8 @@ def nonAlphaNumCount(s):
     return sum(int(not c.isalnum()) for c in s)
     
 def mergePunctuationGarbage(seqa, seqb):
-    aPunctCount = nonAlphaNumCount(''.join(seqa))
-    bPunctCount = nonAlphaNumCount(''.join(seqb))
+    aPunctCount = nonAlphaNumCount(''.join([s.val for s in seqa]))
+    bPunctCount = nonAlphaNumCount(''.join([s.val for s in seqb]))
     if aPunctCount < bPunctCount:
         return [seqa]
     if aPunctCount > bPunctCount:
@@ -181,38 +201,41 @@ def doGuessMerge(mergeInfo):
             revisedMergeInfo.append(chunk)
     return revisedMergeInfo
     
-def getMergeInfo(atoks, btoks):
+def getMergeInfo(atoks_full, btoks_full):
+    atoks = [t.val for t in atoks_full]
+    btoks = [t.val for t in btoks_full]
     alines = []
     blines = []
     bothlines = []
     mergeInfo = []
+    i = j = 0
     for diffinfo in [s.strip().split(' ', 1) for s in difflib.ndiff(atoks, btoks) if not s.startswith('?')]:
         if len(diffinfo) == 1:
             if len(alines) + len(blines):
                 mergeInfo.append([alines, blines])
                 alines = []
                 blines = []
-            bothlines.append(diffinfo[-1])
+            bothlines.append(atoks_full[i])
+            i += 1
+            j += 1
         elif diffinfo[0] == '-':
             if len(bothlines):
                 mergeInfo.append([bothlines])
                 bothlines = []
-            alines.append(diffinfo[-1])
+            alines.append(atoks_full[i])
+            i += 1
         elif diffinfo[0] == '+':
             if len(bothlines):
                 mergeInfo.append([bothlines])
                 bothlines = []
-            blines.append(diffinfo[-1])
+            blines.append(btoks_full[j])
+            j += 1
     if len(alines) + len(blines):
         mergeInfo.append([alines, blines])
     if len(bothlines):
         mergeInfo.append([bothlines])
-
     return mergeInfo
 
-def tokenize(filename):
-    text = ''.join(open(filename).readlines()).replace('-\n', '')
-    return nltk.word_tokenize(text)
 
 def getLineTokens(text, toks):
     tokI = 0
@@ -249,31 +272,14 @@ def getLineTokens(text, toks):
                 linetokI += 1
             if len(hasSpace):
                 hasSpace[0] = False
-        yield revisedlinetoks, hasSpace
+        yield revisedlinetoks, [int(space) * ' ' for space in hasSpace[1:]] + ['\n']
 
-def printPreserveSpacing(basefilename, mergedToks):
-    text = ''.join(open(basefilename).readlines()).replace('-\n', '')
-    toks = nltk.word_tokenize(text)
-    mergeInfo = getMergeInfo(toks, mergedToks)
-    chunkNumber = 0
-    i = j = 0
-    for line, hasSpaces in getLineTokens(text, toks):
-        lineToPrint = ''
-        for tok,hasSpace in zip(line, hasSpaces):
-            if len(mergeInfo[chunkNumber][0]) == i:
-                chunkNumber += 1
-                i = j = 0
-            if len(mergeInfo[chunkNumber]) == 2 and j == 0:
-                if lineToPrint:
-                    lineToPrint += ' '
-                lineToPrint +=  ' '.join(mergeInfo[chunkNumber][1])
-                j = 1
-            if len(mergeInfo[chunkNumber]) == 1:
-                if hasSpace:
-                    lineToPrint += ' '
-                lineToPrint += mergeInfo[chunkNumber][0][i]
-            i += 1
-        print(lineToPrint)
+def printPreserveSpacing(toks):
+    toPrint = []
+    for tok in toks:
+        toPrint.append(tok.val)
+        toPrint.append(tok.after)
+    print(''.join(toPrint))
 
 atoks = tokenize(sys.argv[1])
 btoks = tokenize(sys.argv[2])
@@ -290,4 +296,4 @@ for i in mergeInfo:
     if len(i) == 2:
         print(i)
 
-printPreserveSpacing(sys.argv[1], mergeInfo[0][0])
+printPreserveSpacing(mergeInfo[0][0])
