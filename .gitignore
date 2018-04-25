@@ -7,3 +7,11 @@ ocr_carter/.idea/workspace.xml
 dateparser/.idea/workspace.xml
 
 dataparser/.idea/workspace.xml
+
+__pycache__/
+
+*.swp
+
+*.pyc
+
+tiff/

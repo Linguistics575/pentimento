@@ -31,7 +31,7 @@ def tokenize(filename):
     chunkNumber = 0
     i = 0
     for line, afters in getLineTokens(text, tokstrs):
-        if len(line) == 0:
+        if len(line) == 0 and len(tokens):
             tokens[-1].after += '\n'
         for tok,after in zip(line, afters):
             tokens.append(Token(tok, after, filename))
