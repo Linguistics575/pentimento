@@ -1,9 +1,14 @@
-__author__ = 'eslamelsawy'
+# -*- coding: utf-8 -*-
 
 import sys
 import xml.etree.cElementTree as ET
 import xml.dom.minidom as Minidom
 import dateutil.parser as DateParser
+from nltk.tag import StanfordNERTagger
+from nltk.tokenize import word_tokenize
+
+st = StanfordNERTagger('../stanford_ner/classifiers/english.all.3class.distsim.crf.ser.gz',
+'../stanford_ner/stanford-ner.jar', encoding = 'utf-8')
 
 def main(argv):
     # DEFAULT VALUES
@@ -46,7 +51,8 @@ def main(argv):
     current_div_empty = True
     for line in content_lines:
         if line.strip():
-
+            tokens = line.split()
+            ner_tags = st.tag(tokens)
             if line.lower().startswith("page"):
                 pagenumber = line.split()[1]
                 line_element = ET.SubElement(body_root, "pb")
@@ -71,12 +77,36 @@ def main(argv):
                     current_div_empty = False
                 except ValueError:
                     line_element = ET.SubElement(current_div, "p")
-                    line_element.text = line
+                    line_text = ""
+                    for i in range(0, len(ner_tags)):
+                        if ner_tags[i][1] == "O":
+                            line_text += ner_tags[i][0]
+                            line_text += " "
+                        else:
+                            ner_element = ET.SubElement(line_element, "ner")
+                            ner_element.text = ner_tags[i][0]
+                            ner_tail = ner_tags[i+1:]
+                            ner_tail = [x[0] for x in ner_tail]
+                            ner_element.tail = ner_tail
+                            break
+                            
+                    line_element.text = line_text
+                                        
                     current_div_empty = False
             else:
                 line_element = ET.SubElement(body_root, "p")
-                line_element.text = line
-
+                line_text = ""
+                for i in range(0, len(ner_tags)):
+                    if ner_tags[i][1] == "O":
+                        line_text += ner_tags[i][0]
+                        line_text += " "
+                    else:
+                        ner_element = ET.SubElement(line_element, "ner")
+                        ner_element.text = ner_tags[i][0]
+                        ner_tail = ner_tags[i+1:]
+                        ner_tail = [x[0] for x in ner_tail]
+                        ner_element.tail = ner_tail
+                        break
     # prettify
     pretty_xml_str = Minidom.parseString(ET.tostring(tei_root)).toprettyxml(indent="   ")
 
