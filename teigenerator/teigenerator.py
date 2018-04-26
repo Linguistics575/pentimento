@@ -42,7 +42,7 @@ def main(argv):
     tei_root.append(tei_header_root)
     text_root = ET.SubElement(tei_root, "text")
     body_root = ET.SubElement(text_root, "body")
-
+    current_div = None
     for line in content_lines:
         if line.strip():
 
@@ -50,18 +50,25 @@ def main(argv):
                 pagenumber = line.split()[1]
                 line_element = ET.SubElement(body_root, "pb")
                 line_element.set("n", pagenumber.__str__())
-            else:
-                line_element = ET.SubElement(body_root, "p")
 
-            if parse_dates_enabled:
+                current_div = ET.SubElement(body_root, "div")
+                current_div.set("xml:id", "EBAYYYYMMDD")
+                current_div.set("type", "Entry")
+            elif parse_dates_enabled:
                 try:
                     parsed_date = DateParser.parse(line.strip())
+                    current_div = ET.SubElement(body_root, "div")
+                    current_div.set("xml:id", "EBAYYYYMMDD")
+                    current_div.set("type", "Entry")
+                    line_element = ET.SubElement(current_div, "p")
                     date_element = ET.SubElement(line_element, "date")
                     date_element.text = line
                     date_element.set("When", parsed_date.__str__())
                 except ValueError:
+                    line_element = ET.SubElement(current_div, "p")
                     line_element.text = line
             else:
+                line_element = ET.SubElement(body_root, "p")
                 line_element.text = line
 
     # prettify
