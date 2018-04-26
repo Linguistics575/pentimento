@@ -43,6 +43,7 @@ def main(argv):
     text_root = ET.SubElement(tei_root, "text")
     body_root = ET.SubElement(text_root, "body")
     current_div = None
+    current_div_empty = True
     for line in content_lines:
         if line.strip():
 
@@ -54,19 +55,24 @@ def main(argv):
                 current_div = ET.SubElement(body_root, "div")
                 current_div.set("xml:id", "EBAYYYYMMDD")
                 current_div.set("type", "Entry")
+                current_div_empty = True
             elif parse_dates_enabled:
                 try:
                     parsed_date = DateParser.parse(line.strip())
-                    current_div = ET.SubElement(body_root, "div")
-                    current_div.set("xml:id", "EBAYYYYMMDD")
-                    current_div.set("type", "Entry")
+                    if not current_div_empty:
+                        current_div = ET.SubElement(body_root, "div")
+                        current_div.set("xml:id", "EBAYYYYMMDD")
+                        current_div.set("type", "Entry")
                     line_element = ET.SubElement(current_div, "p")
-                    date_element = ET.SubElement(line_element, "date")
+                    title_element = ET.SubElement(line_element, "title")
+                    date_element = ET.SubElement(title_element, "date")
                     date_element.text = line
                     date_element.set("When", parsed_date.__str__())
+                    current_div_empty = False
                 except ValueError:
                     line_element = ET.SubElement(current_div, "p")
                     line_element.text = line
+                    current_div_empty = False
             else:
                 line_element = ET.SubElement(body_root, "p")
                 line_element.text = line
