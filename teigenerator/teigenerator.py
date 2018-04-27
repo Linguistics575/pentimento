@@ -1,14 +1,9 @@
-# -*- coding: utf-8 -*-
+__author__ = 'eslamelsawy'
 
 import sys
 import xml.etree.cElementTree as ET
 import xml.dom.minidom as Minidom
 import dateutil.parser as DateParser
-from nltk.tag import StanfordNERTagger
-from nltk.tokenize import word_tokenize, string_span_tokenize
-
-st = StanfordNERTagger('../stanford_ner/classifiers/english.all.3class.distsim.crf.ser.gz',
-'../stanford_ner/stanford-ner.jar', encoding = 'utf-8')
 
 def main(argv):
     # DEFAULT VALUES
@@ -51,8 +46,7 @@ def main(argv):
     current_div_empty = True
     for line in content_lines:
         if line.strip():
-            tokens = line.split()
-            ner_tags = st.tag(tokens)
+
             if line.lower().startswith("page"):
                 pagenumber = line.split()[1]
                 line_element = ET.SubElement(body_root, "pb")
@@ -77,36 +71,12 @@ def main(argv):
                     current_div_empty = False
                 except ValueError:
                     line_element = ET.SubElement(current_div, "p")
-                    line_text = ""
-                    for i in range(0, len(ner_tags)):
-                        if ner_tags[i][1] == "O":
-                            line_text += ner_tags[i][0]
-                            line_text += " "
-                        else:
-                            ner_element = ET.SubElement(line_element, "ner")
-                            ner_element.text = ner_tags[i][0]
-                            ner_tail = ner_tags[i+1:]
-                            ner_tail = [x[0] for x in ner_tail]
-                            ner_element.tail = ner_tail
-                            break
-                            
-                    line_element.text = line_text
-                                        
+                    line_element.text = line
                     current_div_empty = False
             else:
                 line_element = ET.SubElement(body_root, "p")
-                line_text = ""
-                for i in range(0, len(ner_tags)):
-                    if ner_tags[i][1] == "O":
-                        line_text += ner_tags[i][0]
-                        line_text += " "
-                    else:
-                        ner_element = ET.SubElement(line_element, "ner")
-                        ner_element.text = ner_tags[i][0]
-                        ner_tail = ner_tags[i+1:]
-                        ner_tail = [x[0] for x in ner_tail]
-                        ner_element.tail = ner_tail
-                        break
+                line_element.text = line
+
     # prettify
     pretty_xml_str = Minidom.parseString(ET.tostring(tei_root)).toprettyxml(indent="   ")
 
@@ -116,27 +86,3 @@ def main(argv):
 
 if __name__ == "__main__":
     main(sys.argv[1:])
-
-input_file_name = "input.txt"
-with open(input_file_name) as f:
-    content_lines = f.readlines()
-
-titles = ['Mr.', 'Miss', 'Mrs.', 'Ms.', 'Lady', 'Dr.', 'Madame', 'M.', 'Mme.', 'Mlle.']
-content_lines = [x.strip() for x in content_lines]
-content_lines = [x for x in content_lines if len(x) > 0]
-output_lines = []
-for line in content_lines:
-    tokens = line.split(' ')
-    tokens = [x for x in tokens if len(x) > 0]
-    ner = st.tag(tokens)
-    for ix in range(0, len(ner)):
-        if ner[ix][1] != 'O':
-            tokens[ix] = '<ner>' + tokens[ix] + '</ner>'
-    line = ' '.join(tokens)
-    print(line)
-    output_lines.append(line)
-with open("ner_markup.txt", "w") as f:
-    f.write("\n\n".join(output_lines))
-    
-    
-    
