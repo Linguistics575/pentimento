@@ -56,11 +56,13 @@ wikiwords = set([line.split('\t')[0] for line in open('../WikipediaTitles/titleW
 words = set([line.strip() for line in open('../spellchecker/words.txt').readlines()])
 lemmas = set([p.stem(word, 0, len(word)-1) for word in words])
 
-def mergeChunk(keep, reject=None):
+def mergeChunk(keep, reject):
     for tok in keep:
         tok.repr = blue(tok.repr)
     for tok in reject:
         tok.repr = yellow(strike(tok.repr))
+        tok.val = ''
+        tok.after = ''
     return [reject + keep]
 
 def isMorphologicallyPlausable(word, dictionary, allowLemma=False):
