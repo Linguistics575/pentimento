@@ -19,10 +19,23 @@ class bcolors:
     #todo: print in colors, to display when we have errors
     #print(bcolors.WARNING + "Warning: No active frommets remain. Continue?" + bcolors.ENDC)
 
+def blue(text):
+    return bcolors.OKBLUE + text + bcolors.ENDC
+
+def yellow(text):
+    return bcolors.WARNING + text + bcolors.ENDC
+
+def strike(text):
+    result = ''
+    for c in text:
+        result = result + '\u0336' + c
+    return result
+
 class Token:
     def __init__(self, val, after, sourcedoc):
         self.val = val
         self.after = after
+        self.repr = self.val + self.after
         self.sourcedoc = sourcedoc
 
 def tokenize(filename):
@@ -42,6 +55,13 @@ p = PorterStemmer()
 wikiwords = set([line.split('\t')[0] for line in open('../WikipediaTitles/titleWordCount.tsv')])
 words = set([line.strip() for line in open('../spellchecker/words.txt').readlines()])
 lemmas = set([p.stem(word, 0, len(word)-1) for word in words])
+
+def mergeChunk(keep, reject=None):
+    for tok in keep:
+        tok.repr = blue(tok.repr)
+    for tok in reject:
+        tok.repr = yellow(strike(tok.repr))
+    return [reject + keep]
 
 def isMorphologicallyPlausable(word, dictionary, allowLemma=False):
     parts = re.split("['.-]", word)
@@ -63,9 +83,9 @@ def mergeAlternateSpelling(seqa, seqb):
             areWordsA = areWords(seqa, dic, allowLemma)
             areWordsB = areWords(seqb, dic, allowLemma)
             if areWordsA and not areWordsB:
-                return [seqa]
+                return mergeChunk(seqa, seqb)
             if not areWordsA and areWordsB:
-                return [seqb]
+                return mergeChunk(seqb, seqa)
     return [seqa, seqb]
 
 def doSpellingMerge(mergeInfo):
@@ -96,14 +116,14 @@ def mergeAlternateCapitalization(seqa, seqb, prevToken):
         aIsCorrect = isCorrectCapitalization(seqa, prevToken)
         bIsCorrect = isCorrectCapitalization(seqb, prevToken)
         if aIsCorrect and not bIsCorrect:
-            return [seqa]
+            return mergeChunk(seqa, seqb)
         if not aIsCorrect and bIsCorrect:
-            return [seqb]
+            return mergeChunk(seqb, seqa)
         if aIsCorrect and bIsCorrect:
             if stringa.islower():
-                return [seqa]
+                return mergeChunk(seqa, seqb)
             if stringb.islower():
-                return [seqb]
+                return mergeChunk(seqb, seqa)
     return [seqa, seqb]
 
 def doCapitalizationMerge(mergeInfo):
@@ -131,9 +151,9 @@ def mergeUnigramFrequency(seqa, seqb, wordFreq):
         for word in seqb:
             bScore *= (wordFreq.get(word.val) or 0)
         if aScore > bScore:
-            return [seqa]
+            return mergeChunk(seqa, seqb)
         if bScore > aScore:
-            return [seqb]
+            return mergeChunk(seqb, seqa)
     return [seqa, seqb]
 
 def doUnigramFrequncyMerge(mergeInfo):
@@ -154,7 +174,7 @@ def mergeExtraPunctuation(seqa, seqb):
         if len(seqb) == 0:
             seqa,seqb = seqb,seqa
         if not re.search(r'\w', ''.join([s.val for s in seqb])):
-            return [seqa]
+            return mergeChunk(seqa, seqb)
     return [seqa, seqb]
     
 def doExtraPunctuationMerge(mergeInfo):
@@ -175,9 +195,9 @@ def mergePunctuationGarbage(seqa, seqb):
     aPunctCount = nonAlphaNumCount(''.join([s.val for s in seqa]))
     bPunctCount = nonAlphaNumCount(''.join([s.val for s in seqb]))
     if aPunctCount < bPunctCount:
-        return [seqa]
+        return mergeChunk(seqa, seqb)
     if aPunctCount > bPunctCount:
-        return [seqb]
+        return mergeChunk(seqb, seqa)
     return [seqa, seqb]
     
 def doPunctuationGarbageMerge(mergeInfo):
@@ -275,23 +295,27 @@ def getLineTokens(text, toks):
                 hasSpace[0] = False
         yield revisedlinetoks, [int(space) * ' ' for space in hasSpace[1:]] + ['\n']
 
-def printPreserveSpacing(toks, fileHandle):
+def printPreserveSpacing(toks, fileHandle, debug=False):
     toPrint = []
     for tok in toks:
-        toPrint.append(tok.val)
-        toPrint.append(tok.after)
+        if debug:
+            toPrint.append(tok.repr)
+        else:
+            toPrint.append(tok.val + tok.after)
     print(''.join(toPrint), file=fileHandle)
 
 afiles = sorted(os.path.join(sys.argv[1], f) for f in os.listdir(sys.argv[1]))
 bfiles = sorted(os.path.join(sys.argv[2], f) for f in os.listdir(sys.argv[2]))
 outfolder = sys.argv[3]
+debug = (len(sys.argv) > 4) and ('d' in sys.argv[4])
+
 if not os.path.exists(outfolder):
     os.makedirs(outfolder)
 
 for afile, bfile in zip(afiles, bfiles):
     atoks = tokenize(afile)
     btoks = tokenize(bfile)
-    
+
     mergeInfo = getMergeInfo(atoks, btoks)
     mergeInfo = doSpellingMerge(mergeInfo)
     mergeInfo = doCapitalizationMerge(mergeInfo)
@@ -302,4 +326,4 @@ for afile, bfile in zip(afiles, bfiles):
     
     with open(os.path.join(outfolder, os.path.basename(afile)), 'w') as fileHandle:
         if len(mergeInfo):
-            printPreserveSpacing(mergeInfo[0][0], fileHandle)
+            printPreserveSpacing(mergeInfo[0][0], fileHandle, debug)
