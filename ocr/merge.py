@@ -4,6 +4,7 @@ import sys
 import difflib
 import nltk
 import re
+import os
 from PorterStemmer import PorterStemmer
 
 class bcolors:
@@ -202,8 +203,8 @@ def doGuessMerge(mergeInfo):
     return revisedMergeInfo
     
 def getMergeInfo(atoks_full, btoks_full):
-    atoks = [t.val for t in atoks_full]
-    btoks = [t.val for t in btoks_full]
+    atoks = [t.val+t.after for t in atoks_full]
+    btoks = [t.val+t.after for t in btoks_full]
     alines = []
     blines = []
     bothlines = []
@@ -274,26 +275,31 @@ def getLineTokens(text, toks):
                 hasSpace[0] = False
         yield revisedlinetoks, [int(space) * ' ' for space in hasSpace[1:]] + ['\n']
 
-def printPreserveSpacing(toks):
+def printPreserveSpacing(toks, fileHandle):
     toPrint = []
     for tok in toks:
         toPrint.append(tok.val)
         toPrint.append(tok.after)
-    print(''.join(toPrint))
+    print(''.join(toPrint), file=fileHandle)
 
-atoks = tokenize(sys.argv[1])
-btoks = tokenize(sys.argv[2])
+afiles = sorted(os.path.join(sys.argv[1], f) for f in os.listdir(sys.argv[1]))
+bfiles = sorted(os.path.join(sys.argv[2], f) for f in os.listdir(sys.argv[2]))
+outfolder = sys.argv[3]
+if not os.path.exists(outfolder):
+    os.makedirs(outfolder)
 
-mergeInfo = getMergeInfo(atoks, btoks)
-mergeInfo = doSpellingMerge(mergeInfo)
-mergeInfo = doCapitalizationMerge(mergeInfo)
-mergeInfo = doUnigramFrequncyMerge(mergeInfo)
-mergeInfo = doExtraPunctuationMerge(mergeInfo)
-mergeInfo = doPunctuationGarbageMerge(mergeInfo)
-mergeInfo = doGuessMerge(mergeInfo)
-
-for i in mergeInfo:
-    if len(i) == 2:
-        print(i)
-
-printPreserveSpacing(mergeInfo[0][0])
+for afile, bfile in zip(afiles, bfiles):
+    atoks = tokenize(afile)
+    btoks = tokenize(bfile)
+    
+    mergeInfo = getMergeInfo(atoks, btoks)
+    mergeInfo = doSpellingMerge(mergeInfo)
+    mergeInfo = doCapitalizationMerge(mergeInfo)
+    mergeInfo = doUnigramFrequncyMerge(mergeInfo)
+    mergeInfo = doExtraPunctuationMerge(mergeInfo)
+    mergeInfo = doPunctuationGarbageMerge(mergeInfo)
+    mergeInfo = doGuessMerge(mergeInfo)
+    
+    with open(os.path.join(outfolder, os.path.basename(afile)), 'w') as fileHandle:
+        if len(mergeInfo):
+            printPreserveSpacing(mergeInfo[0][0], fileHandle)
