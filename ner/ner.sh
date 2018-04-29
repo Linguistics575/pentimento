@@ -1,2 +1,3 @@
 #!/bin/bash
-for file in ../emma_diaries/*; do "$file"; done
+cd ../stanford_ner
+./ner.sh

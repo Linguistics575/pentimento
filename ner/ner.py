@@ -1,6 +1,6 @@
-import os
-from nltk.tag import StanfordNERTagger
+import os, re
 
+'''
 st = StanfordNERTagger('../stanford_ner/classifiers/english.all.3class.distsim.crf.ser.gz',
 '../stanford_ner/stanford-ner.jar', encoding = 'utf-8')
 
@@ -39,3 +39,19 @@ for x in files:
         
     with open(os.path.join(output_dir, x), "w") as f:
         f.write("\n\n".join(output_lines))
+'''
+
+data_dir = '../ner_markup'
+output_dir = '../ner_output'
+files = os.listdir(data_dir)
+for x in files:
+    with open(os.path.join(data_dir, x), 'r') as f:
+        content = f.read()
+    content = re.sub('<PERSON>', '<persName ref="#">', content)
+    content = re.sub('</PERSON>', '</persName>', content)
+    content = re.sub('<LOCATION>', '<placeName ref="#">', content)
+    content = re.sub('</LOCATION>', '</placeName>', content)
+    content = re.sub('<ORGANIZATION>', '<orgName ref="#">', content)
+    content = re.sub('</ORGANIZATION>', '</orgName>', content)
+    with open(os.path.join(output_dir, x), 'w') as f:
+        f.write(content)
