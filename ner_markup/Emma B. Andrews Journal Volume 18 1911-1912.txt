@@ -1,26 +1,24 @@
-﻿PAGE 86
+PAGE 86
 
 Sunday, October 16. 1911.
 
-We left home by Fall River boat, and reached <ner>New</ner> <ner>York</ner> the next morning. I did some shopping that day, went to the theatre to hear an amusing play of ‘Bunty pulls the strings’ a Scotch play, given by Scotch actors, and much in vogue now. <ner>Chilton</ner> <ner>Powell</ner> dined with us and saw the play with us - and <ner>Mary</ner> <ner>Newberry</ner> and <ner>Anita</ner> were with us - both stopping at the <ner>Holland</ner> with us.
+We left home by Fall River boat, and reached <LOCATION>New York</LOCATION> the next morning.  I did some shopping that day, went to the theatre to hear an amusing play of ‘Bunty pulls the strings’ a Scotch play, given by Scotch actors, and much in vogue now.  <PERSON>Chilton Powell</PERSON> dined  with us and saw the play with us - and <PERSON>Mary Newberry</PERSON> and <PERSON>Anita</PERSON> were with us - both stopping at the <LOCATION>Holland</LOCATION> with us. 
 
-SS. Berlin. Oct. 21st.
+SS. <LOCATION>Berlin</LOCATION>. Oct. 21st.
 
-Sailed this morning for <ner>Genoa</ner> - where we will wait 15 days for our boat for Alexandria. Have my old appartment which is the Captain’s, and very commodious and comfortable, and which I occupied two years ago. We know a few of the passengers. The 4 days we passed in <ner>New</ner> <ner>York</ner> were dismal in the extreme - it rained all the time, I took a severe cold, and did not go out of the house after the first day - and had to cancel a long standing engagement to drive with the <ner>Fairfield</ner> Osborns, who had invited a lot of pleasant people to meet us. It was altogether a great piece of disappointment, that visit in <ner>New</ner> <ner>York.</ner>
+Sailed this morning for <ORGANIZATION>Genoa</ORGANIZATION> - where we will wait 15 days for our boat for <LOCATION>Alexandria</LOCATION>.  Have my old appartment which is the Captain’s, and very commodious and comfortable, and which I occupied two years ago.  We know a few of the passengers.  The 4 days we passed in <LOCATION>New York</LOCATION> were dismal in the extreme - it rained all the time, I took a severe cold, and did not go out of the house after the first day - and had to cancel a long standing engagement to drive with the <PERSON>Fairfield Osborns</PERSON>, who had invited a lot of pleasant people to meet us. It was altogether a great piece of disappointment, that visit in <LOCATION>New York</LOCATION>.
 
-<ner>Genoa</ner> - Oct. 2. Wednesday.
-
+<ORGANIZATION>Genoa</ORGANIZATION> - Oct. 2. Wednesday.
 Arrived on a cold, damp morning - came to the Hotel Miramare
 
 PAGE 87
-
-which had been recommended to us. Until we passed the Azores, we had a fairly good passage - though warm and misty - after that to <ner>Gibraltar</ner> bright weather, but tremendous rolling - slow but very disconcerting. After leaving <ner>Gibraltar</ner> we began a hustle with the Mediterranean, and we were cruelly battered about - could not make the landing at <ner>Algiers</ner> and the little mail boat that came out to us, on returning lost her Captain and one sailor. We find this hotel the most delightful one we have ever known - large airy appartments, with every luxury - perfect service - and food. My corner room is the most charming room I have ever seen - and the large sitting room next it is the same - and the string of bedrooms next the salon, made an imposing array. <ner>David</ner> <ner>Costantini</ner> arrived for a few days and <ner>Harry</ner> <ner>Burton</ner> met us at the steamer and stayed the night, going back to <ner>Florence</ner> and coming with the girls, <ner>Nettie</ner> and <ner>Mary</ner> <ner>Buttles</ner> for a week before the steamer sailed. We motored a good deal along that lovely coast, and it would have been delightful had the roads been good and the motors comfortable. We were all glad when the <ner>Prinz</ner> <ner>Heinrich</ner> arrived and took us off for <ner>Alexandria</ner> on the 18th. I was really tired of that wide view from our windows of the Miramare which stands high, but rather close to that busy port. We arrived at <ner>Alexandria</ner> on the 21st, Nov having again been cruelly buffetted by that merciless Mediterranean. Arrived in <ner>Cairo</ner> at 9:20 and were immediately installed in our old pleasant appartment, looking on the garden, which we have occupied for several years.
+which had been recommended to us.  Until we passed the <LOCATION>Azores</LOCATION>, we had a fairly good passage - though warm and misty - after that to <LOCATION>Gibraltar</LOCATION> bright weather, but tremendous rolling - slow but very disconcerting.  After leaving <LOCATION>Gibraltar</LOCATION> we began a hustle with the <LOCATION>Mediterranean</LOCATION>, and we were cruelly battered about - could not make the landing at <LOCATION>Algiers</LOCATION> and the little mail boat that came out to us, on returning lost her Captain and one sailor.  We find this hotel the most delightful one we have ever known - large airy appartments, with every luxury - perfect service - and food.  My corner room is the most charming room I have ever seen - and the large sitting room next it is the same - and the string of bedrooms next the salon, made an imposing array.  <PERSON>David Costantini</PERSON> arrived for a few days and <PERSON>Harry Burton</PERSON> met us at the steamer and stayed the night, going back to <LOCATION>Florence</LOCATION> and coming with the girls, <PERSON>Nettie</PERSON> and <PERSON>Mary Buttles</PERSON> for a week before the steamer sailed.  We motored a good deal along that lovely coast, and it would have been delightful had the roads been good and the motors comfortable.  We were all glad when the <PERSON>Prinz Heinrich</PERSON> arrived and took us off for <LOCATION>Alexandria</LOCATION> on the 18th.  I was really tired of that wide view from our windows of the Miramare which stands high, but rather close to that busy port.  We arrived at <LOCATION>Alexandria</LOCATION> on the 21st, Nov. having again been cruelly buffetted by that merciless <LOCATION>Mediterranean</LOCATION>. Arrived in <LOCATION>Cairo</LOCATION> at 9:20 and were immediately installed in our old pleasant appartment, looking on the garden, which we have occupied for several years.
 
 PAGE 88
 
 Saturday. Dec. 2nd.
 
-We came on the Beduin this afternoon to stay, and were indeed happy to take up this enchanting life again. Everything was in order, and we were soon settled. <ner>Harry</ner> left for <ner>Luxor</ner> today. We had a pleasant week in <ner>Cairo</ner> - saw many of our old friends. Judge <ner>Alston</ner> and his wife lunched with us on the boat, Capt. <ner>Trefusis</ner> and his wife lunched another day.
+We came on the Beduin this afternoon to stay, and were indeed happy to take up this enchanting life again. Everything was in order, and  we were soon settled.   <PERSON>Harry</PERSON> left  for <LOCATION>Luxor</LOCATION> today.  We had a pleasant week in <LOCATION>Cairo</LOCATION> - saw many of our old friends. Judge <PERSON>Alston</PERSON> and his wife lunched with us on the boat, Capt. <PERSON>Trefusis</PERSON> and his wife lunched another day.
 
 Sunday. Dec. 3rd.
 
@@ -28,11 +26,11 @@ A lot of people this afternoon - and we very busy with all our little settlings.
 
 Monday. Dec. 4th.
 
-Tug arrived about 9 o’clock - and were were off for the opening of the bridge at 10 - a good run of about 25 miles, and tied up about 5 o’clock.
+Tug arrived about 9 o’clock - and we were off for the opening of the bridge at 10 - a good run of about 25 miles, and tied up about 5 o’clock.
 
 Tuesday, Dec. 5th
 
-Started about 6 this morning - tied up at 5 o’clock, and are 8 miles from Benisoef. 40 miles.
+Started about 6 this morning - tied up at 5 o’clock, and are 8 miles from <LOCATION>Benisoef</LOCATION>.  40 miles.
 
 Wednesday. Dec. 6th.
 
@@ -42,234 +40,238 @@ PAGE 89
 
 Thursday. Dec. 7th.
 
-50-1/2 miles The usual start at 6 A.M. - reached <ner>Sheik</ner> <ner>Fadl</ner> at 10, where the tug stopped for coal, so that we sailed away to Minia in fine style and made it at 5 o’clock. A lovely day.
+50-1/2 miles The usual start at 6 A.M. - reached <LOCATION>Sheik Fadl</LOCATION> at 10, where the tug stopped for coal, so that we sailed away to Minia in fine style and made it at 5 o’clock.  A lovely day.
 
 Friday. Dec. 8th.
 
-50 miles Off at 6 A.M. bringing up at 5:30 P.M. at the beginning of the <ner>Abu</ner> <ner>Fed</ner> Gebel.
+50 miles Off at 6 A.M. bringing up at 5:30 P.M. at the beginning of the <PERSON>Abu Feda Gebel</PERSON>.
 
 Saturday. Dec. 9th.
 
-55 miles. Started at 6, but there was such a dense fog, that after slowly feeling our way, we stopped at 7.30 sailed until 4.30, when in a sudden turn of the river, the dahabya collided with the tug with such force, that she broke her steering gear. The men are working at it now.
+55 miles. Started at 6, but there was such a dense fog, that after slowly feeling our way, we stopped at 7:30 sailed until 4:30, when in a sudden turn of the river, the dahabya collided with the tug with such force, that she broke her steering gear. The men are working at it now.
 
 Sunday. Dec. 10th.
 
-34 miles. The men worked all night, and the tug was able to go on as usual. We landed at <ner>Asyût</ner> at 10:20, staying until 12 - and tied up at 5:30.
+34 miles. The men worked all night, and the tug was able to go on as usual.  We landed at <LOCATION>Asyût</LOCATION> at 10:20, staying until 12 - and tied up at 5:30.
 
 Monday. Dec. 11th.
 
-43 miles. The river about here is enormously wide, and the channel difficult, so we have had to proceed
+43 miles.  The river about here is enormously wide, and the channel difficult, so we have had to proceed 
+
+
+cau-
 
 PAGE 90
 
-cautiously - and are now lying at Sohag.
+tiously - and are now lying at <LOCATION>Sohag</LOCATION>.
 
 Tuesday. Dec. 12 and Wed. 13th.
 
-51 miles Reached <ner>Nag</ner> <ner>Hamadi</ner> at 7:30, just after the bridge opened, indeed we practically reached it last night. A most lovely day.
+51 miles.  Reached <PERSON>Nag Hamadi</PERSON> at 7:30, just after the bridge opened, indeed we practically reached it last night.  A most lovely day.
 
 Dec. 14th. Thursday.
 
-47 miles. We arrived this afternoon about 3:30, and came very nearly to our old tying ground. The sand bank is vast - and water very shallow. We have made our voyage in 14 days from our landing place in <ner>Cairo</ner> - but last year we took only 10 days.
+47 miles.  We arrived this afternoon about 3:30, and came very nearly to our old tying ground.  The sand bank is vast - and water very shallow.  We have made our voyage in 14 days from our landing place in <LOCATION>Cairo</LOCATION> - but last year we took only 10 days.
 
 Dec. 16th.
 
-<ner>Theo</ner> went to the <ner>Valley</ner> this afternoon to stay some days. We are busy settling.
+<PERSON>Theo</PERSON> went to the <LOCATION>Valley</LOCATION> this afternoon to stay some days.  We are busy settling.
 
 Sunday. Dec. 24th.
 
-Fourth Sunday in Advent. I have little to chronicle this week. <ner>Theo</ner> did not come until the afternoon of the 6th day of his absence - and looking so much better - and happy to be in his beloved <ner>Valley</ner> and at work once more. <ner>Harry</ner> <ner>Burton</ner> and <ner>Lancelot</ner> <ner>Crane</ner> are there and hard at work, and <ner>Theo</ner> says the little house is in fine order, cleaned, disinfected, colour washed etc. and that it is comfortable and pleasant. Mrs.
+     Fourth Sunday in Advent.     I have little to chronicle this week. <PERSON>Theo</PERSON> did not come until the afternoon of the 6th day of his absence - and looking so much better - and happy to be in his beloved <LOCATION>Valley</LOCATION> and at work once more.  <PERSON>Harry Burton</PERSON> and <PERSON>Lancelot Crane</PERSON> are there and hard at work, and <PERSON>Theo</PERSON> says the little house is in fine order, cleaned, disinfected, colour washed etc. and that it is comfortable and pleasant.  Mrs. 
 
 PAGE 91
 
-Weigall, Mr. Winlock, Mr. <ner>Carter</ner> and Mr. <ner>Lasco</ner> have been here.
+<ORGANIZATION>Weigall</ORGANIZATION>, Mr. <PERSON>Winlock</PERSON>, Mr. <PERSON>Carter</PERSON> and Mr. <PERSON>Lasco</PERSON> have been here.
 
-Sunday. Dec. 31st.
+Sunday. Dec. 31st. 
 
 First Sunday after Christmas.
 
-A quiet week. Theo in the <ner>Valley</ner> since Wednesday - but returns today. Mr. <ner>Anthony</ner> had tea with us on Friday. The girls and I have amused ourselves in many ways. The weather cold, with high winds. River falling rapidly - and the sand roof which has formed so rapidly between us and the main channel shows each day more prominently.
+A quiet week. Theo in the <LOCATION>Valley</LOCATION> since Wednesday - but returns today.  Mr. <PERSON>Anthony</PERSON> had tea with us on Friday.  The girls and I have amused ourselves in many ways.  The weather cold, with high winds.  River falling rapidly - and the sand roof which has formed so rapidly between us and the main channel shows each day more prominently.
 
-Sunday. 1st after Epiphany. Jan. 7th.
+Sunday. 1st after Epiphany.  Jan. 7th. 
 
-Mr. <ner>Maquay</ner> and Mr. <ner>Baird</ner> called on New Years Day - and the girls and I went over to the hotel for tea with Mr. <ner>Anthony.</ner> <ner>Theo</ner> went to the <ner>Valley</ner> on Wednesday. On Thursday we had a frightful gale, dust blowing everywhere. We went on Friday to the commencement exercises at the <ner>Mission</ner> <ner>School</ner> - remarkable and interesting. Nettie tremendously impressed. Mr. <ner>Carter</ner> to breakfast - and on Saturday we drove out to Mr. <ner>Carters</ner> for tea and saw his paintings. The girls had not seen his pictures for 5 years, and thought he had advanced enormously. Among them was the one I ordered last year. Three delicious little girls from the tomb of <ner>Menna</ner> in the Sheik Abu el Negga. I am delighted with them. Mr. <ner>Whymper</ner> lunched with us before we went. Theo came back from the <ner>Valley</ner> this afternoon.
+Mr. <PERSON>Mcquay</PERSON> and Mr. <PERSON>Baird</PERSON> called on New Years Day - and the girls and I went over to the hotel for tea with Mr. <PERSON>Anthony</PERSON>.  <PERSON>Theo</PERSON> went to the <LOCATION>Valley</LOCATION> on Wednesday.  On Thursday we had a frightful gale, dust blowing everywhere.   We went on Friday to the commencement exercises at the <ORGANIZATION>Mission School</ORGANIZATION> - remarkable and interesting.  <PERSON>Nettie</PERSON> tremendously impressed.  Mr. <PERSON>Carter</PERSON> to breakfast - and on Saturday we drove out to Mr. <PERSON>Carters</PERSON> for tea and saw his paintings.  The girls had not seen his pictures for 5 years, and thought he had advanced enormously.  Among them was the one I ordered last year.  Three delicious little girls from the tomb of <PERSON>Menna</PERSON> in the Sheik Abu el <LOCATION>Negga</LOCATION>.  I am delighted with them.  Mr. <PERSON>Whymper</PERSON> lunched with us before we went.  <PERSON>Theo</PERSON> came back from the <LOCATION>Valley</LOCATION> this afternoon.  
 
 PAGE 92
 
 Wednesday. Jan. 10th.
 
-We are having a very cold winter - and this morning the air was so thick the mountains could not be seen. Our little stoves have been in use almost every day lately. <ner>Harry</ner> <ner>Burton</ner> lunched with us yesterday. Theo to the <ner>Valley</ner> this afternoon to stay over Sunday.
+We are having a very cold winter - and this morning the air was so thick the mountains could not be seen.  Our little stoves have been in use almost every day lately.  <PERSON>Harry Burton</PERSON> lunched with us yesterday.  Theo to the <LOCATION>Valley</LOCATION> this afternoon to stay over Sunday.
 
 Friday. Jan. 12th.
 
-Miss <ner>Whiting</ner> and her party came to tea - and Mr. <ner>Carter</ner> happened along too, and a nice, long visit.
+Miss <PERSON>Whiting</PERSON> and her party came to tea - and Mr. <PERSON>Carter</PERSON> happened along too, and a nice, long visit.
 
 Saturday. Jan. 13th.
 
-Lady <ner>Layard</ner> and her nice nice Miss <ner>Alderson</ner> came to tea. Theo arrived while they were here, from the Valley. He has asked them to lunch with him in the bungalow in the <ner>Valley.</ner>
+Lady <PERSON>Layard</PERSON> and her nice nice Miss <PERSON>Alderson</PERSON> came to tea.  <PERSON>Theo</PERSON> arrived while they were here, from the <LOCATION>Valley</LOCATION>. He has asked them to lunch with him in the bungalow in the <LOCATION>Valley</LOCATION>.
 
 Tuesday. Jan. 16.
 
-<ner>Robert</ner> <ner>Trefusis</ner> to dinner.
+<PERSON>Robert Trefusis</PERSON> to dinner.
 
 Wednesday. Jan. 17.
 
-<ner>Mary</ner> and I called on the <ner>Adam</ner> <ner>Gordon</ner> <ner>Morris</ner> party, who have that hideous little Nitocris - a very pleasant woman was with them - a Miss <ner>Godwin</ner> of New York. We then went to see Madame Maspero, and <ner>Lady</ner> <ner>Layard</ner> who were out - and then into the <ner>Winter</ner> <ner>Palace</ner> for tea, and found the Ernest Longfellows, Mr. <ner>Whymper</ner> and <ner>Robert</ner> <ner>Trefusis</ner> and sat a long time talking.
+<PERSON>Mary</PERSON> and I called on the <PERSON>Adam Gordon Morris</PERSON> party, who have that hideous little Nitocris - a very pleasant woman was with them - a Miss <PERSON>Godwin</PERSON> of <LOCATION>New York</LOCATION>.  We then went to see <PERSON>Madame Maspero</PERSON>, and <PERSON>Lady Layard</PERSON> who were out - and then into the Winter Palace for tea, and found the <PERSON>Ernest Longfellows</PERSON>, Mr. <PERSON>Whymper</PERSON> and <PERSON>Robert Trefusis</PERSON> and sat a long time talking.  
 
 PAGE 93
 
 Saturday. Jan. 20th.
 
-Lady Layard, Miss Alderson, and I drove out to the Bungalow for lunch - a charming companion - Miss <ner>Alderson</ner> was on a donkey - Lady <ner>Layard</ner> is very much of a grand personage - but is simple and charming. Our visit was somewhat intruded upon by <ner>M.</ner> <ner>Maspero</ner> and a large party of French people - they brought their own luncheon and crockery - and were soon out of the way. A charming ride home. A jackal ran across our path and disappeared.
+Lady <PERSON>Layard</PERSON>, Miss <PERSON>Alderson</PERSON>, and I drove out to the Bungalow for lunch - a charming companion - Miss <PERSON>Alderson</PERSON> was on a donkey - Lady <PERSON>Layard</PERSON> is very much of a grand personage - but is simple and charming.  Our visit was somewhat intruded upon by <PERSON>M. Maspero</PERSON> and a large party of French people - they brought their own luncheon and crockery - and were soon out of the way.  A charming ride home.  A jackal ran across our path and disappeared.
 
 Wednesday. Jan. 24th.
 
-<ner>Theo</ner> came back from the <ner>Valley</ner> on Monday - and returned this afternoon - <ner>Nettie</ner> and <ner>Mary</ner> with <ner>Lady</ner> <ner>Layard</ner> and Miss <ner>Alderson</ner> spent the morning at <ner>Medinet</ner> <ner>Habu.</ner>
+<PERSON>Theo</PERSON> came back from the <LOCATION>Valley</LOCATION> on Monday - and returned this afternoon - <PERSON>Nettie</PERSON> and <PERSON>Mary</PERSON> with <PERSON>Lady Layard</PERSON> and Miss <PERSON>Alderson</PERSON> spent the morning at <LOCATION>Medinet Habu</LOCATION>.
 
 Sunday. Jan. 26th.
 
-I had the misfortune to break one of my teeth the other day, and had to go to <ner>Cairo</ner> to get it mended - arranged by telegram with Dr. <ner>Duprey</ner> - we, Nettie, <ner>Mary</ner> and I left <ner>Luxor</ner> on the evening on the 7 o’clock train de luxe, and reached <ner>Cairo</ner> at 8:30 A.M. the next day. They had our rooms ready for us at Shepheards. We spent the morning at <ner>Madame</ner> <ner>Céciles</ner> after clothes - at 2 <ner>P.M.</ner> <ner>Nettie</ner> went with me to the dentist for an hour, afterwards the girls went to the bazaar - crowds of Americans arrived in the afternoon at <ner>Shepheards</ner> from SS. Adriatic. The girls much amused with the show in the evening. The next morning the girls went to the Museum, and I stayed at home
+I had the misfortune to break one of my teeth the other day, and had to go to <LOCATION>Cairo</LOCATION> to get it mended - arranged by telegram with Dr. <PERSON>Duprey</PERSON> - we, <PERSON>Nettie</PERSON>, <PERSON>Mary</PERSON> and I left <LOCATION>Luxor</LOCATION> on the evening on the 7 o’clock train de luxe, and reached <LOCATION>Cairo</LOCATION> at 8:30 A.M. the next day.  They had our rooms ready for us at <LOCATION>Shepheards</LOCATION>.  We spent the morning at <LOCATION>Madame Céciles</LOCATION> after clothes - at 2 <ORGANIZATION>P.M. Nettie</ORGANIZATION> went with me to the dentist for an hour, afterwards the girls went to the bazaar - crowds of Americans arrived in the afternoon at <LOCATION>Shepheards</LOCATION> from SS. <LOCATION>Adriatic</LOCATION>.  The girls much amused with the show in the evening. The next morning the girls went to the Museum, and I stayed at home
 
 PAGE 94
-
-to welcome my dear Mrs. Perkins, who is passing through <ner>Cairo</ner> for <ner>America</ner> on her way home from India. Such a nice talk we had. In the afternoon another successful and a farewell visit to Dr. Duprey, and we left <ner>Cairo</ner> at 6:30 P.M. for Luxor. I have never been in more comfortable sleeping trains. The girls and I went to tea with <ner>Lady</ner> <ner>Layard</ner> at the <ner>Luxor</ner> Hotel, Madame Le Grain, the Marquesa Guadalmina, Mr. <ner>Whymper</ner> and ourselves.
+to welcome my dear Mrs. <PERSON>Perkins</PERSON>, who is passing through <LOCATION>Cairo</LOCATION> for <LOCATION>America</LOCATION> on her way home from <LOCATION>India</LOCATION>.  Such a nice talk we had.  In the afternoon another successful and a farewell visit to Dr. <PERSON>Duprey</PERSON>, and we left <LOCATION>Cairo</LOCATION> at 6:30 P.M. for <LOCATION>Luxor</LOCATION>.  I have never been in more comfortable sleeping trains.  The girls and I went to tea with <PERSON>Lady Layard</PERSON> at the <LOCATION>Luxor Hotel</LOCATION>, <ORGANIZATION>Madame Le Grain</ORGANIZATION>, the <LOCATION>Marquesa Guadalmina</LOCATION>, Mr. <PERSON>Whymper</PERSON> and ourselves.
 
 Monday 29.
 
-Lady Layard, Miss <ner>Alderson,</ner> <ner>Nettie</ner> and <ner>Mary</ner> went to <ner>Der</ner> <ner>el</ner> <ner>Bahri,</ner> taking lunch with them, a very hot day for such an excursion. In the afternoon M. and Mme. Maspero, with the Servian minister and Mlle. Jeannot, and Mr. <ner>Carter</ner> were here for tea, and <ner>Theo</ner> came home from the Valley.
+Lady <PERSON>Layard</PERSON>, Miss <PERSON>Alderson</PERSON>, <PERSON>Nettie</PERSON> and <PERSON>Mary</PERSON> went to <PERSON>Der el Bahri</PERSON>, taking lunch with them, a very hot day for such an excursion. In the afternoon M. and Mme. <PERSON>Maspero</PERSON>, with the Servian minister and Mlle. <PERSON>Jeannot</PERSON>, and Mr. <PERSON>Carter</PERSON> were here for tea, and <PERSON>Theo</PERSON> came home from the <LOCATION>Valley</LOCATION>.
 
 Tuesday. Jan. 30th.
 
-It has been deliciously warm for two days - that light, pure warm air that is a happiness to breathe. We were shocked to hear of the death of the Duke of Fife at <ner>Assuan</ner> - what a winter those unfortunate people have had! The girls went with <ner>Lady</ner> <ner>Laird</ner> and Miss <ner>Alderson</ner> to the <ner>Luxor</ner> Hotel. Mr. <ner>Baird</ner> and Mr. <ner>McQuay</ner> lunched with us. Young <ner>Lloyd</ner> <ner>Warren</ner> came after with letters from <ner>Joe</ner> <ner>Stevens</ner> and Mrs. Rowland. Lady <ner>Layard</ner> and Miss <ner>Alderson</ner> came to dine.
+It has been deliciously warm for two days - that light, pure warm air that is a happiness to breathe.  We were shocked to hear of the death of the Duke of Fife at <LOCATION>Assuan</LOCATION> - what a winter those unfortunate people have had!  The girls went with <PERSON>Lady Laird</PERSON> and Miss <PERSON>Alderson</PERSON> to the <LOCATION>Luxor Hotel</LOCATION>.  Mr. <PERSON>Baird</PERSON> and Mr. <PERSON>McQuay</PERSON> lunched with us.  Young <PERSON>Lloyd Warren</PERSON> came after with letters from <PERSON>Joe Stevens</PERSON> and Mrs. <PERSON>Rowland</PERSON>. Lady <PERSON>Layard</PERSON> and Miss <PERSON>Alderson</PERSON> came to dine.
 
 PAGE 95
 
 Wednesday. Jan. 31.
 
-Another beautiful hot day. Home all day, Mr. and Mrs. <ner>Glover</ner> and daughters who brought a card of introduction from Mr. <ner>Weigall</ner> had tea with us. Theo went to the Valley yesterday.
+Another beautiful hot day. Home all day, Mr. and Mrs. <PERSON>Glover</PERSON> and daughters who brought a card of introduction from Mr. <PERSON>Weigall</PERSON> had tea with us.  <PERSON>Theo</PERSON> went to the <LOCATION>Valley</LOCATION> yesterday. 
 
 February 1st. Thursday.
 
-At home all day. The girls took <ner>Lady</ner> <ner>Layard</ner> and Miss <ner>Alderson</ner> to <ner>Karnak</ner> this morning where <ner>M.</ner> <ner>Legrain</ner> devoted himself to them, and made a very pleasant visit for them. About one o’clock a violent gale and sand storm burst upon us - and it is still going on. We are deluged and covered with dust - but it has grown cooler.
+At home all day.  The girls took <PERSON>Lady Layard</PERSON> and Miss <PERSON>Alderson</PERSON> to <LOCATION>Karnak</LOCATION> this morning where <PERSON>M. Legrain</PERSON> devoted himself to them, and made a very pleasant visit for them.  About one o’clock a violent gale and sand storm burst upon us - and it is still going on.  We are deluged and covered with dust - but it has grown cooler.
 
 Friday. Feb. 2nd.
 
-A very busy morning letter writing - about noon Lady <ner>Layard</ner> and Miss <ner>Alderson</ner> came in for a farewell visit - they go to <ner>Cairo</ner> tomorrow to stay with Lord Kitchener. We saw them again this afternoon at the Maspero’s boat, where <ner>M.</ner> <ner>Maspero</ner> gave a farewell tea to a few friends. They start down the river on Monday. A lovely moonlit, quiet night - a boon indeed.
+A very busy morning letter writing - about noon Lady <PERSON>Layard</PERSON> and Miss <PERSON>Alderson</PERSON> came in for a farewell visit - they go to <LOCATION>Cairo</LOCATION> tomorrow to stay with <LOCATION>Lord Kitchener</LOCATION>.  We saw them again this afternoon at the <PERSON>Maspero</PERSON>’s boat, where <PERSON>M. Maspero</PERSON> gave a farewell tea to a few friends.  They start down the river on Monday.  A lovely moonlit, quiet night - a boon indeed. 
 
 Saturday. Feb. 3rd.
 
-<ner>Mary</ner> and I to town this morning. Met the <ner>Contessa</ner> <ner>Contardone</ner> and Mlle. Jeannot, and we went into some of the shops - such an amusing incident occurred! In the afternoon <ner>Mary</ner> and I went to make some belated calls. To the American Mission to see Mr. and Mr. <ner>Phillips,</ner>
+<PERSON>Mary</PERSON> and I to town this morning.  Met the <ORGANIZATION>Contessa Contardone</ORGANIZATION> and Mlle. <PERSON>Jeannot</PERSON>, and we went into some of the shops - such an amusing incident occurred!  In the afternoon <PERSON>Mary</PERSON> and I went to make some belated calls.  To the American Mission to see Mr. and Mrs. <PERSON>Phillips</PERSON>,
 
 PAGE 96
 
-to the Savoy to call on the <ner>Marchesa</ner> <ner>Guadelmina</ner> - and had a most pleasant visit. Then to <ner>Karnak</ner> to see Madame Legrain, and had tea there. The ‘Hyksos’ steamer came down and stopped for the night near us - she is the boat the Princess Royal and the Duke of Fife always have had. There is to be something like a memorial service in the chapel here tomorrow. The bereaved family! how sad it is.
+to the Savoy to call on the <LOCATION>Marchesa Guadelmina</LOCATION> - and had a most pleasant visit.  Then to <LOCATION>Karnak</LOCATION> to see <PERSON>Madame Legrain</PERSON>, and had tea there.  The ‘<ORGANIZATION>Hyksos</ORGANIZATION>’ steamer came down and stopped for the night near us - she is the boat the Princess Royal and the Duke of Fife always have had.  There is to be something like a memorial service in the chapel here tomorrow.  The bereaved family! how sad it is.
 
 Septuagesima Sunday - Feb. 4th.
 
-A quiet, warm day - and a delightful one. <ner>Mary</ner> and I were rowed down this afternoon to see the Nicols - but they were not at home. The <ner>Masperos</ner> left this A.M.
+A quiet, warm day - and a delightful one.  <PERSON>Mary</PERSON> and I were rowed down this afternoon to see the Nicols - but they were not at home. The <PERSON>Masperos</PERSON> left this A.M.
 
 Monday. Feb. 5th.
 
-<ner>Theo</ner> came back from the <ner>Valley</ner> this afternoon. The day has been delightfully hot.
+<PERSON>Theo</PERSON> came back from the <LOCATION>Valley</LOCATION> this afternoon.  The day has been delightfully hot.
 
 Tuesday. Feb. 6th.
 
-Another warm lovely day - and all those nights are so wonderfully beautiful with the full moon. After the <ner>Hyksos</ner> moved off this A.M. we pulled around the sand to her place - and are so quiet here. Mr. <ner>Morgan</ner> on his fine new steamer came in last night at 10 o’clock and soon after breakfast <ner>Theo</ner> and I went across to see them. They were very glad to see me. He has his nice sister Mrs. Burns, Mr. and Mrs. <ner>Lythgoe</ner> and <ner>Bishop</ner> <ner>Lawrence</ner> and his wife with him.
+Another warm lovely day - and all those nights are so wonderfully beautiful with the full moon.  After the <ORGANIZATION>Hyksos</ORGANIZATION> moved off this A.M. we pulled around the sand to her place - and are so quiet here.  Mr. <PERSON>Morgan</PERSON> on his fine new steamer came in last night at 10 o’clock and soon after breakfast <PERSON>Theo</PERSON> and I went across to see them.  They were very glad to see me.  He has his nice sister Mrs. <PERSON>Burns</PERSON>, Mr. and Mrs. <PERSON>Lythgoe</PERSON> and <PERSON>Bishop Lawrence</PERSON> and his wife with him.
 
 PAGE 97
 
 Wednesday. Feb. 7th.
 
-A really hot day - quite delightful - at home all the time. Mr. <ner>Morgan</ner> and Mrs. <ner>Burns</ner> came to lunch - and we had a very pleasant visit. Theo went to the <ner>Valley</ner> at 5 o’clock - accompanied by Jones. We had a call from Mr. <ner>Pandolfi</ner> <ner>Ralli</ner> - of <ner>London</ner> - who brought me a letter from <ner>Lady</ner> <ner>Layard</ner> saying he was an old friend of theirs - rather an interesting person.
+A really hot day - quite delightful - at home all the time.  Mr. <PERSON>Morgan</PERSON> and Mrs. <PERSON>Burns</PERSON> came to lunch - and we had a very pleasant visit. <PERSON>Theo</PERSON> went to the <LOCATION>Valley</LOCATION> at 5 o’clock - accompanied by <PERSON>Jones</PERSON>.  We had a call from Mr. <PERSON>Pandolfi Ralli</PERSON> - of <LOCATION>London</LOCATION> - who brought me a letter from <PERSON>Lady Layard</PERSON> saying he was an old friend of theirs - rather an interesting person.
 
 Thursday. Feb. 8th.
-
-<ner>Nettie</ner> and <ner>Mary</ner> went out to the <ner>Valley</ner> - taking one of the sand carts - I wrote letters and in the afternoon made some calls - very warm, but delightful.
+<PERSON>Nettie</PERSON> and <PERSON>Mary</PERSON> went out to the <LOCATION>Valley</LOCATION> - taking one of the sand carts - I wrote letters and in the afternoon made some calls - very warm, but delightful. 
 
 Friday. Feb. 9th.
 
-Another warm day - and some wind. Mr. <ner>Morgan</ner> went up at 2 o’clock.
+Another warm day - and some wind.  Mr. <PERSON>Morgan</PERSON> went up at 2 o’clock.
 
 Saturday. Feb. 10th.
 
-<ner>Mary</ner> and I went off this morning to the Mennon, but found on one at home. Mr. and Mrs. <ner>Nicol</ner> to tea - a charming day.
+<PERSON>Mary</PERSON> and I went off this morning to the <LOCATION>Mennon</LOCATION>, but found on one at home.  Mr. and Mrs. <PERSON>Nicol</PERSON> to tea - a charming day.
 
 Sexigesima Sunday, Feb. 11th.
 
-At home all day. In the afternoon Lady Molesworth, the Contessa and that nice young man, Count <ner>Luis</ner> <ner>de</ner> <ner>Cuadra,</ner> son of the Marquisa de Guadolmina, and Mr. <ner>Robert</ner> <ner>Grey</ner> called. A lovely night.
+At home all day.  In the afternoon <PERSON>Lady Molesworth</PERSON>, the Contessa and that nice young man, <PERSON>Count Luis de Cuadra</PERSON>, son of the <PERSON>Marquisa de Guadolmina</PERSON>, and Mr. <PERSON>Robert Grey</PERSON> called. A lovely night.
 
 PAGE 98
 
 Monday, Feb. 12th.
 
-Another absolutely perfect day. We went over by appointment to the Mavis to see Mr. Nicol’s pictures - two beautiful ones. One of them already sold to Mr. <ner>Barbour</ner> Lathrop. They are busy packing, as they leave on Thursday, for Palestine, where he wished to get a few weeks of painting in the desert before the hot weather. This afternoon Mr. and Mrs. <ner>Eastwick</ner> came to tea - a very pleasant visit.
+Another absolutely perfect day.  We went over by appointment to the <PERSON>Mavis</PERSON> to see Mr. <PERSON>Nicol</PERSON>’s pictures - two beautiful ones.  One of them already sold to Mr. <PERSON>Barbour Lathrop</PERSON>.  They are busy packing, as they leave on Thursday, for <LOCATION>Palestine</LOCATION>, where he wished to get a few weeks of painting in the desert before the hot weather.  This afternoon Mr. and Mrs. <PERSON>Eastwick</PERSON> came to tea - a very pleasant visit.
 
 Tuesday. Feb. 13th.
 
-Such a warm, nice day - until about 2 o’clock it grew hotter and a furious wind came up, filling the air with dust, - at 5 o’clock it was all over. The afternoon was busy. Harry here to lunch. Young Keith Murray, Mr. McDonnel, of England, sent here by <ner>Alice</ner> <ner>Wilson</ner> - Mr. and Mrs. <ner>Bauldwin</ner> (New York), Lord and Lady Carnarvon, Mr. <ner>John</ner> <ner>L.</ner> <ner>Cadwalader,</ner> <ner>Miss</ner> <ner>Ruth</ner> from <ner>N.Y.</ner> and Mrs. <ner>Markow</ner> of Philadelphia, called, followed by Mr. and Mrs. <ner>D.</ner> <ner>Merriman,</ner> of Boston, to our very great pleasure and surprise coming from the ‘Egypt’. This evening a splendid display of the Zodiacal light.
+Such a warm, nice day - until about 2 o’clock it grew hotter and a furious wind came up, filling the air with dust, - at 5 o’clock it was all over.  The afternoon was busy.  <PERSON>Harry</PERSON> here to lunch.  Young <PERSON>Keith Murray</PERSON>, Mr. <PERSON>McDonnel</PERSON>, of <LOCATION>England</LOCATION>, sent here by <PERSON>Alice Wilson</PERSON> - Mr. and Mrs. <PERSON>Bauldwin</PERSON> (<LOCATION>New York</LOCATION>), Lord and <PERSON>Lady Carnarvon</PERSON>, Mr. <PERSON>John L. Cadwalader</PERSON>, <LOCATION>Miss Ruth</LOCATION> from <LOCATION>N.Y.</LOCATION> and Mrs. <PERSON>Markow</PERSON> of <LOCATION>Philadelphia</LOCATION>, called, followed by Mr. and Mrs. <PERSON>D. Merriman</PERSON>, of <LOCATION>Boston</LOCATION>, to our very great pleasure and surprise coming from the ‘<LOCATION>Egypt</LOCATION>’.  This evening a splendid display of the Zodiacal light.
 
 Wednesday. Feb. 21st.
 
-I went over to the town this morning with Theodore - and after attending to some necessary things we walked in the garden of the Winter Palace - it was very warm and the flies were tormenting - but the hoopoes were lovely. Mr. <ner>Whymper</ner> came to lunch - and in the afternoon Mrs. <ner>Wheelright</ner> and her daughter from the <ner>Thames</ner> were here to tea. Such
+I went over to the town this morning with Theodore - and after attending to some necessary things we walked in the garden of the Winter Palace - it was very warm and the flies were tormenting - but the hoopoes were lovely.  Mr. <PERSON>Whymper</PERSON> came to lunch - and in the afternoon Mrs. <PERSON>Wheelright</PERSON> and her daughter from the <LOCATION>Thames</LOCATION> were here to tea.  Such 
 
 PAGE 99
 
-charming people. Theo went to the Valley.
+charming people.  <PERSON>Theo</PERSON> went to the <LOCATION>Valley</LOCATION>.  
 
-Thursday. Feb. 22nd.
+Thursday. Feb. 22nd. 
 
-We had the boat dressed in all its colors in honor of Washington’s birthday - and it made a very pretty sight. I have spent most of the day writing letters etc. Contessa de Contardone and <ner>M.</ner> <ner>Rodier</ner> were here for tea - a pleasant and amusing visit.
+We had the boat dressed in all its colors in honor of <LOCATION>Washington</LOCATION>’s birthday - and it made a very pretty sight.  I have spent most of the day writing letters etc.  Contessa de Contardone and <PERSON>M. Rodier</PERSON> were here for tea - a pleasant and amusing visit.
 
 Friday. March 1st.
 
-I have been greatly worried about <ner>Nettie</ner> for some days, she has seemed so unlike herself - and about a week ago we sent for Dr. <ner>Dunn</ner> - whom she did not like at all - and after the 4th visit declined seeing him again. Fortunately Mrs. <ner>Wheelright</ner> who is on the <ner>Thames</ner> near us, has a Dr. <ner>Augusta</ner> <ner>Williams</ner> with her, who is at the head of <ner>Vincent</ner> <ner>Hospital</ner> in <ner>Boston</ner> - and who offered her services at once. She brought <ner>Nettie</ner> around at once, and was so charming and cheery a person, that we all lost our hearts to her. Nettie seemed to have a touch of Drugue fever, with severe pains all over her. We have decided to go up as far as Abu Simbel. I hardly think it wise at this time of the year, but we want to see it, under its new manifestation. <ner>Harry</ner> <ner>Burton</ner> is going with us, and we have to give him Amelie’s room - and leave her behind - we will have a tug and start on the 3rd.
+I have been greatly worried about <PERSON>Nettie</PERSON> for some days, she has seemed so unlike herself - and about a week ago we sent for Dr. <PERSON>Dunn</PERSON> - whom she did not like at all - and after the 4th visit declined seeing him again.  Fortunately Mrs. <PERSON>Wheelright</PERSON> who is on the <LOCATION>Thames</LOCATION> near us, has a Dr. <PERSON>Augusta Williams</PERSON> with her, who is at the head of <ORGANIZATION>Vincent Hospital</ORGANIZATION> in <LOCATION>Boston</LOCATION> - and who offered her services at once.  She brought <PERSON>Nettie</PERSON> around at once, and was so charming and cheery a person, that we all lost our hearts to her.  <PERSON>Nettie</PERSON> seemed to have a touch of Drugue fever, with severe pains all over her.  We have decided to go up as far as <PERSON>Abu Simbel</PERSON>.  I hardly think it wise at this time of the year, but we want to see it, under its new manifestation.  <PERSON>Harry Burton</PERSON> is going with us, and we have to give him <PERSON>Amelie</PERSON>’s room - and leave her behind - we will have a tug and start on the 3rd.
 
 Wednesday. March 6th.
 
-Arrived at 10.20 this morning at <ner>Aswân</ner> - and left on the 8th
+Arrived at 10.20 this morning at <LOCATION>Aswân</LOCATION> - and left on the 8th
 
 PAGE 100
 
-arriving at <ner>Abu</ner> <ner>Simbel</ner> on the 10th day - very busy winds, and very uncomfortably warm. The sand was blowing about us - and as it was quite a walk over to the Temple, we waited for the morning to visit it, and made a call on the Newmans instead. The next morning we all, except Nettie, went up to the temple, Theo on a donkey, I carried in my chair, the rest walking. Very interesting to see the change made by taking away those mountains of engulfing sand. The morning was too delicious, the scent of the crops - the larks singing everywhere, and all that strange, wild desolate, Nubian country. Sailed away at 10 o’clock at last, turning our faces homeward - arrived back at <ner>Aswân</ner> at 5 o’clock P.M. and remained the night - the next day making 90 miles - arriving at <ner>Luxor</ner> the following day about 3 o’clock. While on the way up to Abu Simbel, I made a charming visit to Mr. and Mrs. Bird, on their desert island, which they have made to blossom like the rose. Mr. <ner>Somers-Clarke</ner> designed and built their house which has as its foundation the great granite rocks of the cataract - and which is as solid as the rocks - and so well placed and designed. The garden covers the whole island - and is most interesting and charming.
+arriving at <LOCATION>Abu Simbel</LOCATION> on the 10th day - very busy winds, and very uncomfortably warm.  The sand was blowing about us - and as it was quite a walk over to the Temple, we waited for the morning to visit it, and made a call on the <ORGANIZATION>Newmans</ORGANIZATION> instead.  The next morning we all, except <PERSON>Nettie</PERSON>, went up to the temple, <PERSON>Theo</PERSON> on a donkey, I carried in my chair, the rest walking.  Very interesting to see the change made by taking away those mountains of engulfing sand. The morning was too delicious, the scent of the crops - the larks singing everywhere, and all that strange, wild desolate, Nubian country.  Sailed away at 10 o’clock at last, turning our faces homeward - arrived back at <LOCATION>Aswân</LOCATION> at 5 o’clock P.M. and remained the night - the next day making 90 miles - arriving at <LOCATION>Luxor</LOCATION> the following day about 3 o’clock.  While on the way up to <PERSON>Abu Simbel</PERSON>, I made a charming visit to Mr. and Mrs. <PERSON>Bird</PERSON>, on their desert island, which they have made to blossom like the rose.  Mr. <PERSON>Somers-Clarke</PERSON> designed and built their house which has as its foundation the great granite rocks of the cataract - and which is as solid as the rocks - and so well placed and designed. The garden covers the whole island - and is most interesting and charming.
 
 Friday. Mar. 22nd.
 
-Had an uneventful journey down to <ner>Cairo</ner> - arrived at 3:30 - and went to our usual mooring place - the little patch of garden full of bloom.
-
+Had an uneventful journey down to <LOCATION>Cairo</LOCATION> - arrived at 3:30 - and went to our usual mooring place - the little patch of garden full of bloom.  
 PAGE 101
 
-<ner>Cairo</ner> - Tuesday. April 2nd.
+<LOCATION>Cairo</LOCATION> - Tuesday. April 2nd.
 
-We have been here 11 days - and sail tomorrow on the <ner>Prinz</ner> <ner>Heinrich</ner> for Genoa, via <ner>Corfu</ner> - Naples. It is tiresome to make this long voyage. It has been charming here - though we have been very quiet - and have done little visiting - and the last week we have been staying at the <ner>Ghezireh</ner> <ner>Palace</ner> <ner>Hotel</ner> with the usual charming rooms overlooking the <ner>Garden</ner> - Mrs. and Miss Coats are here as always - so pleasant to see from year to year. She, Mrs. Coats such a placid type of a nice old English woman. The girls have worked hard at sight seeing and visiting. <ner>Harry</ner> <ner>Burton</ner> has been with us most of the time, and is going with us to Florence. Weather not too warm.
+We have been here 11 days - and sail tomorrow on the <PERSON>Prinz Heinrich</PERSON> for <ORGANIZATION>Genoa</ORGANIZATION>, via <LOCATION>Corfu</LOCATION> - <LOCATION>Naples</LOCATION>.  It is tiresome to make this long voyage.  It has been charming here - though we have been very quiet - and have done little visiting - and the last week we have been staying at the <LOCATION>Ghezireh Palace Hotel</LOCATION> with the usual charming rooms overlooking the <LOCATION>Garden</LOCATION> - Mrs. and Miss Coats are here as always - so pleasant to see from year to year.  She, Mrs. Coats such a placid type of a nice old English woman.  The girls have worked hard at sight seeing and visiting.  <PERSON>Harry Burton</PERSON> has been with us most of the time, and is going with us to <LOCATION>Florence</LOCATION>.  Weather not too warm.
 
-Easter Monday. April 8th. 1912.
+Easter Monday.  April 8th. 1912.
 
-<ner>Genoa</ner> - we had such a tiresome voyage. It was interesting seeing <ner>Corfu</ner> again - but it added to the days. The German Emperor was there at his Castle - and 3 great German Steamships in the harbour. We reached <ner>Naples</ner> yesterday - but did not land - and here we are back in our old quarters at this best of hotels, the Mimare - which seems something like home. Tomorrow we go to Florence.
+<LOCATION>Genoa</LOCATION> - we had such a tiresome voyage.  It was interesting seeing <LOCATION>Corfu</LOCATION> again - but it added to the days.  The German Emperor was there at his Castle - and 3 great German Steamships in the harbour.  We reached <LOCATION>Naples</LOCATION> yesterday - but did not land - and here we are back in our old quarters at this best of hotels, the Mimare - which seems something like home.  Tomorrow we go to <LOCATION>Florence</LOCATION>.
 
-Florence. Tuesday. April 9th.
+<LOCATION>Florence</LOCATION>. Tuesday. April 9th.
 
-<ner>Theo</ner> and <ner>Harry</ner> elected to go by motor here - and we went by train - we expected them to arrive before we did, at 10 o’clock P.M. But we passed them near Spezia, the rain pouring in torrents - and we thought they would stop somewhere for the night. But they did not arrive
+<PERSON>Theo</PERSON> and <PERSON>Harry</PERSON> elected to go by motor here - and we went by train - we expected them to arrive before we did, at 10 o’clock P.M.  But we passed them near <LOCATION>Spezia</LOCATION>, the rain pouring in torrents - and we thought they would stop somewhere for the night.  But they did not arrive 
 
 PAGE 102
 
-until 12:30 - and <ner>Jones</ner> and I who were sitting up for them, were very anxious. They had bad roads and continuous rain. Our pleasure in being once more in Florence, was marred by an illness of Theodore’s. It began with an ulcerated tooth, which gave him extreme pain, but the dentist treated it, and we hoped it was over. <ner>Harry</ner> was every day at the hotel with us, and <ner>David</ner> <ner>Costantini</ner> was very kind and devoted - and was with us almost every day, and motored and played cards with <ner>Theodore</ner> - when the weather was good, which was seldom. We had fires every day. Pleasant visits with the Hagermeyer’s and with the Kirks - old Mrs. <ner>Kirk</ner> is very remarkable. She is 86 years old and as active mentally and physically as ever, and very intelligent. She rises very early, and works in her garden of which she is extravagantly fond, and is now amusing herself in writing a history of her life. It is a pleasure to meet her and talk to her. We spent all afternoon with them, such a pleasant old Italian house just outside <ner>Florence</ner> - we could only walk through part of it, as it was cold and windy.
+until 12:30 - and <PERSON>Jones</PERSON> and I who were sitting up for them, were very anxious.  They had bad roads and continuous rain.  Our pleasure in being once more in <LOCATION>Florence</LOCATION>, was marred by an illness of <PERSON>Theodore</PERSON>’s.  It began with an ulcerated tooth, which gave him extreme pain, but the dentist treated it, and we hoped it was over.  <PERSON>Harry</PERSON> was every day at the hotel with us, and <PERSON>David Costantini</PERSON> was very kind and devoted - and was with us almost every day, and motored and played cards with <PERSON>Theodore</PERSON> - when the weather was good, which was seldom.  We had fires every day.  Pleasant visits with the <PERSON>Hagermeyer</PERSON>’s and with the Kirks - old Mrs. <PERSON>Kirk</PERSON> is very remarkable.  She is 86 years old and as active mentally and physically as ever, and very intelligent.  She rises very early, and works in her garden of which she is extravagantly  fond, and is now amusing herself in writing a history of her life.  It is a pleasure to meet her and talk to her.  We spent all afternoon with them, such a pleasant old Italian house just outside <LOCATION>Florence</LOCATION> - we could only walk through part of it, as it was cold and windy.  
 
-I only went into one church while here because of the cold, and <ner>Nettie</ner> and I went into S. Croce, my favourite Florentine church, one morning. We were all devoted to <ner>Theo</ner> - in his wretched state - and the last day of our stay we went out to <ner>David</ner> <ner>Costantini’s</ner> beautiful house and had tea. Mrs. <ner>Costantini</ner> was in <ner>Paris</ner> - we are leaving on the 24th for <ner>Milan</ner> for 3 or 4 days - and will go from there directly to London.
+I only went into one church while here because of the cold, and <PERSON>Nettie</PERSON> and I went into <PERSON>S. Croce</PERSON>, my favourite Florentine church, one morning.  We were all devoted to <PERSON>Theo</PERSON> - in his wretched state - and the last day of our stay we went out to <PERSON>David Costantini</PERSON>’s beautiful house and had tea.  Mrs. <PERSON>Costantini</PERSON> was in <LOCATION>Paris</LOCATION> - we are leaving on the 24th for <LOCATION>Milan</LOCATION> for 3 or 4 days - and will go from there directly to <LOCATION>London</LOCATION>. 
 
 PAGE 103
 
 Sunday. April 5th.
 
-We had 5 miserable days in Milan. <ner>Theo</ner> was so suffering. We were as usual at that pleasant Cavour, and <ner>Nettie</ner> and <ner>Harry</ner> went with us to see us off to London. Theo fortunately found an excellent dentist - who came twice to see him each day. He was so brave and patient - but the treatment was very heroic, and his is much pulled down by it - quite a comfortable ride to the <ner>Calais</ner> landing, and on Tuesday afternoon at 5 o’clock we reached London, and settled ourselves in our old pleasant appartment at Bucklands.
+We had 5 miserable days in <LOCATION>Milan</LOCATION>.  <PERSON>Theo</PERSON> was so suffering.  We were as usual at that pleasant <PERSON>Cavour</PERSON>, and <PERSON>Nettie</PERSON> and <PERSON>Harry</PERSON> went with us to see us off to <LOCATION>London</LOCATION>.  Theo fortunately found an excellent dentist - who came twice to see him each day.  He was so brave and patient - but the treatment was very heroic, and he is much pulled down by it - quite a comfortable ride to the <LOCATION>Calais</LOCATION> landing, and on Tuesday afternoon at 5 o’clock we reached <LOCATION>London</LOCATION>, and settled ourselves in our old pleasant appartment at <LOCATION>Bucklands</LOCATION>.
 
 Tuesday. May 29th.
 
-We are finally off for home tomorrow, and will sail on the Kronprinzessen Cecèlia. She usually makes the voyage in 5 days but as all the boats take a long southern course, to avoid possible ice, we will not reach <ner>New</ner> <ner>York</ner> before Wednesday. Theo still does not feel quite like himself, but has improved very much. We have been very busy, visiting with our friends, shopping, etc. But above all motoring over this beautiful country, we have the same motor we had last year, and <ner>Bradford</ner> the excellent chauffeur - who verily I think knows all the roads in England. <ner>Eleanor</ner> <ner>Knagenbjelm</ner> and <ner>Alice</ner> <ner>Wilson</ner> came from <ner>Dresden</ner> the day after we got here. <ner>Alice</ner> goes home with us. <ner>Eleanor</ner> was so very kind and devoted to her uncle, played bridge interminably with him, and was so useful and kind, and a great comfort. Our greatest pleasure was going to the International Flower Show, held in <ner>Chelsea</ner> <ner>Gardens</ner> - a wonderful thing! Then we made a visit to <ner>Guildford</ner> to see
+We are finally off for home tomorrow, and will sail on the <PERSON>Kronprinzessen Cecèlia</PERSON>.  She usually makes the voyage in 5 days but as all the boats take a long southern course, to avoid possible ice, we will not reach <LOCATION>New York</LOCATION> before Wednesday.  Theo still does not feel quite like himself, but has improved very much.  We have been very busy, visiting with our friends, shopping, etc.  But above all motoring over this beautiful country, we have the same motor we had last year, and <PERSON>Bradford</PERSON> the excellent chauffeur - who verily I think knows all the roads in <LOCATION>England</LOCATION>.  <PERSON>Eleanor Knagenhjelm</PERSON> and <PERSON>Alice Wilson</PERSON> came from <LOCATION>Dresden</LOCATION> the day after we got here.  <PERSON>Alice</PERSON> goes home with us.  <PERSON>Eleanor</PERSON> was so very kind and devoted to her uncle, played bridge interminably with him, and was so useful and kind, and a great comfort.  Our greatest pleasure was going to the International Flower Show, held in <LOCATION>Chelsea Gardens</LOCATION> - a wonderful thing! Then we made a visit to <LOCATION>Guildford</LOCATION> to see
 
 PAGE 104
 
-Mr. <ner>Upton</ner> and to see his garden - and order some rock plants. There are so many all together delightful things to do in <ner>London</ner> - it would take months to see them all!
+Mr. <PERSON>Upton</PERSON> and to see his garden - and order some rock plants.  There are so many all together delightful things to do in <LOCATION>London</LOCATION> - it would take months to see them all!
+
+
+
 
 1911-1912
 
 1
+
