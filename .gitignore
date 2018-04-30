@@ -15,3 +15,5 @@ __pycache__/
 *.pyc
 
 tiff/
+
+wikipediaxmlreader/.idea/workspace.xml

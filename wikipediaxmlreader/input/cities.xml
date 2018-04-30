@@ -1,0 +1,824 @@
+<mediawiki  version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>List of ancient Egyptian towns and cities</title>
+    <ns>0</ns>
+    <id>49492880</id>
+    <revision>
+      <id>815255880</id>
+      <parentid>815255586</parentid>
+      <timestamp>2017-12-13T19:05:09Z</timestamp>
+      <contributor>
+        <username>Shellwood</username>
+        <id>2366721</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/173.163.168.213|173.163.168.213]] ([[User talk:173.163.168.213|talk]]) ([[WP:HG|HG]]) (3.1.22)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20053">[[File:Ancient Egypt map-hiero.svg|thumb|120px|right|Map of ancient Egypt with town names in hieroglyphs]]
+This is a '''list of known ancient Egyptian towns and cities'''.&lt;ref&gt;[[Nome (Egypt)]]&lt;/ref&gt;&lt;ref&gt;[http://www.ucl.ac.uk/museums-static/digitalegypt/geo/index.html List of provinces ('nomes') of ancient Egypt]. http://www.ucl.ac.uk/. Retrieved on 2016-03-05.&lt;/ref&gt;&lt;ref&gt;[http://www.reshafim.org.il/ad/egypt/geography/cities.htm Nomes, cities and sites]. http://www.reshafim.org.il/. Retrieved on 2016-03-05.&lt;/ref&gt; The list is for sites intended for permanent settlement and does not include fortresses and other locations of intermittent habitation. Use Ctrl + F and enter the town's name or alternative name for convenience.
+{| style=&quot;text-indent:0.25em;padding:0.10em;font-size:90%;line-height:1.30em;background-color:#F2F2F2;border-style:solid;border-width:1px;&quot;
+|-
+| {{Color box|#F3E5AB|border=darkgray}}  a capital of ancient Egypt
+|-
+| {{Color box|#93C572|border=darkgray}}  a capital of ancient Egypt and regional administrative center
+|-
+|'''''Thonis'''''  italicized name: only the Greek name is known
+|}
+==[[Lower Egypt]]==
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:left;&quot;
+|-
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:160px;&quot;| Town
+(Popular name)
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:160px;&quot;| In [[Egyptian hieroglyphs|hieroglyphs]]
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:100px;&quot;| Date founded
+! data-sort-type=&quot;number&quot; scope=&quot;col&quot; style=&quot;width:50px;&quot;| Nome
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:120px;&quot;| Patron deity
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:100px;&quot;| Modern name
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:180px;&quot;| Other name/s
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:240px;&quot;| Note 
+|-
+| bgcolor=&quot;93C572&quot;|'''Men-nefer''' ([[Memphis, Egypt|Memphis]])
+| &lt;hiero&gt;mn:n nfr f:r O24 niwt&lt;/hiero&gt;
+| earlier than 3000 BC 
+| 1st
+| [[Ptah]] (cult center)
+| [[Mit Rahina]]
+| &lt;small&gt;Aneb-Hetch, Djed-Sut, Ankh-Tawy, Menfe, Hut-ka-Ptah, Moph, Noph&lt;/small&gt;
+| &lt;small&gt;Capital of Egypt during the Old Kingdom; capital of its nome&lt;/small&gt;
+|-
+| '''Khem''' ([[Letopolis]])
+| &lt;hiero&gt;Aa1-O34-G17-O49&lt;/hiero&gt;
+| probably during Old Kingdom
+| 2nd
+| [[Khenty-irty]]
+| Ausim
+|
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Yamu''' ([[Yamu|Apis]])
+|  
+| probably during Old Kingdom
+| 3rd
+| [[Hathor]]
+| [[Kom el-Hisn]]
+|&lt;small&gt;Imu, Apis&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Raqote''' ([[Alexandria]])
+| &lt;hiero&gt;r:Z1:a A35 t::niwt&lt;/hiero&gt;
+| 331 BC
+| 3rd
+| [[Serapis]]
+| [[Alexandria]]
+| &lt;small&gt;Rhacotis, Rakotə, Eskendereyyah&lt;/small&gt;
+| &lt;small&gt;Alexandria was the intellectual and cultural center of the ancient world for some time; capital of the [[Ptolemaic Kingdom]]&lt;/small&gt;
+|-
+| '''Khito''' ([[Rosetta]])
+|
+|
+| 3rd
+|
+| [[Rosetta|Rashid]]
+| &lt;small&gt;Bolbitine, Bolbitinum, Bolbitinon, Trashit, Rakhit, Rexi&lt;/small&gt;
+| &lt;small&gt;Where [[Rosetta Stone]] was found&lt;/small&gt;
+|-
+| '''Ptkheka''' (Ptkheka)
+|
+|
+| 4th
+| [[Neith]]
+| [[Tanta]]
+| 
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Zau''' ([[Sais, Egypt|Sais]])
+| &lt;hiero&gt;z:G39-G1-G43-O49&lt;/hiero&gt;
+| earlier than 3000 BC
+| 5th
+| [[Neith]]  (cult center)
+| Sa el-Hagar
+|
+| &lt;small&gt;Capital of 24th and 26th Dynasties; capital of its nome&lt;/small&gt;
+|-
+| '''Per-Wadjet''' ([[Buto]])
+| &lt;hiero&gt;A18-X1:O49&lt;/hiero&gt;
+| earlier than 3000 BC
+| 5th
+| [[Wadjet]] (cult center)
+| Tell al-Fara'in
+| &lt;small&gt;Pe and Dep, Butus, Butosus&lt;/small&gt;
+| &lt;small&gt;Where Predynastic Buto-culture was found&lt;/small&gt;
+|-
+| '''Khasut''' ([[Xois]])
+|
+|
+| 6th
+| [[Amun]]
+| Sakha
+| &lt;small&gt;Xeos, Skhoo&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Timinhor''' ([[Damanhur]])
+|
+| later than 1200 BC
+| 7th
+| 
+| [[Damanhur]]
+| &lt;small&gt;Hermopolis Mikra, Tel Ballamon&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Piemro''' ([[Naucratis]])
+|
+| 7th century BC
+| 7th
+| [[Thoth]]
+| Kom Gieif
+| &lt;small&gt;Ναύκρατις&lt;/small&gt;
+| &lt;small&gt;First permanent Greek colony; major center for Greek Egyptian sea trade&lt;/small&gt;
+|-
+| '''''Thonis''''' ([[Heracleion]])
+|
+| 12th century BC
+| 7th
+| [[Amun]]
+|
+| &lt;small&gt;Ἡράκλειον&lt;/small&gt;
+| &lt;small&gt;Egypt's main port during Late Period; sister city of Naucratis&lt;/small&gt;
+|-
+| '''''Menouthis''''' ([[Menouthis]])
+|
+|
+| 7th
+| [[Isis]] and [[Serapis]]
+|
+|
+| &lt;small&gt;Sunk to the sea in 8th century AD; near Heracleion and Canopus&lt;/small&gt;
+|-
+| '''Pikuat''' ([[Canopus, Egypt|Canopus]])
+| &lt;hiero&gt;Q3:W11-Aa18-U33-X1:O49&lt;/hiero&gt;
+|
+| 7th
+| [[Osiris]]
+| [[Aboukir]]
+| &lt;small&gt;Canobus, Kanobos, Kanopos, Schedia&lt;/small&gt;
+| &lt;small&gt;Principal port in Egypt for Greek trade before the foundation of Alexandria&lt;/small&gt;
+|-
+| '''Per-Atum''' ([[Pithom]])
+| &lt;hiero&gt;O1:Z1-X1:U15-G17-X1:O49&lt;/hiero&gt;
+|
+| 8th
+| [[Atum]]
+| Tell-el-Maskhuta
+| &lt;small&gt;Tjeku, Heroöpolis, Heroonopolis&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Djedu''' ([[Busiris (Lower Egypt)|Busiris]])
+| &lt;hiero&gt;R11-R11-G43-O49&lt;/hiero&gt;
+|
+| 9th
+| [[Osiris]]
+| Abu Sir Bana
+| &lt;small&gt;Per Usiri&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Hut-hery-ib''' ([[Athribis]])
+|
+|
+| 10th
+| [[Repyt]]
+| [[Banha]]
+| &lt;small&gt;Tell Atrib, Attrib, Medeenet Ashaysh&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Taremu''' ([[Leontopolis]])
+|
+|
+| 11th
+| [[Bastet|Bast]] and [[Sekhmet]] (cult center)
+| Kafr Al Muqdam
+| &lt;small&gt;Leonto, Leontos, Tell el-Muqdam&lt;/small&gt;
+| &lt;small&gt;One of the capitals during the 23rd Dynasty; capital of its nome during Ptolemaic Period&lt;/small&gt;
+|-
+| '''Šetennu''' ([[Pharbaetus]])
+|
+| earlier than 7th century BC
+| 11th
+| Hormerty
+| Horbeit
+| &lt;small&gt;Shednu, Sheten, Pharbaethus&lt;/small&gt;
+| &lt;small&gt;Capital of its nome; one of the centers of the chiefs of the [[Meshwesh|Meshwesh Libyans]]&lt;/small&gt;
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Tjebnutjer''' ([[Sebennytos]])
+|
+|
+| 12th
+| [[Onuris]]
+| Samanud
+|
+| &lt;small&gt;Hometown of [[Manetho]]; capital of the 30th Dynasty; capital of its nome&lt;/small&gt;
+|-
+| '''Iunu''' ([[Heliopolis (Ancient Egypt)|Heliopolis]])
+| &lt;hiero&gt;iwn-nw:O49&lt;/hiero&gt;
+| earlier than 3000 BC
+| 13th
+| [[Ra]] (cult center)
+| [[Ayn Shams]]
+| &lt;small&gt;Ôn, Āwen, Ὂν&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Tjaru''' ([[Tjaru|Sile]])
+| 
+|
+| 14th
+| [[Horus]]
+| Tel el-Habua
+| &lt;small&gt;Zaru, Tharu, Djaru, Tjel, Sile, Edfu of Lower Egypt&lt;/small&gt;
+| &lt;small&gt;Largest ancient Egyptian fortress town; place of exile for criminals; capital of its nome&lt;/small&gt;
+|-
+| '''Per-Amun''' ([[Pelusium]])
+| &lt;hiero&gt;pr-i-mn:n-C12-niwt&lt;/hiero&gt;
+|
+| 14th
+| [[Amun]]
+| Tell el-Farama
+| &lt;small&gt;Sena, Seyân, Sin, Pelousion, Paramoun, Peremoun, Peromi&lt;/small&gt;
+| &lt;small&gt;Easternmost major Egyptian city; [[Battle of Pelusium (disambiguation)|Battles of Pelusium]]&lt;/small&gt;
+|-
+| '''Weprehwy''' ([[Hermopolis Parva]])
+|
+|
+| 15th
+|
+| Tell al-Naqus
+|
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Tamiat''' ([[Damietta]])
+|
+|
+| 15th
+|
+| [[Damietta]]
+| &lt;small&gt;Damiata, Domyat, Ταμίαθις, Tamiathis&lt;/small&gt;
+|
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Djedet''' ([[Mendes]])
+| &lt;hiero&gt;Dd-d:t-niwt&lt;/hiero&gt;
+| earlier than 3000 BC
+| 16th
+| [[Banebdjedet]]
+| Tell El-Ruba
+| &lt;small&gt;Per-Banebdjedet, Anpet&lt;/small&gt;
+| &lt;small&gt;Capital of the 29th Dynasty; capital of its nome&lt;/small&gt;
+|-
+| '''Semabehdet''' ([[Tell el-Balamun|Diospolis Inferior]])
+|
+|
+| 17th
+|
+| [[Tel El Balamun]]
+|
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Per-Bast''' ([[Bubastis]])
+| &lt;hiero&gt;bA-st-t:niwt&lt;/hiero&gt;
+|
+| 18th
+| [[Bastet]]  (cult center)
+| Tell-Basta
+| &lt;small&gt;Per-Bastet&lt;/small&gt;
+| &lt;small&gt;One of the capitals during the 22nd and 23rd Dynasties; capital of its nome&lt;/small&gt;
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Djanet''' ([[Tanis]])
+| &lt;hiero&gt;D:a-n:,:t*niwt&lt;/hiero&gt;
+| late New Kingdom
+| 19th
+| [[Amun]]
+| [[Tell Nebesha]]
+| &lt;small&gt;Thebes of the North, Ṣān al-Ḥagar, Zoan&lt;/small&gt;
+| &lt;small&gt;Capital of 21st and 22nd Dynasties; capital of its nome; important port for Asiatic trade; center of linen manufacture.&lt;/small&gt;
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Hut-waret''' ([[Avaris]])
+| &lt;hiero&gt;O7-t:pr-D56-t:niwt&lt;/hiero&gt;
+| during Middle Kingdom
+| 19th
+| [[Set (deity)|Set]]
+| Tell el-Dab'a
+| &lt;small&gt;Auaris, Hawara, Athyria&lt;/small&gt;
+| &lt;small&gt;Capital of 14th and 15th Dynasties&lt;/small&gt;
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Pi-Ramesses''' ([[Pi-Ramesses]])
+|
+| 1274 BC
+| 19th
+|
+| [[Qantir]]
+| &lt;small&gt;Per-Rameses, Per Ramessu&lt;/small&gt;
+| &lt;small&gt;Founded by Ramesses II; absorbed Avaris; capital of Egypt during [[Ramesses II]]'s reign&lt;/small&gt;
+|-
+| '''Per-Sopdu''' ([[Per-Sopdu]])
+|
+|
+| 20th
+| [[Amun]]
+| [[Saft el-Hinna]]
+| &lt;small&gt;Soped, Pi-Sopt&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|}
+
+==[[Upper Egypt]]==
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:left;&quot;
+|-
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:160px;&quot;| Town
+(Popular name)
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:160px;&quot;| In [[Egyptian hieroglyphs|hieroglyphs]]
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:100px;&quot;| Date founded
+! data-sort-type=&quot;number&quot; scope=&quot;col&quot; style=&quot;width:50px;&quot;| Nome
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:120px;&quot;| Patron deity
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:100px;&quot;| Modern name
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:180px;&quot;| Other name/s
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:240px;&quot;| Note
+|-
+| '''Abu''' ([[Elephantine]])
+| &lt;hiero&gt;E26-O49&lt;/hiero&gt;
+| earlier than 3000 BC
+| 1st
+| [[Khnum]] (cult center)
+| [[Aswan]]
+| &lt;small&gt;Yebu&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Swenett''' ([[Aswan]])
+| &lt;hiero&gt;s-E34:n-t:niwt&lt;/hiero&gt;
+|
+| 1st
+| Swenett
+| [[Aswan]]
+| &lt;small&gt;Syene&lt;/small&gt;
+| &lt;small&gt;Location of stone quarries for Syenite granite&lt;/small&gt;
+|-
+| '''Nubt''' ([[Kom Ombo]])
+| &lt;hiero&gt;S12:X1*O49&lt;/hiero&gt;
+| earlier than 3000 BC
+| 1st
+| [[Sobek]] (cult center)
+| [[Kom Ombo]]
+| &lt;small&gt;Omboi, Ombos, Ambo, Ombi&lt;/small&gt;
+| &lt;small&gt;Garrison throughout pharaonic history; arch-enemy of the city of Dendera&lt;/small&gt;
+|-
+| '''Behdet''' ([[Edfu]])
+| &lt;hiero&gt;F18:D46-X1:O49&lt;/hiero&gt;
+| earlier than 3000 BC
+| 2nd
+| [[Horus]] (cult center)
+| Naga el-Goneima
+| &lt;small&gt;Apollonopolis Magna, Apollinopolis Magna, Djeba, Utes-Hor&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Nekheb''' ([[El Kab]])
+|
+| earlier than 3500 BC
+| 3rd
+| [[Nekhbet]] (cult center)
+| [[El Kab]]
+| &lt;small&gt;Eileithyiaspolis, Lucinae Civitas&lt;/small&gt;
+| &lt;small&gt;Capital of its nome before Nekhen; surrounded by a massive mud brick wall&lt;/small&gt;
+|-
+| '''Nekhen''' ([[Nekhen|Hierakonpolis]])
+| &lt;hiero&gt;O47:n-niwt&lt;/hiero&gt;
+| earlier than 3000 BC
+| 3rd
+| [[Horus]] (cult center)
+| [[El Kab]]
+| &lt;small&gt;Al-Kom Al-Aħmar&lt;/small&gt;
+| &lt;small&gt;Capital of its nome after Nekheb; opposite Nekheb on the other side of the Nile&lt;/small&gt;
+|-
+| '''Ta-senet''' ([[Esna|Latopolis]])
+| &lt;hiero&gt;HD-st-N35:X1-R24-I12-O49&lt;/hiero&gt;
+| earlier than Middle Kingdom
+| 3rd
+| [[Khnum]]
+| [[Esna]]
+| &lt;small&gt;Iunyt, Polis Latton, Lato&lt;/small&gt;
+| &lt;small&gt;Capital of its nome after Nekhen&lt;/small&gt;
+|-
+| bgcolor=&quot;93C572&quot;|'''Waset''' ([[Thebes, Egypt|Thebes]])
+| &lt;hiero&gt;R19-t:niwt&lt;/hiero&gt;
+| earlier than 3000 BC
+| 4th
+| [[Amun]]  (cult center)
+| [[Luxor]]
+| &lt;small&gt;Niwt-rst, Niwt-Imn, Nōʼ ʼĀmôn, No, Iunu-shema, Diospolis Magna, Ta-pe, Hundred-gated Thebes&lt;/small&gt;
+| &lt;small&gt;Capital of Egypt during most of Middle Kingdom and New Kingdom; capital of its nome; foremost religious center&lt;/small&gt;
+|-
+| '''Per-Hathor''' ([[Gebelein|Aphroditopolis]])
+| &lt;hiero&gt;O1:Z1-O10-O49&lt;/hiero&gt;
+| earlier than 3000 BC
+| 4th
+| [[Hathor]]
+| [[Gebelein]]
+| &lt;small&gt;Inerty, Pathyris, Naga el-Gherira&lt;/small&gt;
+|
+|-
+| '''Iuny''' ([[Hermonthis]])
+| &lt;hiero&gt;O28-N35-M17-O49&lt;/hiero&gt;
+|
+| 4th
+| [[Montu]] (cult center)
+| Armant
+| &lt;small&gt;Erment, Iunu-Montu&lt;/small&gt;
+| &lt;small&gt;Capital of its nome during [[Cleopatra VII]]&lt;/small&gt;
+|-
+| '''Sumenu''' ([[Sumenu|Crocodilopolis]])
+| 
+| earlier than Middle Kingdom
+| 4th
+| [[Sobek]] (cult center)
+| el-Mahamid Qibly
+| &lt;small&gt;Imiotru&lt;/small&gt;
+| &lt;small&gt;Different from [[Faiyum|Shedet]] (also called Crocodilopolis)&lt;/small&gt;
+|-
+| '''Djerty''' ([[El-Tod]])
+|
+| during Old Kingdom
+| 4th
+| [[Montu]]
+| [[El-Tod]]
+| &lt;small&gt;Ḏrty, Touphion, Tuphium, Thouôt, Tuot&lt;/small&gt;
+|
+|-
+| '''Madu''' ([[Medamud]])
+|
+|
+| 4th
+| [[Montu]]
+| [[Medamud]]
+|
+|
+|-
+| '''Nubt''' ([[Naqada]])
+| &lt;hiero&gt;S12:X1*O49&lt;/hiero&gt;
+| earlier than 3500 BC
+| 5th
+| [[Set (deity)|Set]] (cult center)
+| [[Naqada]]
+| &lt;small&gt;Ombos, South Town&lt;/small&gt;
+| &lt;small&gt;Where the Pre-dynastic Naqada culture was found&lt;/small&gt;
+|-
+| '''Iushenshen''' ([[Iushenshen]])
+|
+| earlier than 3000 BC
+| 5th
+|
+| Khozam
+|
+| &lt;small&gt;Capital of its nome during Old Kingdom&lt;/small&gt;
+|-
+| '''Gesy''' ([[Qus]])
+|
+|
+| 5th
+| [[Horus]]
+| [[Qus]]
+| &lt;small&gt;Gesa, Apollonopolis Parva, Apollinopolis Mikra, Apollonos minoris&lt;/small&gt;
+| &lt;small&gt;A point of departure for expeditions to the Red Sea&lt;/small&gt;
+|-
+| '''Gebtu''' ([[Qift|Koptos]])
+| &lt;hiero&gt;V33-D58-G4-O49&lt;/hiero&gt;
+|
+| 5th
+| [[Min (god)|Min]] (cult center)
+| [[Qift]]
+| &lt;small&gt;Kebto, Keft, Justinianopolis&lt;/small&gt;
+| &lt;small&gt;Capital of its nome; commercial center for the Upper Egyptian Red Sea trade through [[Wadi Hammamat]]&lt;/small&gt;
+|-
+| '''Iunet''' ([[Dendera]])
+| &lt;hiero&gt;O1:Z1-G25-Aa1:X1-E1-X1:O49&lt;/hiero&gt;
+|
+| 6th
+| [[Hathor]] (cult center)
+| [[Dendera]]
+| &lt;small&gt;Tentyra, Tentyris, Nikentori, Nitentori&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Seshesh''' ([[Hu, Egypt|Hu]])
+|
+|
+| 7th
+| Bat, then [[Hathor]]
+| [[Hu, Egypt|Hu]]
+| &lt;small&gt;Diospolis Parva, Diospolis Superior, Hut-Sekhem, Hiw&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Abdju''' ([[Abydos, Egypt|Abydos]])
+| &lt;hiero&gt;Ab-b-Dw:O49&lt;/hiero&gt;
+| earlier than 3000 BC
+| 8th
+| Khentiamentiu, then [[Osiris]]  (cult center) and [[Isis]]
+| al-Birba
+| &lt;small&gt;Osiris&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Tjenu''' ([[Thinis]])
+| &lt;hiero&gt;V13:N35-T14-M17-O49&lt;/hiero&gt;
+| earlier than 4000 BC
+| 8th
+| [[Anhur]]
+|
+| &lt;small&gt;This&lt;/small&gt;
+| &lt;small&gt;Capital of the 1st and 2nd Dynasties; still unlocated&lt;/small&gt;
+|-
+| '''Ipu''' ([[Akhmim]])
+| &lt;hiero&gt;M17-Q3-G43-O49&lt;/hiero&gt;
+|
+| 9th
+| [[Min (god)|Min]] (cult center)
+| [[Akhmim]]
+| &lt;small&gt;Apu, Khent-min, Khmin, Shmin, Khemmis, Chemmis, Panopolis&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Hut-Repyt''' ([[Athribis (Upper Egypt)|Athribis]])
+|
+|
+| 9th
+| [[Repyt]]
+| Wannina
+| &lt;small&gt;Triphieion, Tripheion&lt;/small&gt;
+| &lt;small&gt;Distinct from Hut-hery-ib (Athribis)&lt;/small&gt;
+|-
+| '''Tjebu''' ([[Tjebu|Qau]])
+|
+|
+| 10th
+| [[Anti (mythology)|Nemty]] (cult center)
+| [[Tjebu|Qaw el-Kebir]]
+| &lt;small&gt;Djew-Qa, Antaeopolis&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Shashotep''' ([[Hypselis]])
+|
+|
+| 11th
+| [[Khnum]]
+| Shutb
+| &lt;small&gt;Apotheke&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Per-Nemty''' (Per-Nemty)
+|
+|
+| 12th
+| [[Anti (mythology)|Nemty]]
+| al Atawla
+| &lt;small&gt;Hierakon&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Zawty''' ([[Asyut]])
+| &lt;hiero&gt;O34:G39 w t:O49&lt;/hiero&gt;
+|
+| 13th
+| [[Anubis]] (cult center), [[Wepwawet]] (cult center)
+| [[Asyut]]
+| &lt;small&gt;Sauty, Syut, Syowt, Lycopolis, Lycon, Lyco&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Qis''' ([[Cusae]])
+| &lt;hiero&gt;N29-M17-S29-O49&lt;/hiero&gt;
+|
+| 14th
+| [[Hathor]]
+| el-Qusiya
+| &lt;small&gt;Kis, Kusai&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Akhetaten''' ([[Amarna]])
+| &lt;hiero&gt;N27-i-t:n-N5:O49&lt;/hiero&gt;
+| around 1346 BC
+| 14th
+| [[Aten]] (cult center)
+| Tell el-Amarna
+|
+| &lt;small&gt;Capital of Egypt during [[Akhenaten]]'s reign&lt;/small&gt;
+|-
+|'''Khmun''' ([[Hermopolis|Hermopolis Magna]])
+| &lt;hiero&gt;Z1:Z1-Z1:Z1-Z1:Z1-Z1:Z1-W24:O49&lt;/hiero&gt;
+|
+| 15th
+| [[Thoth]] (cult center), [[Ogdoad (Egyptian)|Ogdoad]]
+| El Ashmunein
+| &lt;small&gt;Hermopolis Megale, Hermupolis&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Herwer''' ([[Herwer]])
+| &lt;hiero&gt;D2:D21-Z7-Aa19-N31:D21-O49&lt;/hiero&gt;
+| 
+| 16th
+| [[Khnum]] and [[Heqet]]
+| Hur
+|
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Hebenu''' ([[Hebenu]])
+| &lt;hiero&gt;V28-D58-N35:W24*Z7-D40:O49&lt;/hiero&gt;
+| 
+| 16th
+|
+| Kom el Ahmar
+|
+| &lt;small&gt;Capital of its nome before Herwer&lt;/small&gt;
+|-
+| '''Per-Imen-mat-khent(j)''' ([[Akoris, Egypt|Akoris]])
+|
+| earlier than Old Kingdom
+| 16th
+|
+| Tihna el-Gebel
+| &lt;small&gt;Mer-nefer(et), Dehenet&lt;/small&gt;
+| 
+|-
+| '''Saka''' ([[Cynopolis]])
+|
+|
+| 17th
+| [[Anubis]] (cult center)
+| El Kays
+| &lt;small&gt;Hardai, Cynopolis Superior&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Tayu-djayet''' ([[El Hiba]])
+| &lt;hiero&gt;t-A-i-i-w-DA-i-i-t:niwt&lt;/hiero&gt;
+|
+| 18th
+|
+| [[El Hiba]]
+| &lt;small&gt;Teudjoi, Ankyronpolis&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Per-Medjed''' ([[Oxyrhynchus]])
+|
+|
+| 19th
+|
+| el-Bahnasa
+| &lt;small&gt;Pemdje, Oxyrrhynkhoupolis&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| bgcolor=&quot;F3E5AB&quot;|'''Henen-nesut''' ([[Herakleopolis Magna]])
+| &lt;hiero&gt;M23-A17-A17-A17-X1:O49&lt;/hiero&gt;
+| earlier than 3000 BC
+| 20th
+| [[Heryshaf]] (cult center)
+| Ihnasiyyah al-Madinah
+| &lt;small&gt;Nenj-neswt, Ehnasya, Hnas, Ahnas&lt;/small&gt;
+| &lt;small&gt;Capital of the 9th and 10th Dynasties; capital of its nome&lt;/small&gt;
+|-
+| '''Shedet''' ([[Faiyum|Crocodilopolis]])
+| &lt;hiero&gt;F30:D46-X1:O49&lt;/hiero&gt;
+|
+| 21st
+| [[Sobek]] (cult center)
+| [[Faiyum]]
+| &lt;small&gt;Arsinoë, Fayoum, She-resy&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|-
+| '''Tepihu''' ([[Atfih|Aphroditopolis]])
+| &lt;hiero&gt;t:p-I10-h-w-O49&lt;/hiero&gt;
+|
+| 22nd
+| [[Hathor]] (cult center during Greek period)
+| [[Atfih]]
+| &lt;small&gt;Petpeh&lt;/small&gt;
+| &lt;small&gt;Capital of its nome&lt;/small&gt;
+|}
+
+==[[Nubia]]==
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:left;&quot;
+|-
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:160px;&quot;| Town
+(Popular name)
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:160px;&quot;| In [[Egyptian hieroglyphs|hieroglyphs]]
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:100px;&quot;| Date founded
+! data-sort-type=&quot;number&quot; scope=&quot;col&quot; style=&quot;width:50px;&quot;| Nome
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:120px;&quot;| Patron deity
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:100px;&quot;| Modern name
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:180px;&quot;| Other name/s
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:240px;&quot;| Note 
+|-
+| '''Chenem-Waset''' ([[Amara, Nubia|Amara West]])
+|
+| During [[Seti I]]'s reign
+| none
+|
+| [[Amara, Nubia]]
+| &lt;small&gt;Per-Menmaatre, Per-Rameses-meri-Amun&lt;/small&gt;
+| &lt;small&gt;Official residence of the representative of Kush&lt;/small&gt;
+|-
+| '''Iken''' ([[Mirgissa]])
+| &lt;hiero&gt;M17-A2-q:n-N25&lt;/hiero&gt;
+| earlier than 4500 BC
+| none
+| [[Hathor]]
+|
+|
+| &lt;small&gt;Fortress town; now submerged in [[Lake Nasser]]&lt;/small&gt;
+|-
+| '''Buhen''' ([[Buhen]])
+| &lt;hiero&gt;D58-O4-N35:N25&lt;/hiero&gt;
+| earlier than 3000 BC
+| none
+|
+| [[Buhen]]
+|
+| &lt;small&gt;Largest fortress town in Nubia; housed a copper factory&lt;/small&gt;
+|}
+
+==[[Red Sea|Red Sea Coast]]==
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:left;&quot;
+|-
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:160px;&quot;| Town
+(Popular name)
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:160px;&quot;| In [[Egyptian hieroglyphs|hieroglyphs]]
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:100px;&quot;| Date founded
+! data-sort-type=&quot;number&quot; scope=&quot;col&quot; style=&quot;width:50px;&quot;| Nome
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:120px;&quot;| Patron deity
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:100px;&quot;| Modern name
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:180px;&quot;| Other name/s
+! data-sort-type=&quot;letter&quot; scope=&quot;col&quot; style=&quot;width:240px;&quot;| Note 
+|-
+| '''''Berenice''''' ([[Berenice Troglodytica|Berenice]])
+|
+| 275 BC
+| none
+|
+| Medinet-el Haras
+| &lt;small&gt;Berenike, Berenice Troglodytica, Baranis&lt;/small&gt;
+| &lt;small&gt;Founded by [[Ptolemy II]]; named after his mother, [[Berenice I of Egypt]]&lt;/small&gt;
+|-
+| '''''Leucus Limen''''' ([[Al-Qusayr, Egypt|Quseir]]) 
+|
+| earlier than New Kingdom
+| none
+|
+| [[Al-Qusayr, Egypt]]
+| &lt;small&gt;Kosseir, Al Qusair, El Quseir, Qusseir, Qosseir&lt;/small&gt;
+| &lt;small&gt;Important trading port during pharaonic times, where goods from Red Sea and beyond entered Egypt&lt;/small&gt;
+|}
+
+==References==
+{{reflist|30em}}
+
+{{Ancient Egypt topics}}
+{{Portal bar|Ancient Egypt}}
+
+[[Category:Archaeological sites in Egypt| List]]
+[[Category:Ancient Egypt-related lists|Sites, List of Ancient Egyptian]]
+[[Category:Cities in Ancient Egypt| List]]
+[[Category:Ancient Egypt|*]]</text>
+      <sha1>amve0hjoe6da7xeaky6b18cgomr567e</sha1>
+    </revision>
+  </page>
+</mediawiki>
