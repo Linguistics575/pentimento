@@ -8,7 +8,8 @@ import dateutil.parser as DateParser
 def main(argv):
     # DEFAULT VALUES
     parse_dates_enabled = True
-    input_file_name = "input.txt"
+    #input_file_name = "input.txt"
+    input_file_name = "input_no_ner.txt"
     tei_header_file_name = "teiheader.xml"
     output_file_name = "output.xml"
 
@@ -71,7 +72,7 @@ def main(argv):
                     current_div_empty = False
                 except ValueError:
                     line_element = ET.SubElement(current_div, "p")
-                    line_element.text = line
+                    line_element.text = scan_paragraph_for_dates(line)
                     current_div_empty = False
             else:
                 line_element = ET.SubElement(body_root, "p")
@@ -83,6 +84,65 @@ def main(argv):
     # write to output file
     with open(output_file_name, "w") as f:
         f.write(pretty_xml_str)
+
+
+def scan_paragraph_for_dates(paragraph):
+    parsed_dates_dic = {}
+    words = paragraph.split(" ")
+    for window in [6, 5, 4, 3, 2]:
+        for index in range(len(words) - window + 1):
+            substring = " ".join(words[index:index+window])
+            parsed_date = is_date(substring)
+            if parsed_date and validate_date_components(substring):
+                is_new_Date = True
+                for previous_date in parsed_dates_dic:
+                    if substring.strip() in previous_date.strip():
+                        is_new_Date = False
+                        break
+
+                if is_new_Date:
+                    parsed_dates_dic[substring] = parsed_date
+
+    for parsed_date in parsed_dates_dic:
+        date_element = "<date When=\"" + parsed_dates_dic[parsed_date].__str__() + "\">" + parsed_date + "</date>"
+        paragraph = paragraph.replace(parsed_date, date_element)
+
+    return paragraph
+
+
+def is_date(x):
+    try:
+        parsed_date = DateParser.parse(x)
+        return parsed_date
+    except ValueError:
+        return None
+
+
+def validate_date_components(string):
+    ref_date1 = DateParser.parse("April 8th. 1912.")
+    ref_date2 = DateParser.parse("May 9th. 1913.")
+
+    trail_1 = DateParser.parse(string.__str__(), default=ref_date1)
+    trail_2 = DateParser.parse(string.__str__(), default=ref_date2)
+
+    is_orig_year = True
+    is_orig_month = True
+    is_orig_day = True
+
+    if trail_1.year == ref_date1.year and trail_2.year == ref_date2.year:
+        is_orig_year = False
+
+    if trail_1.month == ref_date1.month and trail_2.month == ref_date2.month:
+        is_orig_month = False
+
+    if trail_1.day == ref_date1.day and trail_2.day == ref_date2.day:
+        is_orig_day = False
+
+    if is_orig_year and is_orig_month and is_orig_day:
+        return True
+    if is_orig_month and is_orig_day:
+        return True
+    return False
 
 if __name__ == "__main__":
     main(sys.argv[1:])

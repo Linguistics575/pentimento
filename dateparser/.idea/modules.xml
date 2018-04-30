@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../dateparser/.idea/dataparser.iml" filepath="$PROJECT_DIR$/../dateparser/.idea/dataparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dataparser.iml" filepath="$PROJECT_DIR$/.idea/dataparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dateparser.iml" filepath="$PROJECT_DIR$/.idea/dateparser.iml" />
     </modules>
   </component>
 </project>
