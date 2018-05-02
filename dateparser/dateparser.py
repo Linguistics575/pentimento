@@ -7,9 +7,12 @@ from datetime import *
 import subprocess
 import os
 from dateutil import parser
+import xml.etree.cElementTree as ET
+import xml.dom.minidom as Minidom
+
 
 def main():
-    input = "Easter Monday.  April 8th. 2002 .  SS. Berlin. Oct. 21st."
+    input = "eslam Monday.  April 8th. 2002 .  SS. Berlin. April 8th. 2003 ashraf"
     input2 = "Sailed this morning for Genoa - where we will wait 15 " \
              "days for our boat for Alexandria.  Have my old appartment which is the" \
              " Captain’s, and very commodious and comfortable, and which I occupied two years ago." \
@@ -19,8 +22,14 @@ def main():
              " had invited a lot of pleasant people to meet us. It was altogether a great piece of disappointment," \
              " that visit in New York."
 
-    parsed_paragraph = scan_paragraph_for_dates(input2)
-    print(parsed_paragraph)
+    tei_root = ET.Element("TEI")
+
+    scan_paragraph_for_dates(input, tei_root)
+
+    # tei_root.text = parsed_paragraph
+    pretty_xml_str = Minidom.parseString(ET.tostring(tei_root)).toprettyxml(indent="   ")
+
+    print(pretty_xml_str)
     # x = parser.parse("Hi", fuzzy=True)
     #isdate, parsed_date = is_date(input)
 
@@ -35,7 +44,7 @@ def main():
     # print(datetime.now().day)
     # print(datetime.now().hour)
 
-def scan_paragraph_for_dates(paragraph):
+def scan_paragraph_for_dates(paragraph, parent):
     parsed_dates_dic = {}
     words = paragraph.split(" ")
     for window in [6, 5, 4, 3, 2]:
@@ -52,11 +61,28 @@ def scan_paragraph_for_dates(paragraph):
                 if is_new_Date:
                     parsed_dates_dic[substring] = parsed_date
 
+    first_child = True
+    last_child_date = None
     for parsed_date in parsed_dates_dic:
-        date_element = "<date When=\"" + parsed_dates_dic[parsed_date].__str__() + "\">" + parsed_date + "</date>"
-        paragraph = paragraph.replace(parsed_date, date_element)
+        index = paragraph.find(parsed_date)
+        part1 = paragraph[:index]
+        paragraph = paragraph[index+len(parsed_date):]
 
-    return paragraph
+        if first_child:
+            first_child = False
+            parent.text = part1
+        else:
+            last_child_date.tail = part1
+
+        date_element = ET.SubElement(parent, "date")
+        date_element.text = parsed_date
+        date_element.set("When", parsed_dates_dic[parsed_date].__str__())
+
+        last_child_date = date_element
+
+    if last_child_date is not None:
+        last_child_date.tail = paragraph
+
 
 def validate_date_components(string):
     ref_date1 = parse("April 8th. 1912.")

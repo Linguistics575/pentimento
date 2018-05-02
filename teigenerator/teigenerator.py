@@ -72,7 +72,7 @@ def main(argv):
                     current_div_empty = False
                 except ValueError:
                     line_element = ET.SubElement(current_div, "p")
-                    line_element.text = scan_paragraph_for_dates(line)
+                    scan_paragraph_for_dates(line, line_element)
                     current_div_empty = False
             else:
                 line_element = ET.SubElement(body_root, "p")
@@ -86,7 +86,7 @@ def main(argv):
         f.write(pretty_xml_str)
 
 
-def scan_paragraph_for_dates(paragraph):
+def scan_paragraph_for_dates(paragraph, parent):
     parsed_dates_dic = {}
     words = paragraph.split(" ")
     for window in [6, 5, 4, 3, 2]:
@@ -103,11 +103,30 @@ def scan_paragraph_for_dates(paragraph):
                 if is_new_Date:
                     parsed_dates_dic[substring] = parsed_date
 
-    for parsed_date in parsed_dates_dic:
-        date_element = "<date When=\"" + parsed_dates_dic[parsed_date].__str__() + "\">" + parsed_date + "</date>"
-        paragraph = paragraph.replace(parsed_date, date_element)
+    if not parsed_dates_dic:
+        parent.text = paragraph
 
-    return paragraph
+    first_child = True
+    last_child_date = None
+    for parsed_date in parsed_dates_dic:
+        index = paragraph.find(parsed_date)
+        part1 = paragraph[:index]
+        paragraph = paragraph[index+len(parsed_date):]
+
+        if first_child:
+            first_child = False
+            parent.text = part1
+        else:
+            last_child_date.tail = part1
+
+        date_element = ET.SubElement(parent, "date")
+        date_element.text = parsed_date
+        date_element.set("When", parsed_dates_dic[parsed_date].__str__())
+
+        last_child_date = date_element
+
+    if last_child_date is not None:
+        last_child_date.tail = paragraph
 
 
 def is_date(x):
