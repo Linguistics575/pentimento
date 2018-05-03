@@ -72,7 +72,12 @@ def main(argv):
                     current_div_empty = False
                 except ValueError:
                     line_element = ET.SubElement(current_div, "p")
-                    scan_paragraph_for_dates(line, line_element)
+
+                    if istitle(line):
+                        title_element = ET.SubElement(line_element, "title")
+                        scan_paragraph_for_dates(line, title_element)
+                    else:
+                        scan_paragraph_for_dates(line, line_element)
                     current_div_empty = False
             else:
                 line_element = ET.SubElement(body_root, "p")
@@ -84,6 +89,13 @@ def main(argv):
     # write to output file
     with open(output_file_name, "w") as f:
         f.write(pretty_xml_str)
+
+
+def istitle(line):
+    for word in line.split():
+        if not word[0].isupper() and not word[0].isnumeric():
+            return False
+    return True
 
 
 def scan_paragraph_for_dates(paragraph, parent):

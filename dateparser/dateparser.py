@@ -30,6 +30,8 @@ def main():
     pretty_xml_str = Minidom.parseString(ET.tostring(tei_root)).toprettyxml(indent="   ")
 
     print(pretty_xml_str)
+    str1 = "SS. Berlin. Oct."
+    print(str1.istitle())
     # x = parser.parse("Hi", fuzzy=True)
     #isdate, parsed_date = is_date(input)
 
