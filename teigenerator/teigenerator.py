@@ -5,6 +5,8 @@ import xml.etree.cElementTree as ET
 import xml.dom.minidom as Minidom
 import dateutil.parser as DateParser
 
+REFYEAR = None
+
 def main(argv):
     # DEFAULT VALUES
     parse_dates_enabled = True
@@ -58,8 +60,9 @@ def main(argv):
                 current_div.set("type", "Entry")
                 current_div_empty = True
             elif parse_dates_enabled:
-                try:
-                    parsed_date = DateParser.parse(line.strip())
+
+                parsed_date = is_date(line.strip())
+                if parsed_date is not None:
                     if not current_div_empty:
                         current_div = ET.SubElement(body_root, "div")
                         current_div.set("xml:id", "EBAYYYYMMDD")
@@ -70,7 +73,7 @@ def main(argv):
                     date_element.text = line
                     date_element.set("When", parsed_date.__str__())
                     current_div_empty = False
-                except ValueError:
+                else:
                     line_element = ET.SubElement(current_div, "p")
 
                     if istitle(line):
@@ -105,7 +108,7 @@ def scan_paragraph_for_dates(paragraph, parent):
         for index in range(len(words) - window + 1):
             substring = " ".join(words[index:index+window])
             parsed_date = is_date(substring)
-            if parsed_date and validate_date_components(substring):
+            if parsed_date:
                 is_new_Date = True
                 for previous_date in parsed_dates_dic:
                     if substring.strip() in previous_date.strip():
@@ -143,15 +146,15 @@ def scan_paragraph_for_dates(paragraph, parent):
 
 def is_date(x):
     try:
-        parsed_date = DateParser.parse(x)
-        return parsed_date
+        return parse_date(x)
     except ValueError:
         return None
 
 
-def validate_date_components(string):
-    ref_date1 = DateParser.parse("April 8th. 1912.")
-    ref_date2 = DateParser.parse("May 9th. 1913.")
+def parse_date(string):
+    global REFYEAR
+    ref_date1 = DateParser.parse("April 8th. 1100.")
+    ref_date2 = DateParser.parse("May 9th. 1101.")
 
     trail_1 = DateParser.parse(string.__str__(), default=ref_date1)
     trail_2 = DateParser.parse(string.__str__(), default=ref_date2)
@@ -170,10 +173,15 @@ def validate_date_components(string):
         is_orig_day = False
 
     if is_orig_year and is_orig_month and is_orig_day:
-        return True
+        REFYEAR = str(trail_1.year)
+        return DateParser.parse(string)
     if is_orig_month and is_orig_day:
-        return True
-    return False
+        if REFYEAR is not None:
+            default = DateParser.parse(REFYEAR)
+            return DateParser.parse(string, default=default)
+        else:
+            return DateParser.parse(string)
+
 
 if __name__ == "__main__":
     main(sys.argv[1:])
