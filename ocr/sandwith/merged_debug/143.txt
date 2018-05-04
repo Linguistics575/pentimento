@@ -1,7 +1,9 @@
-[93m̶I̶n̶t̶x̶o̶r[0m[93m̶-̶-[0m[93m̶A̶s̶s̶o̶u̶a̶n[0m[94mLuaor-Awouart[0m. 127
+[93m̶I̶n̶t̶x̶o̶r[0m[93m̶-̶-[0m[93m̶A̶s̶s̶o̶u̶a̶n[0m[91mLuaor-Awouart[0m. 127
+
 moisture only reached 60, while the minimum fell
 to 21 per cent.
-Ruin is indeed rare at Luxor, for there was none
+
+[91m̶R̶a̶i̶n̶ [0m[91mRuin [0mis indeed rare at Luxor, for there was none
 in November and December, 1881, and this is by
 no means unusual. In January, 1882, there was
 none; but in 1878 there was one shower, and
@@ -9,13 +11,17 @@ another in [93m̶J̶ [0m[93m̶a̶n̶u̶a̶r̶y̶ [0m[94mJanuary [0m1888. I
 February, 1878, there was a shower, another in
 1882, again in 1887, and three minutes' rain was
 recorded by Dr. Boase in 1888.
+
 In 1878, 1882, and 1888, no rain was noted in
 March. There would thus seem to be only two or
-three days in the year when rain falls at Luxor.
-Thunder and lightning are rarer still.
+three days in the year when rain falls at Luxor[91m̶,̶
+[0m[91m.
+[0mThunder and lightning are rarer still.
+
 The amount of cloud is very little in the year,
 but the sky was noted as being completely [93m̶o̶v̶e̶r̶e̶a̶s̶t̶ [0m[94movercast [0mfour times in [93m̶J̶ [0m[93m̶a̶n̶u̶a̶r̶y[0m[94mJanuary[0m, once in February, and
 three times in March.
+
 The amount [93m̶o̶f̶ [0m[93m̶0̶.̶2̶0̶1̶2̶0̶ [0m[94m0 [0m[94mozone [0mwas estimated by [93m̶n̶o̶t̶i̶n̶g[0m[93m̶,̶
 [0m[94mnoting
 [0mthe depth of the staining produced in a piece of
@@ -28,5 +34,9 @@ temperature not great, the largest amounts of [93m̶0̶f̶5̶0̶1̶1̶0̶
 [0m[94mozone
 [0mwere present, while little ozone was indicated with
 a low barometer on a hot day.
+
 The [93m̶u̶'̶i̶n̶d[0m[93m̶’[0m[93m̶s̶ [0m[94mwind[0m[94m's [0mmaximum force was 4 in January,
+
+
+
 

@@ -16,14 +16,15 @@ class bcolors:
     ENDC = '\033[0m'
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
-    #todo: print in colors, to display when we have errors
-    #print(bcolors.WARNING + "Warning: No active frommets remain. Continue?" + bcolors.ENDC)
 
 def blue(text):
     return bcolors.OKBLUE + text + bcolors.ENDC
 
 def yellow(text):
     return bcolors.WARNING + text + bcolors.ENDC
+
+def red(text):
+    return bcolors.FAIL + text + bcolors.ENDC
 
 def strike(text):
     result = ''
@@ -47,20 +48,33 @@ def tokenize(filename):
     for line, afters in getLineTokens(text, tokstrs):
         if len(line) == 0 and len(tokens):
             tokens[-1].after += '\n'
+            tokens[-1].repr += '\n'
         for tok,after in zip(line, afters):
             tokens.append(Token(tok, after, filename))
     return tokens
+
+def markNonWords(seq):
+    for word in seq:
+        if not isMorphologicallyPlausable(word.val, words, True) and not isMorphologicallyPlausable(word.val, wikiwords, False):
+            word.repr = red(word.val + word.after)
 
 p = PorterStemmer()
 wikiwords = set([line.split('\t')[0] for line in open('../WikipediaTitles/titleWordCount.tsv')])
 words = set([line.strip() for line in open('../spellchecker/words.txt').readlines()])
 lemmas = set([p.stem(word, 0, len(word)-1) for word in words])
+words.update([line.strip() for line in open('romannumerals.txt')])
 
-def mergeChunk(keep, reject):
+def mergeChunk(keep, reject, confident=True):
     for tok in keep:
-        tok.repr = blue(tok.repr)
+        if confident:
+            tok.repr = blue(tok.repr)
+        else:
+            tok.repr = red(tok.repr)
     for tok in reject:
-        tok.repr = yellow(strike(tok.repr))
+        if confident:
+            tok.repr = yellow(strike(tok.repr))
+        else:
+            tok.repr = red(strike(tok.repr))
         tok.val = ''
         tok.after = ''
     return [reject + keep]
@@ -149,12 +163,12 @@ def mergeUnigramFrequency(seqa, seqb, wordFreq):
         aScore = 1
         bScore = 1
         for word in seqa:
-            aScore *= (wordFreq.get(word.val) or 0)
+            aScore *= (wordFreq.get(word.val.lower()) or 0)
         for word in seqb:
-            bScore *= (wordFreq.get(word.val) or 0)
-        if aScore > bScore:
+            bScore *= (wordFreq.get(word.val.lower()) or 0)
+        if aScore > (bScore * 10):
             return mergeChunk(seqa, seqb)
-        if bScore > aScore:
+        if bScore > (aScore * 10):
             return mergeChunk(seqb, seqa)
     return [seqa, seqb]
 
@@ -196,10 +210,13 @@ def nonAlphaNumCount(s):
 def mergePunctuationGarbage(seqa, seqb):
     aPunctCount = nonAlphaNumCount(''.join([s.val for s in seqa]))
     bPunctCount = nonAlphaNumCount(''.join([s.val for s in seqb]))
-    if aPunctCount < bPunctCount:
-        return mergeChunk(seqa, seqb)
-    if aPunctCount > bPunctCount:
-        return mergeChunk(seqb, seqa)
+    aNonPunctCount = len(''.join([s.val for s in seqa])) - aPunctCount
+    bNonPunctCount = len(''.join([s.val for s in seqb])) - bPunctCount
+    if aNonPunctCount < 2*bNonPunctCount and bNonPunctCount < 2*aNonPunctCount:
+        if aPunctCount < bPunctCount:
+            return mergeChunk(seqa, seqb)
+        if aPunctCount > bPunctCount:
+            return mergeChunk(seqb, seqa)
     return [seqa, seqb]
     
 def doPunctuationGarbageMerge(mergeInfo):
@@ -217,7 +234,7 @@ def doGuessMerge(mergeInfo):
     revisedMergeInfo = []
     for chunk in mergeInfo:
         if len(chunk) == 2:
-            chunk = [chunk[0]]
+            chunk = mergeChunk(chunk[0], chunk[1], False)
         if len(revisedMergeInfo) and len(chunk) == len(revisedMergeInfo[-1]) == 1:
             revisedMergeInfo[-1][0].extend(chunk[0])
         else:
@@ -325,7 +342,12 @@ for afile, bfile in zip(afiles, bfiles):
     mergeInfo = doExtraPunctuationMerge(mergeInfo)
     mergeInfo = doPunctuationGarbageMerge(mergeInfo)
     mergeInfo = doGuessMerge(mergeInfo)
+    if len(mergeInfo):
+        toks = mergeInfo[0][0]
+    else:
+        toks = []
+
+    markNonWords(toks)
     
     with open(os.path.join(outfolder, os.path.basename(afile)), 'w') as fileHandle:
-        if len(mergeInfo):
-            printPreserveSpacing(mergeInfo[0][0], fileHandle, debug)
+        printPreserveSpacing(toks, fileHandle, debug)

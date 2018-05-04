@@ -1,10 +1,12 @@
 26 Egypt [93m̶u̶s̶ [0m[94mas [0ma [93m̶T̶V̶i̶n̶t̶e̶r̶ [0m[94mWinter [0mResort.
-Table I. is a resumé [93m̶\̶w̶h̶i̶c̶h̶ [0m[94msvhich [0mI have made from the
+
+Table I. is a resumé [93m̶\̶w̶h̶i̶c̶h̶ [0m[91msvhich [0mI have made from the
 records of the five years [93m̶1̶8̶8̶4[0m[93m̶-̶-[0m[93m̶8̶8[0m[94m1884-88[0m, the monthly
-bulletins being printed by the [93m̶E̶h̶e̶d̶i̶v̶i̶a̶l̶ [0m[94mKhedivial [0mObservatory in the Abhassiyeh suburb of Cairo.
+bulletins being printed by the [93m̶E̶h̶e̶d̶i̶v̶i̶a̶l̶ [0m[94mKhedivial [0mObservatory in the [91m̶A̶b̶b̶a̶s̶s̶i̶y̶e̶h̶ [0m[91mAbhassiyeh [0msuburb of Cairo.
+
 The observations are taken throughout the day
 and night-at 6 a.m., [93m̶o̶ [0m[93m̶a̶.̶m[0m[94m9 [0m[94mam[0m, noon, 3 p.m., 6 p.m.,
-[93m̶o̶ [0m[93m̶1[0m[93m̶)[0m[93m̶.̶m̶.[0m[94m9 [0m[94m11131.[0m, and midnight. The barometer used is a
+[91m̶9̶ [0m[91m̶1̶1̶1̶3̶1̶.[0m[91mo [0m[91m1[0m[91m)[0m[91m.m.[0m, and midnight. The barometer used is a
 Fortin, verified and compared [93m̶u̶ [0m[94mat [0mMontsouris [93m̶O̶b[0m[93m̶.̶
 [0m[93m̶s̶e̶r̶v̶a̶t̶o̶r̶y̶ [0m[94mObservatory [0min Paris. The readings are reduced to
 freezing-point, and are taken [93m̶u̶ [0m[94mat [0ma level of [93m̶1̶0̶8̶'̶2̶
@@ -14,15 +16,21 @@ variations are not very great, and its practical
 value is very little, though, as it falls when the
 wind changes to the south, and rises again when
 the prevailing north wind blows, it is useful to
-[93m̶c̶h̶e̶e̶k̶ [0m[94mcheck [0mthe probable duration of a khamseen. The
+[91m̶c̶h̶e̶c̶k̶ [0m[91mcheek [0mthe probable duration of a khamseen. The
 greatest variation during 1888 was [93m̶3̶0̶S̶ [0m[94m30'2 [0minches on
-one day in March, and 2T4 in. once in February.
+one day in March, and [91m̶2̶9̶U̶ [0m[91m2T4 [0min. once in February.
 The temperatures are taken by a Centigrade thermometer, verified every year, and placed on a
 balcony [93m̶t̶h̶i̶i[0m[93m̶‘[0m[93m̶t̶y̶-̶t̶w̶o̶ [0m[94mthirty-two [0mfeet from the ground, facing
 north, and sheltered from the sun. [93m̶T̶h̶/̶e̶ [0m[94mThe [0mextremes
 of temperature are read daily from self-registering
 maximum and minimum instruments. The [93m̶m̶i̶n̶i̶m̶a̶m̶ [0m[94mminimum [0mresult is generally found about 6 [93m̶a̶.̶m̶.̶ [0m[94mam[0m[94m. [0mor a
 little earlier, and the daily maximum is invariably
-about 2 [93m̶p̶.̶m̶.̶ [0m[93m̶0̶1[0m[93m̶'̶ [0m[94m13.111. [0m[94mor [0m3 p.m.
-During 1888, the absolute maximum reached
+about 2 [93m̶p̶.̶m̶.̶ [0m[93m̶0̶1[0m[93m̶'̶ [0m[94m13.111. [0m[94mor [0m3 [91m̶1̶3̶.̶1̶1̶1[0m[91m̶.̶
+̶
+[0m[91mp.m.
+
+[0mDuring 1888, the absolute maximum reached
+
+
+
 
