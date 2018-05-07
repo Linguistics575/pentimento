@@ -7,7 +7,7 @@ def main():
     input_file_name = "input.txt"
     conn = MySQLdb.connect(host="localhost",
                            user="root",
-                           passwd="eslam1990",
+                           passwd="****",
                            db="wikipedia")
 
     previous_output_root = ET.parse(output_file_name).getroot()
