@@ -6,6 +6,7 @@ import nltk
 import re
 import os
 from PorterStemmer import PorterStemmer
+from collections import Counter
 
 p = PorterStemmer()
 wikiwords = set([line.split('\t')[0] for line in open('../WikipediaTitles/titleWordCount.tsv')])
@@ -177,11 +178,13 @@ def mergeUnigramFrequency(seqa, seqb, wordFreq):
             return mergeChunk(seqb, seqa)
     return [seqa, seqb]
 
-def doUnigramFrequncyMerge(mergeInfo):
+def doUnigramFrequncyMerge(mergeInfo, internalConfidentUnigrams):
     freqs = {s.split('\t')[0]: int(s.split('\t')[1]) for s in open('brown_freq.txt').readlines()}
 
     revisedMergeInfo = []
     for chunk in mergeInfo:
+        if len(chunk) == 2:
+            chunk = mergeUnigramFrequency(chunk[0], chunk[1], internalConfidentUnigrams)
         if len(chunk) == 2:
             chunk = mergeUnigramFrequency(chunk[0], chunk[1], freqs)
         if len(revisedMergeInfo) and len(chunk) == len(revisedMergeInfo[-1]) == 1:
@@ -328,6 +331,19 @@ def printPreserveSpacing(toks, fileHandle, colored=False):
             toPrint.append(tok.val + tok.after)
     print(''.join(toPrint), file=fileHandle)
 
+def getCommonToks(afiles, bfiles):
+    c = Counter()
+    for afile, bfile in zip(afiles, bfiles):
+        atoks = tokenize(afile)
+        btoks = tokenize(bfile)
+        mergeInfo = getMergeInfo(atoks, btoks)
+        for m in mergeInfo:
+            if len(m) == 1:
+                for tok in m[0]:
+                    if not re.search('[0-9]', tok.val):
+                        c[tok.val] += 1
+    return c
+
 afiles = sorted(os.path.join(sys.argv[1], f) for f in os.listdir(sys.argv[1]))
 bfiles = sorted(os.path.join(sys.argv[2], f) for f in os.listdir(sys.argv[2]))
 outfolder = sys.argv[3]
@@ -337,6 +353,7 @@ colored = (len(sys.argv) > 4) and ('c' in sys.argv[4])
 if not os.path.exists(outfolder):
     os.makedirs(outfolder)
 
+internalUnigrams = getCommonToks(afiles, bfiles)
 for afile, bfile in zip(afiles, bfiles):
     atoks = tokenize(afile)
     btoks = tokenize(bfile)
@@ -344,7 +361,7 @@ for afile, bfile in zip(afiles, bfiles):
     mergeInfo = getMergeInfo(atoks, btoks)
     mergeInfo = doSpellingMerge(mergeInfo)
     mergeInfo = doCapitalizationMerge(mergeInfo)
-    mergeInfo = doUnigramFrequncyMerge(mergeInfo)
+    mergeInfo = doUnigramFrequncyMerge(mergeInfo, internalUnigrams)
     mergeInfo = doExtraPunctuationMerge(mergeInfo)
     mergeInfo = doPunctuationGarbageMerge(mergeInfo)
     mergeInfo = doGuessMerge(mergeInfo)
