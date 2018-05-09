@@ -7,6 +7,14 @@ import re
 import os
 from PorterStemmer import PorterStemmer
 
+p = PorterStemmer()
+wikiwords = set([line.split('\t')[0] for line in open('../WikipediaTitles/titleWordCount.tsv')])
+words = set([line.strip() for line in open('../spellchecker/words.txt').readlines()])
+lemmas = set([p.stem(word, 0, len(word)-1) for word in words])
+words.update([line.strip() for line in open('romannumerals.txt')])
+debug = None
+
+
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
@@ -58,11 +66,6 @@ def markNonWords(seq):
         if not isMorphologicallyPlausable(word.val, words, True) and not isMorphologicallyPlausable(word.val, wikiwords, False):
             word.repr = red(word.val + word.after)
 
-p = PorterStemmer()
-wikiwords = set([line.split('\t')[0] for line in open('../WikipediaTitles/titleWordCount.tsv')])
-words = set([line.strip() for line in open('../spellchecker/words.txt').readlines()])
-lemmas = set([p.stem(word, 0, len(word)-1) for word in words])
-words.update([line.strip() for line in open('romannumerals.txt')])
 
 def mergeChunk(keep, reject, confident=True):
     for tok in keep:
@@ -71,10 +74,12 @@ def mergeChunk(keep, reject, confident=True):
         else:
             tok.repr = red(tok.repr)
     for tok in reject:
-        if confident:
+        if confident and debug:
             tok.repr = yellow(strike(tok.repr))
-        else:
+        elif debug:
             tok.repr = red(strike(tok.repr))
+        else:
+            tok.repr = ''
         tok.val = ''
         tok.after = ''
     return [reject + keep]
@@ -314,10 +319,10 @@ def getLineTokens(text, toks):
                 hasSpace[0] = False
         yield revisedlinetoks, [int(space) * ' ' for space in hasSpace[1:]] + ['\n']
 
-def printPreserveSpacing(toks, fileHandle, debug=False):
+def printPreserveSpacing(toks, fileHandle, colored=False):
     toPrint = []
     for tok in toks:
-        if debug:
+        if colored:
             toPrint.append(tok.repr)
         else:
             toPrint.append(tok.val + tok.after)
@@ -327,6 +332,7 @@ afiles = sorted(os.path.join(sys.argv[1], f) for f in os.listdir(sys.argv[1]))
 bfiles = sorted(os.path.join(sys.argv[2], f) for f in os.listdir(sys.argv[2]))
 outfolder = sys.argv[3]
 debug = (len(sys.argv) > 4) and ('d' in sys.argv[4])
+colored = (len(sys.argv) > 4) and ('c' in sys.argv[4])
 
 if not os.path.exists(outfolder):
     os.makedirs(outfolder)
@@ -350,4 +356,4 @@ for afile, bfile in zip(afiles, bfiles):
     markNonWords(toks)
     
     with open(os.path.join(outfolder, os.path.basename(afile)), 'w') as fileHandle:
-        printPreserveSpacing(toks, fileHandle, debug)
+        printPreserveSpacing(toks, fileHandle, debug or colored)
