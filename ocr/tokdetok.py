@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-from nltk.tokenize.moses import MosesTokenizer, MosesDetokenizer
 import sys
 import nltk
 
@@ -23,9 +22,6 @@ def untokenize(words):
     step6 = step5.replace(" ` ", " '")
     return step6.strip()
 
-
-tokenizer = MosesTokenizer()
-detokenizer = MosesDetokenizer()
 
 for line in sys.stdin:
     line = line.strip()
