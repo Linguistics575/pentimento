@@ -10,8 +10,7 @@ REFYEAR = None
 def main(argv):
     # DEFAULT VALUES
     parse_dates_enabled = True
-    #input_file_name = "input.txt"
-    input_file_name = "input_no_ner.txt"
+    input_file_name = "input.txt"
     tei_header_file_name = "teiheader.xml"
     output_file_name = "output.xml"
 
@@ -87,7 +86,16 @@ def main(argv):
                 line_element.text = line
 
     # prettify
+    for elem in tei_root.iter('*'):
+        if elem.text is not None:
+            elem.text = elem.text.strip()
+        if elem.tail is not None:
+            elem.tail = elem.tail.strip()
     pretty_xml_str = Minidom.parseString(ET.tostring(tei_root)).toprettyxml(indent="   ")
+
+    pretty_xml_str = pretty_xml_str.replace("&lt;", "<")
+    pretty_xml_str = pretty_xml_str.replace("&gt;", ">")
+    pretty_xml_str = pretty_xml_str.replace("&quot;", "\"")
 
     # write to output file
     with open(output_file_name, "w") as f:
