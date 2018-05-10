@@ -1,6 +1,6 @@
 --locations in lower egypt
+Memphis,_Egypt;Aneb-Hetch;"Mit_Rahina"
 Rosetta
-Memphis,_Egypt
 Letopolis
 Kom_el-Hisn
 Alexandria
