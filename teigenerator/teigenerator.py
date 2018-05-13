@@ -12,6 +12,7 @@ def main(argv):
     parse_dates_enabled = True
     input_file_name = "input.txt"
     tei_header_file_name = "teiheader.xml"
+    variations_filename = "variations.xml"
     output_file_name = "output.xml"
 
     # command line params
@@ -86,20 +87,33 @@ def main(argv):
                 line_element.text = line
 
     # prettify
-    for elem in tei_root.iter('*'):
+    pretty_xml_str = clean_and_prettifyxml(tei_root, "", "")
+
+    # xml validation and resolve variations:
+    validated_tei_root = ET.fromstring(pretty_xml_str)
+    variations_root = ET.parse(variations_filename).getroot()
+    resolveVariations(validated_tei_root, variations_root)
+    validated_pretty_xml_str = clean_and_prettifyxml(validated_tei_root, "   ", "\n")
+
+    # write to output file
+    with open(output_file_name, "w") as f:
+        f.write(validated_pretty_xml_str)
+
+
+def clean_and_prettifyxml(markup, intend, newline):
+    for elem in markup.iter('*'):
         if elem.text is not None:
             elem.text = elem.text.strip()
         if elem.tail is not None:
             elem.tail = elem.tail.strip()
-    pretty_xml_str = Minidom.parseString(ET.tostring(tei_root)).toprettyxml(indent="   ")
+
+    pretty_xml_str = Minidom.parseString(ET.tostring(markup)).toprettyxml(indent=intend, newl=newline)
+
 
     pretty_xml_str = pretty_xml_str.replace("&lt;", "<")
     pretty_xml_str = pretty_xml_str.replace("&gt;", ">")
     pretty_xml_str = pretty_xml_str.replace("&quot;", "\"")
-
-    # write to output file
-    with open(output_file_name, "w") as f:
-        f.write(pretty_xml_str)
+    return pretty_xml_str
 
 
 def istitle(line):
@@ -189,6 +203,49 @@ def parse_date(string):
             return DateParser.parse(string, default=default)
         else:
             return DateParser.parse(string)
+
+
+def resolveVariations(markup_root, variations_root):
+    # build variation dictinary
+    variation_to_reference_location_dic = {}
+    for location in variations_root:
+        # find reference name
+        reference_name = ""
+        modern_element = location.find('modern-name')
+        if modern_element is not None:
+            reference_name = modern_element.text
+        else:
+            wiki_page_Element = location.find('wiki-page')
+            reference_name = wiki_page_Element.text
+
+        # find variations
+        for wiki_variation in location.findall("wiki-variation"):
+            variation_to_reference_location_dic[wiki_variation.text] = reference_name
+
+        for manual_variation in location.findall("manual-variation"):
+            variation_to_reference_location_dic[manual_variation.text] = reference_name
+
+    # read markup
+    for placename in markup_root.iter("placeName"):
+        reference = findreference(placename.text, variation_to_reference_location_dic)
+
+        if reference is not None:
+            #print("location: " + placename.text + " reference: "+ reference)
+            placename.attrib["ref"] = "#" + reference
+        else:
+            # attribute ref should be defaulted to the placeName.text
+            if placename.attrib["ref"] is None or placename.attrib["ref"] is "" or placename.attrib["ref"] is "#":
+                placename.attrib["ref"] = placename.text
+                #print("defaulting location: " + placename.text + " reference: " + placename.attrib["ref"])
+            # else:
+                # already tagged
+
+
+def findreference(location, dic):
+    for key in dic:
+        if location.strip().lower() == key.strip().lower():
+            return dic[key]
+    return None
 
 
 if __name__ == "__main__":

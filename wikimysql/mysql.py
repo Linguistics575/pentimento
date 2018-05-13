@@ -3,11 +3,11 @@ import xml.etree.cElementTree as ET
 import xml.dom.minidom as Minidom
 
 def main():
-    output_file_name = "output.xml"
+    output_file_name = "variations.xml"
     input_file_name = "input.txt"
     conn = MySQLdb.connect(host="localhost",
                            user="root",
-                           passwd="****",
+                           passwd="***",
                            db="wikipedia")
 
     previous_output_root = ET.parse(output_file_name).getroot()

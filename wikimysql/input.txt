@@ -38,7 +38,7 @@ Qantir
 Saft_el-Hinna
 
 -- locations in upper egypt
-Elephantine
+Elephantine;Yebu;"Aswan"
 Aswan
 Kom_Ombo
 Edfu
@@ -86,3 +86,6 @@ Buhen
 -- locations on red sea
 El_Qoseir
 Berenice_Troglodytica
+
+-- churches
+St._Peter\'s_Basilica
