@@ -1,5 +1,5 @@
 import os, re
-from Levenshtein import jaro
+from Levenshtein import jaro_winkler
 from bs4 import BeautifulSoup
 import numpy as np
 from sklearn.cluster import AffinityPropagation
@@ -20,9 +20,9 @@ for x in files:
         content = f.read()
     content = re.sub('<PERSON>', '<persName>', content)
     content = re.sub('</PERSON>', '</persName>', content)
-    content = re.sub('<LOCATION>', '<placeName>', content)
+    content = re.sub('<LOCATION>', '<placeName ref="#">', content)
     content = re.sub('</LOCATION>', '</placeName>', content)
-    content = re.sub('<ORGANIZATION>', '<orgName>', content)
+    content = re.sub('<ORGANIZATION>', '<orgName ref="#">', content)
     content = re.sub('</ORGANIZATION>', '</orgName>', content)
     with open(os.path.join(output_dir, x), 'w') as f:
         f.write(content)
@@ -40,7 +40,7 @@ for x in files:
     lex_sim_mat = np.zeros((len(person_dict), len(person_dict)))
     for i in range(0, len(person_dict)):
         for j in range(0, len(person_dict)):
-            lex_sim_mat[i, j] = jaro(person_dict[i], person_dict[j])
+            lex_sim_mat[i, j] = jaro_winkler(person_dict[i], person_dict[j])
 
     elems = []    
     p = soup.p
@@ -65,7 +65,7 @@ for x in files:
     sem_sim_mat = cosine_similarity(vecs)
     
     sim_mat = lex_sim_mat + sem_sim_mat
-    af = AffinityPropagation(damping = 0.7, affinity = 'precomputed')
+    af = AffinityPropagation(damping = 0.74, affinity = 'precomputed')
     clusters = af.fit_predict(sim_mat)
     
     cluster_dict = dict()
@@ -97,6 +97,8 @@ for x in files:
     soup = re.sub('persname', 'persName', soup)
     soup = re.sub('placename', 'placeName', soup)
     soup = re.sub('orgname', 'orgName', soup)
+    
+    
     with open(os.path.join(output_dir, x), 'w') as f:
         f.write(soup)   
     
