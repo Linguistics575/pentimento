@@ -14,6 +14,7 @@ words = set([line.strip() for line in open('../spellchecker/words.txt').readline
 lemmas = set([p.stem(word, 0, len(word)-1) for word in words])
 words.update([line.strip() for line in open('romannumerals.txt')])
 debug = None
+html = False
 
 
 class bcolors:
@@ -26,14 +27,27 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
+class hcolors: #same as bcolors, but html
+    HEADER = '<span style="color: #73299e;">'
+    OKBLUE = '<span style="color: #0000FF;">'
+    OKGREEN = '<span style="color: #00FF00;">'
+    WARNING = '<span style="color: #d6c720;">'
+    FAIL = '<span style="color: #ff0000;">'
+    ENDC = '</span>'
+    BOLD = '<span style="font-weight:bold">'
+    UNDERLINE = '<span style="text-decoration: underline;">'
+
 def blue(text):
-    return bcolors.OKBLUE + text + bcolors.ENDC
+    klass = hcolors if html else bcolors
+    return klass.OKBLUE + text + klass.ENDC
 
 def yellow(text):
-    return bcolors.WARNING + text + bcolors.ENDC
+    klass = hcolors if html else bcolors
+    return klass.WARNING + text + klass.ENDC
 
 def red(text):
-    return bcolors.FAIL + text + bcolors.ENDC
+    klass = hcolors if html else bcolors
+    return klass.FAIL + text + klass.ENDC
 
 def strike(text):
     result = ''
@@ -324,11 +338,12 @@ def getLineTokens(text, toks):
 
 def printPreserveSpacing(toks, fileHandle, colored=False):
     toPrint = []
+    newline = '<br>' if html else '\n'
     for tok in toks:
         if colored:
-            toPrint.append(tok.repr)
+            toPrint.append(tok.repr.replace('\n', newline))
         else:
-            toPrint.append(tok.val + tok.after)
+            toPrint.append(tok.val + tok.after.replace('\n', newline))
     print(''.join(toPrint), file=fileHandle)
 
 def getCommonToks(afiles, bfiles):
@@ -348,6 +363,7 @@ afiles = sorted(os.path.join(sys.argv[1], f) for f in os.listdir(sys.argv[1]))
 bfiles = sorted(os.path.join(sys.argv[2], f) for f in os.listdir(sys.argv[2]))
 outfolder = sys.argv[3]
 debug = (len(sys.argv) > 4) and ('d' in sys.argv[4])
+html = (len(sys.argv) > 4) and ('h' in sys.argv[4])
 colored = (len(sys.argv) > 4) and ('c' in sys.argv[4])
 
 if not os.path.exists(outfolder):
