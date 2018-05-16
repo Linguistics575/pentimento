@@ -1,6 +1,8 @@
 # OCR
 
 # NER
-ner/ner.sh
+cd ner
+./ner.sh
+cd ..
 
 # TEI

@@ -2,7 +2,7 @@
 
 October 25, 1910
 
-SS. <persName ref="#">Kronprinz Wilhelm</persName>.
+SS. <persName ref="#Kronprinz_Wilhelm">Kronprinz Wilhelm</persName>.
 
 Sailed this a.m. from <placeName ref="#">New York</placeName> at ten o’clock for <placeName ref="#">Cherbourg</placeName> and <placeName ref="#">Paris</placeName>.  It seems an absurd route to take to <placeName ref="#">Cairo</placeName> – but the service of the <placeName ref="#">Mediterranean</placeName> steamers is so disorganized because of the cholera in so many infected port, and the necessity of quarantine, that we cancelled our engagement for <placeName ref="#">Naples</placeName>.  We will take the Schleswig at <placeName ref="#">Marseilles</placeName>, instead of <placeName ref="#">Naples</placeName>. 
 
@@ -12,17 +12,17 @@ We have had an uneventful stupid voyage, and are due at <placeName ref="#">Cherb
 
 <placeName ref="#">Paris</placeName> – Oct. 31. <orgName ref="#">Westminster Hotel</orgName>.
 
-We made <orgName ref="#">Plymouth</orgName> at 7 o’clock this morning – I got up and looked out at the interesting coast – reached <placeName ref="#">Cherbourg</placeName> at 1 p.m. and were off at 3.  We felt some little trepidation at committing ourselves to a French railway – there has been such a history of accidents in <placeName ref="#">France</placeName>! But we knew that this line had been thoroughly repaired – as was shown by the piles of the old sleepers all along the road – in the most astounding state of decay – utter rottenness – they gave damning evidence of neglect.  I had never seen the <persName ref="#">Brittany</persName> country before. How charming those wide reaching fields were, in the late afternoon light – so softly green – and the characteristic, mostly 
+We made <orgName ref="#">Plymouth</orgName> at 7 o’clock this morning – I got up and looked out at the interesting coast – reached <placeName ref="#">Cherbourg</placeName> at 1 p.m. and were off at 3.  We felt some little trepidation at committing ourselves to a French railway – there has been such a history of accidents in <placeName ref="#">France</placeName>! But we knew that this line had been thoroughly repaired – as was shown by the piles of the old sleepers all along the road – in the most astounding state of decay – utter rottenness – they gave damning evidence of neglect.  I had never seen the <persName ref="#Brittany">Brittany</persName> country before. How charming those wide reaching fields were, in the late afternoon light – so softly green – and the characteristic, mostly 
 
 PAGE 73
 
-pollarded trees in their tints of bronze and olive green and russet pink, made a picture, or rather a succession of them that looked as if they might have been painted by <persName ref="#">Troyen</persName> or Coret.  It was a blissful afternoon – and we so enjoyed it.  Arrived in <placeName ref="#">Paris</placeName> at 10 – and found Mr. <persName ref="#">Rathbone</persName> waiting for us.  They are at the <placeName ref="#">Bedford</placeName>.
+pollarded trees in their tints of bronze and olive green and russet pink, made a picture, or rather a succession of them that looked as if they might have been painted by <persName ref="#Brittany">Troyen</persName> or Coret.  It was a blissful afternoon – and we so enjoyed it.  Arrived in <placeName ref="#">Paris</placeName> at 10 – and found Mr. <persName ref="#Rathbone">Rathbone</persName> waiting for us.  They are at the <placeName ref="#">Bedford</placeName>.
 
 Tuesday. Nov. 1st.
 
-It has poured with rain all day – have not been out of the house.  It is All Saints Day, and every magasin and museum is closed.  Mr. and Mrs. <persName ref="#">Rathbone</persName> and <persName ref="#">Elèna</persName> came to lunch, and are to turn up at the <placeName ref="#">Gare de Lyon</placeName> at 10.  Mr. and Mrs. <persName ref="#">John E. Parsons</persName> are in this hotel, and we went to their rooms to have tea with them.  We quite enjoyed our little dinner up in our sitting room.  Hotel are crowded here – the manager told us there were more than 200 people in <placeName ref="#">Paris</placeName> waiting for a chance to cross the <placeName ref="#">Mediterranean</placeName>.
+It has poured with rain all day – have not been out of the house.  It is All Saints Day, and every magasin and museum is closed.  Mr. and Mrs. <persName ref="#Rathbone">Rathbone</persName> and <persName ref="#Elèna">Elèna</persName> came to lunch, and are to turn up at the <placeName ref="#">Gare de Lyon</placeName> at 10.  Mr. and Mrs. <persName ref="#Johnson">John E. Parsons</persName> are in this hotel, and we went to their rooms to have tea with them.  We quite enjoyed our little dinner up in our sitting room.  Hotel are crowded here – the manager told us there were more than 200 people in <placeName ref="#">Paris</placeName> waiting for a chance to cross the <placeName ref="#">Mediterranean</placeName>.
 
-<persName ref="#">N. G. Lloyd SS</persName>. Schleswig.
+<persName ref="#Nicol">N. G. Lloyd SS</persName>. Schleswig.
 Wednesday. Nov. 2nd.
 
 We had a rough night on our funny Wagon-Lit – and jolted through it with what patience we could – felling as if we were travelling in a card-board box – arrived by 9 o’clock – found our old rooms ready for us – did not get off until nearly 5 o’clock – there being so many passengers and such piles of luggage. 
@@ -44,7 +44,7 @@ Arrived at 12:30 and were soon eating lunch on the 13th day out from <placeName 
 
 Monday. Nov. 14th.
 
-Rather a busy week, settling ourselves and things on the boat, seeing sights –visiting and receiving friends – consulting Mr. <persName ref="#">Draper</persName> about the little mooring garden. Lunched one day with the Gorsts, and another day went to a reception there. Capt. <persName ref="#">Trefusis</persName>, and Mr. <persName ref="#">Carter Bonham</persName>, <persName ref="#">Elèna</persName>’s friend, dined with us one night, and Mr. <persName ref="#">Lovatt</persName> and son – another night – and Mr. <persName ref="#">Lovatt</persName> and son and Mr. <persName ref="#">Walter Gay</persName> came to tea on our first afternoon on the boat.  We had tea with the Gays one afternoon – Mrs. Gay very attractive.
+Rather a busy week, settling ourselves and things on the boat, seeing sights –visiting and receiving friends – consulting Mr. <persName ref="#Draper">Draper</persName> about the little mooring garden. Lunched one day with the Gorsts, and another day went to a reception there. Capt. <persName ref="#Draper">Trefusis</persName>, and Mr. <persName ref="#Carter_Bonham">Carter Bonham</persName>, <persName ref="#Lovatt">Elèna</persName>’s friend, dined with us one night, and Mr. <persName ref="#Lovatt">Lovatt</persName> and son – another night – and Mr. <persName ref="#Lovatt">Lovatt</persName> and son and Mr. <persName ref="#Walter_Gay">Walter Gay</persName> came to tea on our first afternoon on the boat.  We had tea with the Gays one afternoon – Mrs. Gay very attractive.
 
 PAGE 75
  
@@ -56,91 +56,91 @@ We tied up much in our usual place – to a mite of a sand bank, opposite the ca
 
 Second Sunday in Advent. Dec. 4th.
 
-A pleasant two weeks we have had – fine, good weather.  <persName ref="#">Elèna</persName> busy and enchanted.  We have been over to the <placeName ref="#">Valley</placeName> for lunch.  The <persName ref="#">Buckley</persName> family here for tea one afternoon.  Mr. <persName ref="#">Carter</persName> and Mr. <persName ref="#">Weigall</persName> for lunch.  Mr. <persName ref="#">Nicol</persName> also for lunch.  <persName ref="#">Theo</persName> several times to the <placeName ref="#">Valley</placeName>.
+A pleasant two weeks we have had – fine, good weather.  <persName ref="#Elèna">Elèna</persName> busy and enchanted.  We have been over to the <placeName ref="#">Valley</placeName> for lunch.  The <persName ref="#Carter">Buckley</persName> family here for tea one afternoon.  Mr. <persName ref="#Carter">Carter</persName> and Mr. <persName ref="#Weigall">Weigall</persName> for lunch.  Mr. <persName ref="#Weigall">Nicol</persName> also for lunch.  <persName ref="#Theo">Theo</persName> several times to the <placeName ref="#">Valley</placeName>.
 
 Third Sunday in Advent. Dec. 11th.
 
-A rather busy week.  Mr. <persName ref="#">Weigall</persName> and his sister Mrs. <persName ref="#">Butler</persName> to tea one day.  Mr. <persName ref="#">Nicol</persName> to dine – Mrs. <persName ref="#">Butler</persName> and Mr. <persName ref="#">Weigall</persName> to dine.  <persName ref="#">Theo</persName> has established <persName ref="#">Harry Burton</persName> in his new concession the ‘Priest Kings’ <placeName ref="#">Valley</placeName>.  <persName ref="#">M. Maspero</persName> was anxious <persName ref="#">Theo</persName> should clear this but <persName ref="#">Theo</persName> does not look for much of a result.  <persName ref="#">Harold Jones</persName> is so poorly, so weak, quite incapable of work, even painting.  <persName ref="#">Buth</persName> his brother <persName ref="#">Cyril</persName> keeps a certain supervision of the men.  This afternoon <persName ref="#">Elèna</persName>, <persName ref="#">Theo</persName> and I rode over to see Mr. <persName ref="#">Carter</persName> and see some of Mr. <persName ref="#">Nicol</persName>’s paintings –
+A rather busy week.  Mr. <persName ref="#Weigall">Weigall</persName> and his sister Mrs. <persName ref="#Butler">Butler</persName> to tea one day.  Mr. <persName ref="#Nicol">Nicol</persName> to dine – Mrs. <persName ref="#Butler">Butler</persName> and Mr. <persName ref="#Butler">Weigall</persName> to dine.  <persName ref="#Theo">Theo</persName> has established <persName ref="#Harry">Harry Burton</persName> in his new concession the ‘Priest Kings’ <placeName ref="#">Valley</placeName>.  <persName ref="#Maspero">M. Maspero</persName> was anxious <persName ref="#Theo">Theo</persName> should clear this but <persName ref="#Theo">Theo</persName> does not look for much of a result.  <persName ref="#Harold_Jones">Harold Jones</persName> is so poorly, so weak, quite incapable of work, even painting.  <persName ref="#Butler">Buth</persName> his brother <persName ref="#Cyril">Cyril</persName> keeps a certain supervision of the men.  This afternoon <persName ref="#Cyril">Elèna</persName>, <persName ref="#Theo">Theo</persName> and I rode over to see Mr. <persName ref="#Carter_Bonham">Carter</persName> and see some of Mr. <persName ref="#Nicol">Nicol</persName>’s paintings –
 
 PAGE 76
 
-Very lovely they were.  <persName ref="#">Theo</persName> bought one.
+Very lovely they were.  <persName ref="#Theo">Theo</persName> bought one.
 
 Fourth Sunday in Advent.  Dec. 18th.
 
-<persName ref="#">Harold Jones</persName> and <persName ref="#">Cyril</persName> came over and spent 3 days at the <placeName ref="#">Winter Palace</placeName>, lunched twice with me.  I gave tea at the Palace on day, and asked a few of <persName ref="#">Harold</persName>’s friends – the poor fellow looked very tired when it was over.  <persName ref="#">Baron</persName> v. <persName ref="#">Mumm</persName>  called one afternoon – he is on his way back to <placeName ref="#">China</placeName> – he is the German minister of <placeName ref="#">China</placeName>.  Mr. And Mrs. <persName ref="#">Gibson Fahnstock</persName> came to tea on Wednesday.  We had for tea Miss <persName ref="#">Kelly</persName> and her brother, Mr. <persName ref="#">Whitaker</persName> and Mr. <persName ref="#">Whymper</persName> were here for tea.  The <orgName ref="#">Kellys</orgName> played and sang.
+<persName ref="#Harold_Jones">Harold Jones</persName> and <persName ref="#Cyril">Cyril</persName> came over and spent 3 days at the <placeName ref="#">Winter Palace</placeName>, lunched twice with me.  I gave tea at the Palace on day, and asked a few of <persName ref="#Harold_Jones">Harold</persName>’s friends – the poor fellow looked very tired when it was over.  <persName ref="#Harold_Jones">Baron</persName> v. <persName ref="#Mumm">Mumm</persName>  called one afternoon – he is on his way back to <placeName ref="#">China</placeName> – he is the German minister of <placeName ref="#">China</placeName>.  Mr. And Mrs. <persName ref="#Gibson_Fahnstock">Gibson Fahnstock</persName> came to tea on Wednesday.  We had for tea Miss <persName ref="#Weigall">Kelly</persName> and her brother, Mr. <persName ref="#Whitaker">Whitaker</persName> and Mr. <persName ref="#Whymper">Whymper</persName> were here for tea.  The <orgName ref="#">Kellys</orgName> played and sang.
 
 Christmas Day – Dec. 25th.
 
-We had the usual gifts for the sailors this morning – <persName ref="#">Harry Burton</persName> came this evening to stay until Wednesday morning.  Tuesday being market day, it is the one holiday in the week for workmen.  <persName ref="#">Theo</persName> spent 3 days in the <placeName ref="#">Valley</placeName> this week. Mr. <persName ref="#">Crane</persName>, who is busy painting the Horemheb tomb, lunched with us today.  Capt. <persName ref="#">Walter Trefusis</persName> dined with us today.  
+We had the usual gifts for the sailors this morning – <persName ref="#Harry">Harry Burton</persName> came this evening to stay until Wednesday morning.  Tuesday being market day, it is the one holiday in the week for workmen.  <persName ref="#Theo">Theo</persName> spent 3 days in the <placeName ref="#">Valley</placeName> this week. Mr. <persName ref="#Walter_Gay">Crane</persName>, who is busy painting the Horemheb tomb, lunched with us today.  Capt. <persName ref="#Walter_Gay">Walter Trefusis</persName> dined with us today.  
 
 Saturday. Dec. 31st.
-We have had a cold week.  <persName ref="#">Theo</persName> spent his usual 3 days in the <placeName ref="#">Valley</placeName> – nothing has yet been found.  We have seen a good deal of Mr. <persName ref="#">Whitaker</persName> and his party. They are on the old Cleopatra – but he has done a great deal to it and put about a great many pretty things, and 
+We have had a cold week.  <persName ref="#Theo">Theo</persName> spent his usual 3 days in the <placeName ref="#">Valley</placeName> – nothing has yet been found.  We have seen a good deal of Mr. <persName ref="#Whitaker">Whitaker</persName> and his party. They are on the old Cleopatra – but he has done a great deal to it and put about a great many pretty things, and 
 
 PAGE 77
-It looks very attractive.  Mr. and Mrs. <persName ref="#">Newberry</persName> are with him, and they are to excavate somewhere near <placeName ref="#">Akmim</placeName>.
+It looks very attractive.  Mr. and Mrs. <persName ref="#Whitaker">Newberry</persName> are with him, and they are to excavate somewhere near <placeName ref="#">Akmim</placeName>.
 
 Saturday Jan. 7. 1911
 
-The “Miriam” with the <persName ref="#">Masperos</persName> arrived on the 3rd.  <persName ref="#">Theo</persName> and I called on them the next morning.  <persName ref="#">Madame Maspero</persName> has been very ill on the way up with a bronchial attack.  They are to stay 3 weeks.  Mrs. <persName ref="#">McCormick</persName> and Miss <persName ref="#">Scott</persName> dined here tonight.
+The “Miriam” with the <persName ref="#Maspero">Masperos</persName> arrived on the 3rd.  <persName ref="#Theo">Theo</persName> and I called on them the next morning.  <persName ref="#Mumm">Madame Maspero</persName> has been very ill on the way up with a bronchial attack.  They are to stay 3 weeks.  Mrs. <persName ref="#Mumm">McCormick</persName> and Miss <persName ref="#Gorst">Scott</persName> dined here tonight.
 
 Saturday. Jan. 14.
 
-Mr. and Mrs. <persName ref="#">Buckley</persName> to lunch on Sunday, a warm fine day.  Mr. <persName ref="#">Carter</persName> to tea one day.  Harry as usual here for 2 days.  <persName ref="#">Theo</persName> as usual in the Valley 3 days.  Many visitors.
+Mr. and Mrs. <persName ref="#Butler">Buckley</persName> to lunch on Sunday, a warm fine day.  Mr. <persName ref="#Carter">Carter</persName> to tea one day.  Harry as usual here for 2 days.  <persName ref="#Theo">Theo</persName> as usual in the Valley 3 days.  Many visitors.
 
 Saturday. Jan. 21.
 
-The usual weekly story – visitors, visits, teas and dinners.  Lady <persName ref="#">Gorst</persName> and Miss <persName ref="#">Gorst</persName> here for tea one afternoon.
+The usual weekly story – visitors, visits, teas and dinners.  Lady <persName ref="#Gorst">Gorst</persName> and Miss <persName ref="#Gorst">Gorst</persName> here for tea one afternoon.
 
 Saturday. Jan. 28th.
 
-A rather cold stormy week, with a little rain.  Mrs. <persName ref="#">Hunter</persName> of <placeName ref="#">London</placeName> dined on Monday – Mrs. And Miss <persName ref="#">Warner</persName> of <placeName ref="#">Boston</placeName> and Miss <persName ref="#">Webb</persName>, a <persName ref="#">Marquise Guadalmina</persName> and her son, Spaniards, here to tea on Wednesday.  <persName ref="#">Theo</persName> and I at <placeName ref="#">Mohassibs</placeName> one morning – met Miss <persName ref="#">Cassatt</persName>, the artist who lives in <placeName ref="#">Paris</placeName>.  Mr. and Mrs. <persName ref="#">Kelekian</persName> came with her afterwards for tea. Mr <persName ref="#">Nicol</persName> dined on Friday. Cold and stormy.
+A rather cold stormy week, with a little rain.  Mrs. <persName ref="#Gorst">Hunter</persName> of <placeName ref="#">London</placeName> dined on Monday – Mrs. And Miss <persName ref="#Gibson_Fahnstock">Warner</persName> of <placeName ref="#">Boston</placeName> and Miss <persName ref="#Jennings">Webb</persName>, a <persName ref="#Kronprinz_Wilhelm">Marquise Guadalmina</persName> and her son, Spaniards, here to tea on Wednesday.  <persName ref="#Theo">Theo</persName> and I at <placeName ref="#">Mohassibs</placeName> one morning – met Miss <persName ref="#Carter">Cassatt</persName>, the artist who lives in <placeName ref="#">Paris</placeName>.  Mr. and Mrs. <persName ref="#Nicol">Kelekian</persName> came with her afterwards for tea. Mr <persName ref="#Nicol">Nicol</persName> dined on Friday. Cold and stormy.
 
 PAGE 78
 
 Saturday. Feb. 4th
 
-Among our visitors this week was the Rev. <persName ref="#">Endicott Peabody</persName>, Head Master of the famous school for boys at <placeName ref="#">Groton</placeName>, <placeName ref="#">Mass</placeName>. Introduced by cable from Mr. <persName ref="#">Fairfield Osborn</persName>.  A very interesting man.  Mr. and Mrs. <persName ref="#">Newberry</persName> dined on Tuesday.  Mr. and Mrs. <persName ref="#">Nahmstock</persName> to lunch on Wednesday.  <persName ref="#">Theo</persName> as usual in the Valley 3 days.
+Among our visitors this week was the Rev. <persName ref="#Nicol">Endicott Peabody</persName>, Head Master of the famous school for boys at <placeName ref="#">Groton</placeName>, <placeName ref="#">Mass</placeName>. Introduced by cable from Mr. <persName ref="#Newberry">Fairfield Osborn</persName>.  A very interesting man.  Mr. and Mrs. <persName ref="#Newberry">Newberry</persName> dined on Tuesday.  Mr. and Mrs. <persName ref="#Newberry">Nahmstock</persName> to lunch on Wednesday.  <persName ref="#Theo">Theo</persName> as usual in the Valley 3 days.
 
 Saturday. Feb. 11.
 
-Among our visitors this week were Mr. and Mrs. <persName ref="#">Charles B. Alexander</persName> of 4 <placeName ref="#">West 58 St. New York</placeName> on the Serapis with their 3 girls; Mr. and Mrs. <persName ref="#">Henry Hobhouse</persName> of <placeName ref="#">England</placeName> introduced by <persName ref="#">Gaspard Farrer</persName>; Mr. and Mrs. <persName ref="#">Williams</persName> and Mr. and Mrs. <persName ref="#">Langley</persName> P.W.D. people of <placeName ref="#">Cairo</placeName>; Mr. and Mrs. <persName ref="#">Gerard Foster</persName> of <placeName ref="#">Lenox</placeName>, Miss <persName ref="#">Ives</persName> and Mrs. <persName ref="#">Alexander</persName> of <placeName ref="#">New York</placeName> whose daughter lately married young <persName ref="#">Theodore Roosevelt</persName>; Mr. and Mrs. <persName ref="#">John Collander Livingston</persName> [2]on the “Scarab”.  It has been bitterly cold lately – and constant high winds – we have been covered with sand – as the wind has been from the west.  <persName ref="#">Theo</persName> came home from the Valley, after 4 days there.
+Among our visitors this week were Mr. and Mrs. <persName ref="#Theo">Charles B. Alexander</persName> of 4 <placeName ref="#">West 58 St. New York</placeName> on the Serapis with their 3 girls; Mr. and Mrs. <persName ref="#Gibson_Fahnstock">Henry Hobhouse</persName> of <placeName ref="#">England</placeName> introduced by <persName ref="#Gibson_Fahnstock">Gaspard Farrer</persName>; Mr. and Mrs. <persName ref="#Gibson_Fahnstock">Williams</persName> and Mr. and Mrs. <persName ref="#Anchincloss">Langley</persName> P.W.D. people of <placeName ref="#">Cairo</placeName>; Mr. and Mrs. <persName ref="#Gibson_Fahnstock">Gerard Foster</persName> of <placeName ref="#">Lenox</placeName>, Miss <persName ref="#Jennings">Ives</persName> and Mrs. <persName ref="#Gibson_Fahnstock">Alexander</persName> of <placeName ref="#">New York</placeName> whose daughter lately married young <persName ref="#Theo">Theodore Roosevelt</persName>; Mr. and Mrs. <persName ref="#Johnson">John Collander Livingston</persName> [2]on the “Scarab”.  It has been bitterly cold lately – and constant high winds – we have been covered with sand – as the wind has been from the west.  <persName ref="#Theo">Theo</persName> came home from the Valley, after 4 days there.
 
 Sunday. Feb. 13th.
 
-Another bitterly cold day – Mr. <persName ref="#">Whymper</persName> to breakfast – so delightfully amusing.  I had a quiet morning.  Mr. and Mrs. <persName ref="#">Girard Foster</persName>, and Mrs. <persName ref="#">Graham</persName>, who is up from <placeName ref="#">Cairo</placeName>, for a few days, came to tea.
+Another bitterly cold day – Mr. <persName ref="#Whymper">Whymper</persName> to breakfast – so delightfully amusing.  I had a quiet morning.  Mr. and Mrs. <persName ref="#Gibson_Fahnstock">Girard Foster</persName>, and Mrs. <persName ref="#Gibson_Fahnstock">Graham</persName>, who is up from <placeName ref="#">Cairo</placeName>, for a few days, came to tea.
 
 PAGE 79
 
 Sunday. Feb. 19th.
 
-A rather monotonous week of constant visitors.  Amongst the most pleasant were Mr. and Mrs. <persName ref="#">John Collander Livingston</persName>, and daughter sent by Mrs. <persName ref="#">Hamilton Fish Webster</persName>. Delightful people.  Our neighbors Mr. and Mrs. <persName ref="#">Anchincloss</persName> and Miss <persName ref="#">Jennings</persName>, M. and Mme. <persName ref="#">Naville</persName> and <persName ref="#">M. Rodier</persName> to dine.  Mrs. And Miss <persName ref="#">Cherry</persName>, sisters of Mr. <persName ref="#">Cust</persName>, M. and Mme. <persName ref="#">Maspero</persName> and others.  <persName ref="#">Theo</persName> and I had a charming afternoon with Mr. <persName ref="#">Carter</persName> in his new house – so well built and arranged and pretty – it looked like the abode of an artist and a scholar.  He is just opening a large tomb or cachette for Lord Carnarvon – and when we had tea, he went back at once to his work.  The Hon. <persName ref="#">Henry</persName> and Mrs. <persName ref="#">Hobhouse</persName> (from <persName ref="#">G. Farrer</persName>) dined with us this evening. <persName ref="#">Theo</persName> is to give them lunch in the <placeName ref="#">Valley</placeName> tomorrow.
+A rather monotonous week of constant visitors.  Amongst the most pleasant were Mr. and Mrs. <persName ref="#Johnson">John Collander Livingston</persName>, and daughter sent by Mrs. <persName ref="#Anchincloss">Hamilton Fish Webster</persName>. Delightful people.  Our neighbors Mr. and Mrs. <persName ref="#Anchincloss">Anchincloss</persName> and Miss <persName ref="#Jennings">Jennings</persName>, M. and Mme. <persName ref="#Jennings">Naville</persName> and <persName ref="#Butler">M. Rodier</persName> to dine.  Mrs. And Miss <persName ref="#Butler">Cherry</persName>, sisters of Mr. <persName ref="#Carter_Bonham">Cust</persName>, M. and Mme. <persName ref="#Maspero">Maspero</persName> and others.  <persName ref="#Theo">Theo</persName> and I had a charming afternoon with Mr. <persName ref="#Carter">Carter</persName> in his new house – so well built and arranged and pretty – it looked like the abode of an artist and a scholar.  He is just opening a large tomb or cachette for Lord Carnarvon – and when we had tea, he went back at once to his work.  The Hon. <persName ref="#Harry">Henry</persName> and Mrs. <persName ref="#Gibson_Fahnstock">Hobhouse</persName> (from <persName ref="#Harry">G. Farrer</persName>) dined with us this evening. <persName ref="#Theo">Theo</persName> is to give them lunch in the <placeName ref="#">Valley</placeName> tomorrow.
 
 Sunday. Feb. 26th.
 
-We telegraphed for tug some days ago – but have no satisfactory answers – the boat has been in proper trim for going down for some time.  Such continued cold weather and uch gales – we have no deck life at all. Telegram from Mr. <persName ref="#">J.P. Morgan</persName> begging Theo to wait here until he comes.  Crowds of visitors.  <persName ref="#">Lady Layard</persName>, and the Countess here to tea today.  I have been to <placeName ref="#">Karnak</placeName> several times – <persName ref="#">Nicol</persName> here twice to dine.
+We telegraphed for tug some days ago – but have no satisfactory answers – the boat has been in proper trim for going down for some time.  Such continued cold weather and uch gales – we have no deck life at all. Telegram from Mr. <persName ref="#Johnson">J.P. Morgan</persName> begging Theo to wait here until he comes.  Crowds of visitors.  <persName ref="#Whymper">Lady Layard</persName>, and the Countess here to tea today.  I have been to <placeName ref="#">Karnak</placeName> several times – <persName ref="#Nicol">Nicol</persName> here twice to dine.
 
 Mar. 1. Ash Wednesday.
 
-Mr <persName ref="#">Morgan</persName> with his sister arrived on the <placeName ref="#">Khonsu</placeName> – on Monday, 
+Mr <persName ref="#Nicol">Morgan</persName> with his sister arrived on the <placeName ref="#">Khonsu</placeName> – on Monday, 
 
 PAGE 80
 
-and lunched in the <placeName ref="#">Valley</placeName> with <persName ref="#">Theo</persName>.  I did not go out.   Had tea on the <placeName ref="#">Sudan</placeName> with Mrs. <persName ref="#">Anchincloss</persName> and Miss <persName ref="#">Jennings</persName>. Over to say goodbye to <persName ref="#">Contessa Contardone</persName> who was ill in bed with bad cold.
+and lunched in the <placeName ref="#">Valley</placeName> with <persName ref="#Theo">Theo</persName>.  I did not go out.   Had tea on the <placeName ref="#">Sudan</placeName> with Mrs. <persName ref="#Anchincloss">Anchincloss</persName> and Miss <persName ref="#Jennings">Jennings</persName>. Over to say goodbye to <persName ref="#Johnson">Contessa Contardone</persName> who was ill in bed with bad cold.
 
 Friday. Mar. 3rd.
 
-<persName ref="#">Elèna</persName> arrived from <placeName ref="#">Khartoum</placeName> last evening.  Mr. and Mrs. <persName ref="#">Newberry</persName> and Mr. <persName ref="#">Johnson</persName> (Père) Mr. <persName ref="#">Whymper</persName> were here for tea.  Mr. <persName ref="#">Nicol</persName> to dine.  We started 10 minutes to 11 o’clock – and at 6 p.m. were at <placeName ref="#">Keneh</placeName>, where we waited for <persName ref="#">Harry</persName> and <persName ref="#">Elèna</persName> to visit <placeName ref="#">Dendera</placeName> – then we moved on 2-3 miles for the night – making altogether 50 miles.
+<persName ref="#Elèna">Elèna</persName> arrived from <placeName ref="#">Khartoum</placeName> last evening.  Mr. and Mrs. <persName ref="#Newberry">Newberry</persName> and Mr. <persName ref="#Johnson">Johnson</persName> (Père) Mr. <persName ref="#Whymper">Whymper</persName> were here for tea.  Mr. <persName ref="#Nicol">Nicol</persName> to dine.  We started 10 minutes to 11 o’clock – and at 6 p.m. were at <placeName ref="#">Keneh</placeName>, where we waited for <persName ref="#Harry">Harry</persName> and <persName ref="#Elèna">Elèna</persName> to visit <placeName ref="#">Dendera</placeName> – then we moved on 2-3 miles for the night – making altogether 50 miles.
 
 Saturday. Mar. 4th.
-     40 miles. Sailed at 7 A.M. – reached <persName ref="#">Nagh Hamadi</persName> at 12:15, passed the bridge and then waited until 3:30, waiting for the tug to cool – and reached <placeName ref="#">Balliana</placeName> at 5:30 where we wait until tomorrow – to give <persName ref="#">Elèna Rathbone</persName> a chance to see <placeName ref="#">Abydos</placeName> – and we promised the <placeName ref="#">Navilles</placeName> to lunch with them.  It has been a fine, warm day – and our brillian young moon, and the resplendent <persName ref="#">Venus</persName>, make the nights too beautiful to sleep.
+     40 miles. Sailed at 7 A.M. – reached <persName ref="#Nagh_Hamadi">Nagh Hamadi</persName> at 12:15, passed the bridge and then waited until 3:30, waiting for the tug to cool – and reached <placeName ref="#">Balliana</placeName> at 5:30 where we wait until tomorrow – to give <persName ref="#Elèna">Elèna Rathbone</persName> a chance to see <placeName ref="#">Abydos</placeName> – and we promised the <placeName ref="#">Navilles</placeName> to lunch with them.  It has been a fine, warm day – and our brillian young moon, and the resplendent <persName ref="#Jennings">Venus</persName>, make the nights too beautiful to sleep.
 
 Monday. Mar. 6th.
 Started about 10 for <placeName ref="#">Abydos</placeName> – fearing a hot day – had 2 carriages – we found a cold north wind blowing, and we really suffered with cold.  It was a market day, and the people were streaming along the dusty road – men, women carrying babies, camels, donkeys, sheep and
 
 PAGE 81
 
-goats – making the air thick with dust.  It is such a pity that one must always see <placeName ref="#">Abydos</placeName> in the glare of mid-day!  Mme. <persName ref="#">Naville</persName> came up from their little house in its nest in the sandy desert, to see us – and we all went back with her – I sitting on a man’s saddle on a wretched donkey, - the cold wind almost blowing my clothes off – and my eyes blinded.  But the little house was cheerful and comfortable and the lunch very good, and M. and Mme. <persName ref="#">Naville</persName> very nice as they always are.  Mr. <persName ref="#">Whitmore</persName> and Mr. <persName ref="#">Dixon</persName>, young men working with the <placeName ref="#">Navilles</placeName>.  The ride home was away from the wind, and the fields so green and fragrant with their blossoming crops, and the birds singing everywhere.  The people were in their straw houses, which they build for watching their crops – and it was very pastoral.  Found a huge mail waiting for us.  We steamed down to <persName ref="#">Girga</persName>, 8 miles, and are here for the night.
+goats – making the air thick with dust.  It is such a pity that one must always see <placeName ref="#">Abydos</placeName> in the glare of mid-day!  Mme. <persName ref="#Naville">Naville</persName> came up from their little house in its nest in the sandy desert, to see us – and we all went back with her – I sitting on a man’s saddle on a wretched donkey, - the cold wind almost blowing my clothes off – and my eyes blinded.  But the little house was cheerful and comfortable and the lunch very good, and M. and Mme. <persName ref="#Naville">Naville</persName> very nice as they always are.  Mr. <persName ref="#Whitaker">Whitmore</persName> and Mr. <persName ref="#Cyril">Dixon</persName>, young men working with the <placeName ref="#">Navilles</placeName>.  The ride home was away from the wind, and the fields so green and fragrant with their blossoming crops, and the birds singing everywhere.  The people were in their straw houses, which they build for watching their crops – and it was very pastoral.  Found a huge mail waiting for us.  We steamed down to <persName ref="#Weigall">Girga</persName>, 8 miles, and are here for the night.
 
 Tuesday. Mar. 7th.
 
@@ -148,15 +148,15 @@ Started at 6 A.M. and went on until 6 P.M. -  5 miles from <placeName ref="#">As
 
 Wednesday. Mar. 8th.
 52 miles.
-Arrived at <placeName ref="#">Assiut</placeName> early, and waited for various things – 4 hours – then on to 7 miles of <persName ref="#">Hadj Kandul</persName>.
+Arrived at <placeName ref="#">Assiut</placeName> early, and waited for various things – 4 hours – then on to 7 miles of <persName ref="#Nagh_Hamadi">Hadj Kandul</persName>.
 
 Thursday. March 9th.
 
-Started at 7 o’clock – stopped at <persName ref="#">Hagi Kondul</persName> for an hour
+Started at 7 o’clock – stopped at <persName ref="#Nagh_Hamadi">Hagi Kondul</persName> for an hour
 
 PAGE 82
 
-so that <persName ref="#">Elèna</persName> should see the <placeName ref="#">Khuenaton</placeName> pavement, then on, until <persName ref="#">Beni Hassan</persName> was reached, which <persName ref="#">Elèna</persName> and <persName ref="#">Harry</persName> visited.  The day hot – wind and clouds of dust.  43 miles.
+so that <persName ref="#Elèna">Elèna</persName> should see the <placeName ref="#">Khuenaton</placeName> pavement, then on, until <persName ref="#Artin_Pasha">Beni Hassan</persName> was reached, which <persName ref="#Elèna">Elèna</persName> and <persName ref="#Harry">Harry</persName> visited.  The day hot – wind and clouds of dust.  43 miles.
 
 Friday, March 10th.
 53 miles.
@@ -166,19 +166,19 @@ Started at 7 o’clock – spent 2 hours at <placeName ref="#">Minia</placeName>
 Saturday. Mar. 11th.
 87 miles.
 
-An early start at 6 o’clock – and reached <persName ref="#">Bedreschein</persName> at 7 o’clock.  The river has been rather good.  The tug has been on the sand once or twice for a short time, but the dahabya has not once touched it – a strong wind all day and cold. 
+An early start at 6 o’clock – and reached <persName ref="#Nagh_Hamadi">Bedreschein</persName> at 7 o’clock.  The river has been rather good.  The tug has been on the sand once or twice for a short time, but the dahabya has not once touched it – a strong wind all day and cold. 
 
 Second Sunday in Lent. March 12th.
 
-Started at 7 o’clock – and made the bridge at 9 o’clock and waited an hour to pass. Came to our landing at 11.30 – and found the mooring garden looking very pretty.  We arrived the 10th day from <placeName ref="#">Luxor</placeName>.  Found telegram telling of <persName ref="#">Harold Jones</persName>’ peaceful end on Thursday, the 9th.
+Started at 7 o’clock – and made the bridge at 9 o’clock and waited an hour to pass. Came to our landing at 11.30 – and found the mooring garden looking very pretty.  We arrived the 10th day from <placeName ref="#">Luxor</placeName>.  Found telegram telling of <persName ref="#Harold_Jones">Harold Jones</persName>’ peaceful end on Thursday, the 9th.
 
 March 13th. Monday.
 
-Mr. <persName ref="#">Draper</persName> to lunch yesterday.  At home all day – rather warm today.  <persName ref="#">Elèna</persName> and I drove into town this morning – saw a number
+Mr. <persName ref="#Draper">Draper</persName> to lunch yesterday.  At home all day – rather warm today.  <persName ref="#Elèna">Elèna</persName> and I drove into town this morning – saw a number
 
 PAGE 83
 
-of friends – met Mr. <persName ref="#">Newberry</persName> at <placeName ref="#">Deimers</placeName>, and he went with us to <placeName ref="#">Kolekians</placeName> and to <placeName ref="#">Kasseras</placeName> – there <persName ref="#">Theo</persName> and <persName ref="#">Harry</persName> joined us, and we went to Nachmans.  <persName ref="#">Elèna</persName> and <persName ref="#">Harry</persName> went after lunch to the <orgName ref="#">Mena House</orgName>, and <persName ref="#">Theo</persName> and I went for a drive – and finding ourselves, in spite of warm wraps, freezing in the cold wind, we came home.
+of friends – met Mr. <persName ref="#Newberry">Newberry</persName> at <placeName ref="#">Deimers</placeName>, and he went with us to <placeName ref="#">Kolekians</placeName> and to <placeName ref="#">Kasseras</placeName> – there <persName ref="#Theo">Theo</persName> and <persName ref="#Harry">Harry</persName> joined us, and we went to Nachmans.  <persName ref="#Harry">Elèna</persName> and <persName ref="#Harry">Harry</persName> went after lunch to the <orgName ref="#">Mena House</orgName>, and <persName ref="#Theo">Theo</persName> and I went for a drive – and finding ourselves, in spite of warm wraps, freezing in the cold wind, we came home.
 
 March 14th. Tuesday.
 
@@ -186,18 +186,18 @@ At home all day – still cold and windy.
 
 Wednesday. March 15th.
 
-<persName ref="#">Elèna</persName> and <persName ref="#">Harry</persName> made and early start for <placeName ref="#">Sakkara</placeName> – going by train to the <orgName ref="#">Mena House</orgName>, and taking donkeys for <placeName ref="#">Sakkara</placeName>.  They came back at 7 P.M. after a joyful day.  Mr. <persName ref="#">Winlock</persName> appeared this morning at 10 – and made quite a visit – then he, <persName ref="#">Theo</persName> and I went to town, and to <placeName ref="#">Kyticas</placeName>’s to see a lovely Greek statuette which <persName ref="#">Theo</persName> thinks of buying.  Mr. and Mrs. <persName ref="#">Newberry</persName> and Mr. <persName ref="#">Johnson</persName> came to lunch, and we had such a pleasant visit.  I went at 5 o’clock over to the Cleopatra to tea with the Whittakers – Lady <persName ref="#">Layard</persName>, and the 2 ladies staying with them, Mr. <persName ref="#">Johnson</persName> and Capt. <persName ref="#">Trefusis</persName> there.  Coming home, I overtook Theo walking, and as the cold, cold wind had much moderated, and he got into the carriage, we drove around the island.
+<persName ref="#Elèna">Elèna</persName> and <persName ref="#Harry">Harry</persName> made and early start for <placeName ref="#">Sakkara</placeName> – going by train to the <orgName ref="#">Mena House</orgName>, and taking donkeys for <placeName ref="#">Sakkara</placeName>.  They came back at 7 P.M. after a joyful day.  Mr. <persName ref="#Nicol">Winlock</persName> appeared this morning at 10 – and made quite a visit – then he, <persName ref="#Theo">Theo</persName> and I went to town, and to <placeName ref="#">Kyticas</placeName>’s to see a lovely Greek statuette which <persName ref="#Theo">Theo</persName> thinks of buying.  Mr. and Mrs. <persName ref="#Newberry">Newberry</persName> and Mr. <persName ref="#Johnson">Johnson</persName> came to lunch, and we had such a pleasant visit.  I went at 5 o’clock over to the Cleopatra to tea with the Whittakers – Lady <persName ref="#Johnson">Layard</persName>, and the 2 ladies staying with them, Mr. <persName ref="#Johnson">Johnson</persName> and Capt. <persName ref="#Artin_Pasha">Trefusis</persName> there.  Coming home, I overtook Theo walking, and as the cold, cold wind had much moderated, and he got into the carriage, we drove around the island.
 
 Thursday. Nov. 16th.
-In town this morning – met <persName ref="#">Artin Pasha</persName>, and Mr. <persName ref="#">Sayce</persName> at <placeName ref="#">Kyticas</placeName>’s – then went to the Museum – <persName ref="#">M. Daressy</persName> took us into his
+In town this morning – met <persName ref="#Artin_Pasha">Artin Pasha</persName>, and Mr. <persName ref="#Carter_Bonham">Sayce</persName> at <placeName ref="#">Kyticas</placeName>’s – then went to the Museum – <persName ref="#Maspero">M. Daressy</persName> took us into his
 
 PAGE 84
 
-working room, to show how he was succeeding with the restoring of the beautiful coffin found in Queen <persName ref="#">Tiyi</persName>’s tomb – a long and very difficult task it is.  
+working room, to show how he was succeeding with the restoring of the beautiful coffin found in Queen <persName ref="#Theo">Tiyi</persName>’s tomb – a long and very difficult task it is.  
 
 Friday. Mar. 17.
 
-The morning was so very hot, that we did nothing but drive until 12 o’clock – when I left <persName ref="#">Theo</persName> at the boat, and I went to the Semeraine’s Hotel to see Mrs. <persName ref="#">Duvar</persName> – she was not at home.  I left a note for her.  In the afternoon, <persName ref="#">Elèna</persName> went with Mr. <persName ref="#">Bonar-Carter</persName> to polo – Harry and Mr. <persName ref="#">Whymper</persName> to the Zoo, where <persName ref="#">Theo</persName> and I soon followed them – and had a lovely visit.  Just as we came away, we me <persName ref="#">Artin Pasha</persName>, and Mr. <persName ref="#">Sayce</persName>, who said they had just been to the boat hoping to find us, so they came back all of them for tea, and a long visit, and much pleasant talk.
+The morning was so very hot, that we did nothing but drive until 12 o’clock – when I left <persName ref="#Theo">Theo</persName> at the boat, and I went to the Semeraine’s Hotel to see Mrs. <persName ref="#Elèna">Duvar</persName> – she was not at home.  I left a note for her.  In the afternoon, <persName ref="#Elèna">Elèna</persName> went with Mr. <persName ref="#Carter_Bonham">Bonar-Carter</persName> to polo – Harry and Mr. <persName ref="#Whymper">Whymper</persName> to the Zoo, where <persName ref="#Theo">Theo</persName> and I soon followed them – and had a lovely visit.  Just as we came away, we me <persName ref="#Artin_Pasha">Artin Pasha</persName>, and Mr. <persName ref="#Maspero">Sayce</persName>, who said they had just been to the boat hoping to find us, so they came back all of them for tea, and a long visit, and much pleasant talk.
 
 Saturday. Mar. 18th.
 
@@ -205,25 +205,25 @@ In the house all day – a severe gale began about 7 o’clock – and grew in v
 
 Sunday. Mar. 19th.
 
-The weather quite perfect today.  I have not been out.  Mr. <persName ref="#">Bonham Carter</persName> came in this afternoon – and Capt. <persName ref="#">Trefusis</persName> – looking 
+The weather quite perfect today.  I have not been out.  Mr. <persName ref="#Carter_Bonham">Bonham Carter</persName> came in this afternoon – and Capt. <persName ref="#Kronprinz_Wilhelm">Trefusis</persName> – looking 
 
 PAGE 85
 
-so well, and announcing his engagement to Miss <persName ref="#">Margery Graham</persName> – the marriage to take place in May.   She is a daughter of Sir <persName ref="#">John Graham</persName> and a niece of Lord <placeName ref="#">Northampton</placeName>.
+so well, and announcing his engagement to Miss <persName ref="#Kronprinz_Wilhelm">Margery Graham</persName> – the marriage to take place in May.   She is a daughter of Sir <persName ref="#Kronprinz_Wilhelm">John Graham</persName> and a niece of Lord <placeName ref="#">Northampton</placeName>.
 
 Monday. Mar. 20th.
 
-In the house all day, except for a short visit to town.  Mrs. <persName ref="#">Dewar</persName> came for a visit at 12 o’clock – and Miss Coater for lunch.  Since then I have been busy packing.  The day has been decidedly cool.
+In the house all day, except for a short visit to town.  Mrs. <persName ref="#Maspero">Dewar</persName> came for a visit at 12 o’clock – and Miss Coater for lunch.  Since then I have been busy packing.  The day has been decidedly cool.
 
 Thursday. Mar. 23rd Ghezireh Palace Hotel
 
 We came here this afternoon to our old rooms.  It was sad to leave the dahabya – but the garden and lawns and trees are so lovely here, and our big windows let in so much of it to us – that it is quite lovely.
-<persName ref="#">Maspero</persName> to <persName ref="#">Louise</persName>, 11/10/1910 "<persName ref="#">Maspero Lettres</persName> to <persName ref="#">Louise</persName> p 497
+<persName ref="#Maspero">Maspero</persName> to <persName ref="#Louise">Louise</persName>, 11/10/1910 "<persName ref="#Maspero">Maspero Lettres</persName> to <persName ref="#Louise">Louise</persName> p 497
 CAIRE, LE 10 NOVEMBRE 1910
-Le travail commence á abonder au Musée : les touristes et les fouilleurs rentrent. <persName ref="#">Davis</persName> est arrivé avant-hier, florissant, avec <persName ref="#">Madame Andrews</persName> et une nièce nouvelle du nom de Rathbone, une grande et belle fille un peu fanée (wilted), mais de manières très supérieures á celles des nièces des années précédentes. II est plus bruyant que jamais, mais toujours brave homme, et nous avons été contents l’un
-et I'autre de nous revoir. Ils resteront une huitaine de jours ici, le temps de mettre la Bédouine en etat de naviguer. Parlant de dahabiéh, où as-tu mis la clef de notre cabine dans la <persName ref="#">Miriam</persName>? Nous en avons besoin pour faire donner une couche de peinture. Je vais la rechercher encore, mais dis-moi de toute façon si tu te rappelles où elle est: iI-est possible que, malgré tout, je ne la retrouve point par
+Le travail commence á abonder au Musée : les touristes et les fouilleurs rentrent. <persName ref="#Louise">Davis</persName> est arrivé avant-hier, florissant, avec <persName ref="#Madame_Andrews">Madame Andrews</persName> et une nièce nouvelle du nom de Rathbone, une grande et belle fille un peu fanée (wilted), mais de manières très supérieures á celles des nièces des années précédentes. II est plus bruyant que jamais, mais toujours brave homme, et nous avons été contents l’un
+et I'autre de nous revoir. Ils resteront une huitaine de jours ici, le temps de mettre la Bédouine en etat de naviguer. Parlant de dahabiéh, où as-tu mis la clef de notre cabine dans la <persName ref="#Madame_Andrews">Miriam</persName>? Nous en avons besoin pour faire donner une couche de peinture. Je vais la rechercher encore, mais dis-moi de toute façon si tu te rappelles où elle est: iI-est possible que, malgré tout, je ne la retrouve point par
 mes seules lumieres[ ... ]
-<persName ref="#">Callender Livingston</persName>? Per Pelham history website
+<persName ref="#Madame_Andrews">Callender Livingston</persName>? Per Pelham history website
 11
 	      1910-1911
 
