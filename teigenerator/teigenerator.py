@@ -18,9 +18,13 @@ def main(argv):
     # command line params
     if argv:
         input_file_name = argv[0]
-        output_file_name = argv[1]
+        tei_header_file_name = argv[1]
+        variations_filename = argv[2]
+        output_file_name = argv[3]
 
     print("input file: " + input_file_name)
+    print("tei header file: " + tei_header_file_name)
+    print("location variations file: " + variations_filename)
     print("output file: " + output_file_name)
 
     # read tei header file
