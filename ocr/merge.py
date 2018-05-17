@@ -338,12 +338,14 @@ def getLineTokens(text, toks):
 
 def printPreserveSpacing(toks, fileHandle, colored=False):
     toPrint = []
-    newline = '<br>' if html else '\n'
+    newline = '<br/>' if html else '\n'
     for tok in toks:
         if colored:
             toPrint.append(tok.repr.replace('\n', newline))
         else:
             toPrint.append(tok.val + tok.after.replace('\n', newline))
+    if html:
+        toPrint = ['<span>'] + toPrint + ['</span>']
     print(''.join(toPrint), file=fileHandle)
 
 def getCommonToks(afiles, bfiles):
