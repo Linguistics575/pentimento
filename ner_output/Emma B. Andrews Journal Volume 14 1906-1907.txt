@@ -44,8 +44,8 @@ Friday, Dec. 7.
      44 miles. A lovely day, but strong, south wind - passed the <persName ref="#Joe_Smith">Joe Smiths</persName> this morning at breakfast - but did not see them until we were almost past them. This constant south wind is hard for them.
 
 Saturday, Dec. 8.
-     45 miles. 	We have had our sails out several times today - but most of the time the wind was too strong for us. Made an early start at 5 <orgName ref="#">P.M.
-
+     45 miles. 	We have had our sails out several times today - but most of the time the wind was too strong for us. Made an early start at 5 <orgName ref="#">P.M.&lt;/orgName&gt;
+&lt;/orgName&gt;
 Page</orgName> 6
 
 Second Sunday in Advent. 

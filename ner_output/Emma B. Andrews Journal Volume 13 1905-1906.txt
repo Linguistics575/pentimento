@@ -160,8 +160,8 @@ Wednesday, Mar. 7th.
      5 miles.	Although we started early, we were driven to the bank about 10 o’clock - where we are now lying - 3 miles above <placeName ref="#">Girgeh</placeName> - which can be plainly perceived across the sand. Hard and cold wind all day.
 
 Thursday, Mar. 8th.
-     Naviles. Our men began rowing just as soon as there was light enough, but at 9 o’clock the gale was so strong, we had to pull up here, a mile below <placeName ref="#">Girga</placeName> - the “Nakt-Heb” french flag, is lying just above us, the “Gazelle” with Sir <persName ref="#Theo">Talton
-
+     Naviles. Our men began rowing just as soon as there was light enough, but at 9 o’clock the gale was so strong, we had to pull up here, a mile below <placeName ref="#">Girga</placeName> - the “Nakt-Heb” french flag, is lying just above us, the “Gazelle” with Sir <persName ref="#Theo">Talton&lt;/persName&gt;
+&lt;/persName&gt;
 Page</persName> 122
 
 Sykes, just below.
@@ -220,10 +220,10 @@ Friday, Mar. 23rd.
      We came up to the hotel this afternoon, finding our rooms all ready for us - our usual big ones - opening on the garden.
 
 Saturday, Mar. 24.
-     To the Museum this morning. Met v. Bissing - saw the splendid <persName ref="#Hathor">Hathor</persName> cow, found this winter at the Mentu-hotep temple at <placeName ref="#">Der el- 
-
-Page 126
-
+     To the Museum this morning. Met v. Bissing - saw the splendid <persName ref="#Hathor">Hathor</persName> cow, found this winter at the Mentu-hotep temple at <placeName ref="#">Der el- &lt;/placeName&gt;
+&lt;/placeName&gt;
+Page 126&lt;/placeName&gt;
+&lt;/placeName&gt;
 Bahari</placeName>. To <placeName ref="#">Cairo</placeName> this afternoon - tea at Shepheards - quite horrid in all that crowd, and blare of military music. Mr. <persName ref="#Dennis">Dalison</persName> to dine, pleasant evening.
 
 Sunday, 4th in Lent. Mar. 25th.

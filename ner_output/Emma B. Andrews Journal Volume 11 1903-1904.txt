@@ -363,7 +363,7 @@ Wednesday, April 13.
 	Home this morning - and in the afternoon to see Mrs. <persName ref="#Alice">Benson</persName> and Mrs. <persName ref="#Brown">Brown</persName>. The Hearstmans arrived today at this hotel. 
 
 Thursday, April 14. 
-		To the <placeName ref="#">Academia</placeName> this morning - the Miss Hearstmans with us. In the afternoon to <persName ref="#Brown">S. Giovanni</persName> e <persName ref="#Brown">Paolo</persName> - and then to Florians to tea. Hearstmans to dinner. Mr. and Mrs. <persName ref="#Brown">Brown</persName> called. 
+		To the <placeName ref="#">Academia</placeName> this morning - the Miss Hearstmans with us. In the afternoon to <persName ref="#Milton">S. Giovanni</persName> e <persName ref="#Brown">Paolo</persName> - and then to Florians to tea. Hearstmans to dinner. Mr. and Mrs. <persName ref="#Brown">Brown</persName> called. 
 
 Friday, April 15. 
 		The morning at <orgName ref="#">Doges Palace</orgName> - Hearstmans with us - afterwards to the <orgName ref="#">Treasury</orgName> of <persName ref="#S._Marko">S. Marko</persName> - and in the afternoon we took the steam launch of this hotel and went out to <placeName ref="#">Torcello</placeName>, just as we did last year, the Hearstmans with us - they came to dine - <orgName ref="#">Torcello</orgName> was very lovely - though the day was dark and threatening. 

@@ -16,6 +16,8 @@ data_dir = '../ner_markup'
 output_dir = '../ner_output'
 files = os.listdir(data_dir)
 for x in files:
+    
+    x = files[1]
     with open(os.path.join(data_dir, x), 'r') as f:
         content = f.read()
     content = re.sub('<PERSON>', '<persName>', content)
@@ -24,8 +26,25 @@ for x in files:
     content = re.sub('</LOCATION>', '</placeName>', content)
     content = re.sub('<ORGANIZATION>', '<orgName ref="#">', content)
     content = re.sub('</ORGANIZATION>', '</orgName>', content)
+    soup = BeautifulSoup(content, 'lxml')
+    for node in soup.find_all('persname'):
+        node.string = re.sub(r'\n', u'</persName>\n', node.string)
+    for node in soup.find_all('orgname'):
+        node.string = re.sub(r'\n', u'</orgName>\n', node.string)
+    for node in soup.find_all('placename'):
+        node.string = re.sub(r'\n', u'</placeName>\n', node.string)
+                 
+    soup = str(soup)
+    soup = re.sub('&lt;', '<', soup)
+    soup = re.sub('&gt;', '>', soup)
+    soup = re.sub('</p></body></html>', '', soup)
+    soup = re.sub('<html><body><p>', '', soup)
+    soup = re.sub('persname', 'persName', soup)
+    soup = re.sub('placename', 'placeName', soup)
+    soup = re.sub('orgname', 'orgName', soup)
+    
     with open(os.path.join(output_dir, x), 'w') as f:
-        f.write(content)
+        f.write(soup)
         
 files = os.listdir(output_dir)
 for x in files:

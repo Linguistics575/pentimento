@@ -21,7 +21,7 @@ very cold - and the ride seemed excessively long and tiring.  We spent a night a
 “Hotel du Louvre et de la Paix” at <placeName ref="#">Marseilles</placeName>, and took a drive the next morning through 
 the streets and along the quays - a cold wind blowing.  There had just passed over <placeName ref="#">France</placeName>, 
 or rather the south of <placeName ref="#">France</placeName>, one of the worst mistrals ever known and houses in <placeName ref="#">Avignon</placeName> 
-and <persName ref="#Rais">Nismes</persName> blown down, ships unable to enter or leave the port or <placeName ref="#">Marseilles</placeName> for days, 
+and <persName ref="#Hassan">Nismes</persName> blown down, ships unable to enter or leave the port or <placeName ref="#">Marseilles</placeName> for days, 
 snow at <orgName ref="#">Nice</orgName> etc. so that our disappointment in regard to seeing <placeName ref="#">Avignon</placeName>, <orgName ref="#">Nismes</orgName> and 
 <placeName ref="#">Arles</placeName>, which we had planned to do on our way down to <placeName ref="#">Marseilles</placeName>, and which my illness 
 prevented, was mitigated.
@@ -261,7 +261,7 @@ children.  Two of the men had distaffs which they twirled diligently, making thr
 above on the bank, beyond the forest of grandly waving palms, a mile or two away, lay the 
 village of <placeName ref="#">Benisoef</placeName>, with 10,000 inhabitants, and a sheik of its own.  About 3 o'clock we 
 pushed off, flying the merest little handkerchief of a sail with the wind lulled, and we 
-went on under the big sail until about 8 o'clock, when the Captain sent word through <persName ref="#M._Salah">M. 
+went on under the big sail until about 8 o'clock, when the Captain sent word through <persName ref="#Mahommed_Salah">M. &lt;/persName&gt;
 Salah</persName>, that he would like to tie up for the night - that there "was one big mountain" and 
 the current bad.  We were soon made fast to the bank - the crew had enclosed their deck 
 with canvas - a lantern was swung, rugs and blankets taken out - and they gathered about 
@@ -527,9 +527,9 @@ Page 24:
 
 upon these people, in their manner of living and thinking.
 
-	Mr <persName ref="#Annie_Freudenberg">Anderson</persName> seemed an intelligent, sensible man, with pleasant manners - and Mrs. A's fresh complexion did 
+	Mr <persName ref="#Anderson">Anderson</persName> seemed an intelligent, sensible man, with pleasant manners - and Mrs. A's fresh complexion did 
 not seem to have suffered anything from her 15 years residence in this climate.  They have 5 bright, healthy looking 
-children. The big lofty room - with its homely decorations - its American stove, its prints of <persName ref="#Annie_Freudenberg">George</persName> and <placeName ref="#">Martha 
+children. The big lofty room - with its homely decorations - its American stove, its prints of <persName ref="#Anderson">George</persName> and <placeName ref="#">Martha &lt;/placeName&gt;
 Washington</placeName> - the Bible texts framed and hung about the room, and a sewing machine piled high with half finished little 
 frocks, all told of housewifely care and order, and seemed such a domestic, wholesome bit in that eastern environment, 
 that it pleased me much.  We bought a Bible, for we have only a french one with us, and promising to call on our way 
@@ -676,17 +676,17 @@ Jan. 8th Wednesday
 
      We started very early this morning polling - and the men making such a noise from necessity, that <persName ref="#Theodore">Theodore</persName> gave orders 
 there should be no more polling before 7 o'clock.  In spite of light winds and dead calms, we reached Keneh (405 miles from 
-<placeName ref="#">Cairo</placeName>) about 2 o'clock.  We landed opposite the town, and took donkeys for <persName ref="#Dashoor">Denderah</persName>, half an hours ride away.  We crossed 
+<placeName ref="#">Cairo</placeName>) about 2 o'clock.  We landed opposite the town, and took donkeys for <persName ref="#Denderah">Denderah</persName>, half an hours ride away.  We crossed 
 the fields “sans ceremonie" - riding over patches of young onions and wheat, crossed the dry bed of a canal, and then 
 followed a little path across pleasant fields.  O! how charming it was as we all streamed along there! the bright day - the 
 fragrant air, the strange country - and actually, before my eyes at last, an Egyptian Temple! I knew it from prints and 
 photographs, but as we drew near it, the stupendous façade and gloomy portal, with vistas of enormous, closely set pillars, 
-with their heavy fantastic capitals of <persName ref="#Dashoor">Hathor</persName> heads, 
+with their heavy fantastic capitals of <persName ref="#Denderah">Hathor</persName> heads, 
      
 Page 32:
 
 was sufficiently impressive.  I will not attempt any description of it, for I can always find a better one to read than I 
-could write.  It is one of the most important and best preserved of the Temples - and the newest.  It was begun by <persName ref="#Dashoor">Ptolemy 
+could write.  It is one of the most important and best preserved of the Temples - and the newest.  It was begun by <persName ref="#Denderah">Ptolemy &lt;/persName&gt;
 XI</persName>, and finished under <persName ref="#Theodore">Tiberius</persName> and <persName ref="#Theodore">Nero</persName>.  <persName ref="#M._Salah">Marriette Bey</persName> says "<persName ref="#M._Salah">Jesus Christ</persName> was living in <placeName ref="#">Jerusalem</placeName> when this temple was 
 being completed" and he gives an admirable description of it, and of the allegorical sentiment shown by the sculptures and 
 paintings.  We walked about those great halls with their mighty columns like a handful of pigmies, looking at the pictures 
@@ -1060,7 +1060,7 @@ memory! That evening hour - the sweet note of some unknown bird - the strange sc
 Page 50:
 
 two almost barbarous people, human beings like myself, with whom for a moment, I had come in friendly contact! 
-Such memories become mental possessions!  Then we rowed across the river to <placeName ref="#">Assouan</placeName>, and walked to the <orgName ref="#">Post 
+Such memories become mental possessions!  Then we rowed across the river to <placeName ref="#">Assouan</placeName>, and walked to the <orgName ref="#">Post &lt;/orgName&gt;
 Office</orgName>.  
 
 Text:
@@ -1106,7 +1106,7 @@ with their black, black faces, with barbaric silver bracelets and anklets, rings
 ornaments on the forehead - and above all, the wild looking <persName ref="#Busharin">Bushareen</persName>, with the hair in long thick curls - all 
 made such a scene, that I could hardly give my attention to the fascinations of the bazaar.  <persName ref="#Theodore">Theodore</persName> bought a 
 really fine sword, and two assaigais, a Soudanese shield and other things - and <persName ref="#Mary">Mary</persName> and I, some baskets and 
-engraved gourds.  We lunched early, and <persName ref="#Theodore">Theodore</persName> and <persName ref="#M.S.">M.S.</persName> rode over to <placeName ref="#">Philae</placeName>, <persName ref="#Theodore">Theodore</persName> well mounted on a horse 
+engraved gourds.  We lunched early, and <persName ref="#Theodore">Theodore</persName> and <persName ref="#Mary">M.S.</persName> rode over to <placeName ref="#">Philae</placeName>, <persName ref="#Theodore">Theodore</persName> well mounted on a horse 
 that belonged a few weeks ago, to an English officer, killed in a skirmish with the Dervishes.  After receiving 
 a visit from Miss <persName ref="#Gibbs">Harrison</persName> and Miss <persName ref="#Lady_Hughes">Clarke</persName> from the English dahabeah, <persName ref="#Mary">Mary</persName> and I and <persName ref="#Georgette">Georgette</persName> went for a tour 
 of the island in the felucca.  One of the most fascinating features of dahabeah life is this little felucca - 
@@ -1174,7 +1174,7 @@ satisfaction in her own being, opinions and conditions.  We went with them throu
 court, with its splendid colonnade on either side - but of unequal length, and set at irregular 
 angles - the center of it heaped with the mud brick ruins of some Coptic houses, now destroyed, which 
 also had invaded the lovely little temple at the corner of the largest colonnade, just hanging over 
-the river in its ruins.  Even the space between the seven <persName ref="#Newman">Hathor</persName> columns had been built up with mud 
+the river in its ruins.  Even the space between the seven <persName ref="#Hathor">Hathor</persName> columns had been built up with mud 
 bricks.  At the further end of this court is the well known great portal, flanked by its mighty pylons, 
 with their huge sculpturings - beyond this, an inner court with colonnades on either side, with rooms 
 and chapel opening off from one of them.  Here, the capitals of the columns were beautiful - then 
@@ -1290,11 +1290,11 @@ cannot think of him without a little stab of pain in my heart - and when we said
 came along in the afternoon, he followed us to the boat crying "goodbye - goodbye". 
    
 	We lunched in Pharaoh's Bed", which I grieve to say was large enough to accommodate three                          
-other dahabeah parties - and then while <persName ref="#Mary">Mary</persName> was sketching, <persName ref="#Theodore">Theodore</persName> and I wandered about the whole of the 
-island, and sat down in the little temple of Nectanebo, with its <persName ref="#Theodore">Hathor</persName> headed columns, at the corner of 
+other dahabeah parties - and then while <persName ref="#Mary">Mary</persName> was sketching, <persName ref="#Hathor">Theodore</persName> and I wandered about the whole of the 
+island, and sat down in the little temple of Nectanebo, with its <persName ref="#Hathor">Hathor</persName> headed columns, at the corner of 
 the west colonnade of the large court - and looked down upon the river and off to the mountains over which 
 that beautiful warm pinkish tinge which we have so often noticed on the Nile, was already gathering.  We 
-might have thought of the old Ptolemies, of <persName ref="#Theodore">Cleopatra</persName>, of the changing fortunes and history of this lovely 
+might have thought of the old Ptolemies, of <persName ref="#Hathor">Cleopatra</persName>, of the changing fortunes and history of this lovely 
 island, but, as <persName ref="#Mariette">Mariette</persName> says, "the impression of the moment must prevail over the memories evoked", and we 
 drank in the beauty without saying much of its history - while trying to photograph the scene upon my mind, 
 the thought arose again and again "Will I ever see this again"!  I made afterwards a very faithful tour of 
@@ -1498,9 +1498,9 @@ Sunday - Jan. 26th
 
 	Much to our surprise and satisfaction this morning, we found a strong south east wind blowing, 
 and <persName ref="#Theodore">Theodore</persName> came down from the deck to breakfast, saying we were sailing splendidly, and making six 
-and seven miles an hour, and that <persName ref="#Ellen_Terry">Kom Omboa</persName> was in sight.  We had intended stopping here on our way 
+and seven miles an hour, and that <persName ref="#Theodore">Kom Omboa</persName> was in sight.  We had intended stopping here on our way 
 down, but really, except for real investigation, all that is left of the temple can be seen from the 
-river. Built after the conquest of <persName ref="#Ellen_Terry">Alexander</persName>, the encroachments of the river are now fast destroying 
+river. Built after the conquest of <persName ref="#Alexandre">Alexander</persName>, the encroachments of the river are now fast destroying 
 it - its façade has fallen, and huge stones lie half in and half out of the water.  So it was decided 
 not to interrupt our glorious course at that time, so flying past it we kept on our way. The wind 
 increased in force, and by afternoon it was almost a gale, and the numerous rocks in the river made 
@@ -1665,7 +1665,7 @@ Wednesday. Jan 29th
 sleeping after 5 o'clock is a difficult thing.  Today we have had very little head wind, and since 12 o'clock 
 the river has been like a soft blue mirror, reflecting the warm yellow of the sandstone cliffs of the east 
 side, and on either shore every object has been reproduced, inverted.  The men sang and pulled lustily, and 
-we made very good progress, until 3, when a wind from the north spoils everything - and with <persName ref="#Esneh">Esneh</persName> in sight 
+we made very good progress, until 3, when a wind from the north spoils everything - and with <persName ref="#Ellen_Terry">Esneh</persName> in sight 
 the whole afternoon we have only succeeded in coming to a stop for the night just below the Russian Consulate, 
 at 7 o'clock.  Again this evening repeats the same soft beauty of last - and we rejoice that we shall have the 
 full moon during our stay at <placeName ref="#">Luxor</placeName>.  
@@ -1693,7 +1693,7 @@ and earth were made of liquid opals.  The men were quieted by the beauty - and s
 some were at their devotions prostrate.  We had not finished dinner before we arrived, and when we went on deck 
 we found ourselves on fete - colored lights swung from the masts and hung about everywhere - and <persName ref="#Cook">Cook Ibrahim</persName> 
 was sending off rockets, which were received with shouts of admiration from the shadowy stretches of the river.  
-We found the "Flying Dutchman" lying just behind us.  <persName ref="#M.S.">M.S.</persName> went off directly with some of the men to the <orgName ref="#">Post 
+We found the "Flying Dutchman" lying just behind us.  <persName ref="#M.S.">M.S.</persName> went off directly with some of the men to the <orgName ref="#">Post &lt;/orgName&gt;
 Office</orgName>, and returned with a large parcel of letters and papers, which we have been busy reading all the evening.
 
 Text:
@@ -1935,8 +1935,8 @@ in their turn secrete them until a safe and advantageous opening offers itself -
 secret sale directly to the tourist.  It is soon known among this thieving fraternity, that a tourist is 
 anxious to buy good things, and willing to pay for them - and this accounts for the one or two mysterious men, 
 who are constantly squatting on the bank near us, and who if he catches the eye of us holds up some bag or 
-packet to attract our curiousity.  But <persName ref="#M.S.">M.S. 
-
+packet to attract our curiousity.  But <persName ref="#M.S.">M.S. &lt;/persName&gt;
+&lt;/persName&gt;
 Page</persName> 93:
 
 and the Captain ignore them, and they are are not allowed to be present themselves - and we do not notice 
@@ -2027,8 +2027,8 @@ were made to get away, and about 3 o'clock we put off, firing a farewell gun, an
 parting salute - as we were well going and had passed the post office, a man came out and shouted 
 there was a letter for <persName ref="#Theodore">Theodore</persName> - so we pulled up and <persName ref="#Theodore">Theodore</persName> and <persName ref="#M.S.">M.S.</persName> went ashore in the felucca, 
 returning in a few minutes indignant, as the letter had proved to be for some one on an English 
-dahabeah.  <persName ref="#M.S.">M.S. 
-
+dahabeah.  <persName ref="#M.S.">M.S. &lt;/persName&gt;
+&lt;/persName&gt;
 Page</persName> 97:
 
 was particularly ruffled - he stalked the deck, his eyes flashing and said in plain English, "that 
@@ -2193,7 +2193,7 @@ Sunday. Feb. 16
 
 	A morning of delightful calm.  The men rowed from day light to 12 o'clock, and we are now at 
 <orgName ref="#">Aboutig</orgName> 15 miles from <placeName ref="#">Assiout</placeName>.  We overtook Mr. <persName ref="#Chester">Chester</persName> in the “Rudder Grange” and he made us a 
-visit this evening with his friend Mr. <persName ref="#Theodore">Cooper</persName> - a sturdy blond, pink and white young Englishman.  We 
+visit this evening with his friend Mr. <persName ref="#Chester">Cooper</persName> - a sturdy blond, pink and white young Englishman.  We 
 showed our beautiful Sphinx, and little prince, with both of which he seemed properly impressed - 
 and said the former would grace any European Museum.  He was most alarming however in his predictions 
 of custom house dangers.
@@ -2202,7 +2202,7 @@ Text:
 Line 2202:
 Monday. Feb. 17th.
 
-	Another calm morning.  Our good sailors brought us to Assiout about noon.  <persName ref="#Theodore">Theodore</persName> has been 
+	Another calm morning.  Our good sailors brought us to Assiout about noon.  <persName ref="#Alexandre">Theodore</persName> has been 
 so much bored by our slow progress, that 
 
 Page 104:
@@ -2210,9 +2210,9 @@ Page 104:
 he takes our movements with the most gloomy limitations - and soon after breakfast when i saw through 
 the glass the trees and minarets of Assiout, and announced my discovery, I was laughed to scorn, and 
 he offered to bet $1000 lbs. I was wrong.  But here we are!  Soon after lunch we mounted our donkeys 
-and went to the American Mission taking our spare books and magazines to Mr. And Mrs. <persName ref="#Theodore">Alexandre</persName>.  (I 
-wonder what they will think of "<persName ref="#Jacoub">John Ward</persName>, Preacher".)  We took <persName ref="#Jacoub">Jacoub</persName> with us, so that Mr. <persName ref="#Ellen_Terry">Alexandre</persName> 
-could explain to him what <persName ref="#Chester">Theodore</persName> was willing to do with him in the way of schooling, if he wished to 
+and went to the American Mission taking our spare books and magazines to Mr. And Mrs. <persName ref="#Alexandre">Alexandre</persName>.  (I 
+wonder what they will think of "<persName ref="#Jacoub">John Ward</persName>, Preacher".)  We took <persName ref="#Jacoub">Jacoub</persName> with us, so that Mr. <persName ref="#Alexandre">Alexandre</persName> 
+could explain to him what <persName ref="#Theodore">Theodore</persName> was willing to do with him in the way of schooling, if he wished to 
 accept it.  But I think the idea is too big for him.  We found the four little Alexandres pale, 
 recovering from diphtheria.  After a pleasant call we said goodbye, and rode up the Mountain to the 
 the justly celebrated view of the wide plain.  While the rest climbed to the very top, I sat still on 
@@ -2253,7 +2253,7 @@ After breakfast <persName ref="#Theodore">Theodore</persName> went ashore and jo
 <persName ref="#Mary">Mary</persName> and I stayed on deck, watching through the glass the numerous birds who make their nests in 
 the crevices of the rocks - sometimes we would swing so near to these perpendicular cliffs, as 
 almost to touch.  The wind blew harder and harder - and we made for the opposite shore which was low 
-and sandy, and there made fast.  Mr. <persName ref="#Chester">Chester</persName> followed us, and he and Mr. <persName ref="#Cook">Cowper</persName> came in their small 
+and sandy, and there made fast.  Mr. <persName ref="#Chester">Chester</persName> followed us, and he and Mr. <persName ref="#Chester">Cowper</persName> came in their small 
 boat to pay us a visit, and we asked them to stay to lunch, which they did - so that the dull day 
 was most pleasantly broken.  They brought over some curious beads, and many scarabs, and an 
 interesting statuette - and we talked of antiquities
@@ -2353,7 +2353,7 @@ with an attempt at an American flat at the top - all the handiwork of <persName 
 on the table with a grand manner, saying, “C"est le gateau pour M. <placeName ref="#">Washington</placeName>”.  I plunged into it with a 
 knife when the time came, and we found it a most uneatable mass of sponge cake and confiture, deadly sweet, 
 so under cover of giving the crew a part in one National holiday, we sent most of it out to them, which 
-they greatly enjoyed - and “Mr. <persName ref="#Washington">Washington</persName>'s flag” adorns our prow, to the great amusement of the crew.
+they greatly enjoyed - and “Mr. <persName ref="#Dashoor">Washington</persName>'s flag” adorns our prow, to the great amusement of the crew.
 
 Text:
 Line 2359:
@@ -2402,7 +2402,7 @@ Page 112:
 
 touches, over he goes, and followed by two or three of the others, the boat is held until the stake is 
 driven in and we are fast.  <persName ref="#Tommy">Tommy</persName>'s little stove casts a comfortable fireside glow along the deck - 
-the unfailing dish of broken dry bread and lentil soup is smoking on it.  <persName ref="#Esneh">Esne</persName> shoulders his paid and 
+the unfailing dish of broken dry bread and lentil soup is smoking on it.  <persName ref="#Ellen_Terry">Esne</persName> shoulders his paid and 
 staff, and goes off at once to search for milk - the rest of the men get up the awning in a twinkling - 
 the big lantern is lighted and hung - the tired fellows tying their shawls over their heads, sit down 
 to rest, and everything is quiet and homelike.  Not often after a hard days row, do they sing now - but 
@@ -2422,7 +2422,7 @@ Thursday. Feb. 27th
 
 	A calm hot day - our men have worked magnificently, and we are now about 12 miles of <placeName ref="#">Cairo</placeName>.  
 We have packed and settled a great many things and have spent most of the day on deck in  spite of 
-the heat.  The Meydoum pyramid appeared early this morning - then <persName ref="#Theodore">Dashour</persName> and finally the well know 
+the heat.  The Meydoum pyramid appeared early this morning - then <persName ref="#Dashoor">Dashour</persName> and finally the well know 
 outlines of Gizeh - and I began to realize that the delicious Nile life was over.  It made us very 
 uncomfortable to see the men sitting in the intense sunlight hour after hour working 
 
@@ -2454,7 +2454,7 @@ palace enclosure
 Page 114:
 
 on the <placeName ref="#">Cairo</placeName> side, the waves were rushing past us, and the driving wind carried everything 
-movable before it.  General and formal congratulations were exchanged amongst all, from <persName ref="#Rais_Achmed">Rais 
+movable before it.  General and formal congratulations were exchanged amongst all, from <persName ref="#Rais">Rais &lt;/persName&gt;
 Achmed</persName> and M.S. down to the crew on our safe arrival.  <persName ref="#Theodore">Theodore</persName> and <persName ref="#M.S.">M.S.</persName> at once went ashore 
 and drove into town for our mail, and to secure rooms and money.  While <persName ref="#Mary">Mary</persName> and I, having 
 survived the misery of dismantling the dahabeah, and watched the last disposition of our many 
@@ -2531,7 +2531,7 @@ Monday. March 3d.
 
 	I got up very early this morning, and took a little bout at packing before breakfast.  
 <persName ref="#Georgette">Georgette</persName>, who has never been very useful, is going directly to <placeName ref="#">Paris</placeName> - and I am now able to get 
-on without her.  I gave the nice little <persName ref="#Mary">Mena</persName> to her, with some extra money to pay his expenses.  
+on without her.  I gave the nice little <persName ref="#Medinet_Abou">Mena</persName> to her, with some extra money to pay his expenses.  
 After an early breakfast, we drove directly to <placeName ref="#">Gizeh</placeName>, to a private dealer in antiquities, where we 
 stayed until 12 o'clock, bringing home some charming things.  More packing then, and general 
 adieux - and I rushed off in the carriage with <placeName ref="#">M.S.</placeName> for a visit to the Mosque of <persName ref="#Mary">Amru</persName>, away off in 
@@ -2589,7 +2589,7 @@ drive to the bankers for letters, and then our old favorite drive up the heights
 across the <placeName ref="#">Posolippo</placeName>.  What an enchanting air! and what an elixir it seemed after the soft air of 
 <placeName ref="#">Egypt</placeName>!  We got out of the carriage and walked quite a distance along that fine road, stopping to hang 
 over the walls, and gaze at that beautiful world spread like a map beneath us.  I read one of dear 
-<persName ref="#Esneh">Ettie Whalings</persName> charming letters, and wished over and over again that she and <persName ref="#Mary">Mary</persName> were with me, to 
+<persName ref="#Annie_Freudenberg">Ettie Whalings</persName> charming letters, and wished over and over again that she and <persName ref="#Mary">Mary</persName> were with me, to 
 help enjoy all that beauty.  <persName ref="#Mary">Mary</persName> is enthusiastic over everything she sees.
 
 Page 120:
@@ -2883,7 +2883,7 @@ castles, crumbling towers and walls, with ancient Roman towns nestling along the
 Then into the great plains of the <placeName ref="#">Campania</placeName>, an enormously fertile district under high cultivation now 
 called the <orgName ref="#">Terra di Lavoro</orgName>, then through the valley of the <placeName ref="#">Garigliano</placeName> - then that of the <placeName ref="#">Jacco</placeName>, and at 
 last we were approaching <placeName ref="#">Rome</placeName> with its Campagnia scenery - the <placeName ref="#">Sabine</placeName> and <placeName ref="#">Alban Mountains</placeName> on our right, 
-with the arches of the <orgName ref="#">Acqua Felice</orgName>, and <orgName ref="#">Acqua Marcia</orgName> striding along the plain - and the <placeName ref="#">Volscian 
+with the arches of the <orgName ref="#">Acqua Felice</orgName>, and <orgName ref="#">Acqua Marcia</orgName> striding along the plain - and the <placeName ref="#">Volscian &lt;/placeName&gt;
 Mountains</placeName> with glimpses of the sea on our left.
 
 	If I were a man I should make an expedition through all this country.  I would see many of 
@@ -2910,7 +2910,7 @@ appearance of the city will be vastly improved.  But very much of the old charm 
 character is lost.  All those rows of picturesque houses dipping their foundations in the flood of 
 the yellow Tiber, which gave such a charm to the banks of the river, are now being decourously tucked 
 away and hidden beyond the solid and handsome stone quays now building on both sides of the river.  
-We all burst into a howl of indignation however, when we came to the <persName ref="#Esneh">Ponte S. Angelo</persName>, to see a modern 
+We all burst into a howl of indignation however, when we came to the <persName ref="#Medinet_Abou">Ponte S. Angelo</persName>, to see a modern 
 iron suspension bridge thrusting itself within a stones toss of the S. Angelo! and it is said a 
 bridge of the same kind is to be thrown across the Forum! What a sense of satisfied delight one feels, 
 when the heavy curtain of <persName ref="#S._Paolo">S. Pietro</persName> falls behind one, and one confronts all the colossal magnificence 
@@ -2950,10 +2950,10 @@ walls of <placeName ref="#">Rome</placeName>, near the pyramid
 
 Page 135:
 
-tomb of <persName ref="#Washington">Caius Castius</persName>.  Its solemn yew trees, amongst which the birds were singing, and underneath 
+tomb of <persName ref="#Caius_Castius">Caius Castius</persName>.  Its solemn yew trees, amongst which the birds were singing, and underneath 
 the flowers were blooming on the quiet graves, made us say as we always do on that spot, that we 
 would rather be buried there, than anywhere else.  Then we drove to the grounds of the Villa 
-Borghese, and saw <persName ref="#Washington">King Umberto</persName> driving in a plain victoria, and the Queen in her carriage with her 
+Borghese, and saw <persName ref="#Caius_Castius">King Umberto</persName> driving in a plain victoria, and the Queen in her carriage with her 
 scarlet liveries. 
 
 Text:
@@ -3017,10 +3017,10 @@ utterly inaccessible ground, that my interest and curiosity are always fired.  D
 to the city it was funny to see the almost uninterrupted line of carriages setting towards 
 <placeName ref="#">St. Peters</placeName>, filled with tourists and red Baddekers.  I spent an hour and a half hunting 
 photographs, and buying some trifles, and then went back for T. and M.  In the afternoon 
-we made our third ineffectual attempt to get into <persName ref="#S._Lorenzo">S. Lorenzo</persName> in <placeName ref="#">Lucina</placeName> to see <persName ref="#Theodore">Guido 
-Reni</persName>'s Crucifixion, and then went to the <placeName ref="#">Parthenon</placeName> - afterwards driving up to the <placeName ref="#">Villa 
-Pamphilja Doria</placeName>, and home by way of the new gardens and drives of the <persName ref="#Villa_Corsini">Villa Corsini</persName>, past 
-the beautiful fountain of <persName ref="#Villa_Corsini">S. Paola</persName> and enjoying once more the matchless views of <placeName ref="#">Rome</placeName>, 
+we made our third ineffectual attempt to get into <persName ref="#S._Lorenzo">S. Lorenzo</persName> in <placeName ref="#">Lucina</placeName> to see <persName ref="#Theodore">Guido &lt;/persName&gt;
+Reni</persName>'s Crucifixion, and then went to the <placeName ref="#">Parthenon</placeName> - afterwards driving up to the <placeName ref="#">Villa &lt;/placeName&gt;
+Pamphilja Doria</placeName>, and home by way of the new gardens and drives of the <persName ref="#Annie_Freudenberg">Villa Corsini</persName>, past 
+the beautiful fountain of <persName ref="#S._Paolo">S. Paola</persName> and enjoying once more the matchless views of <placeName ref="#">Rome</placeName>, 
 which these terraces and drives give.
 
 Text:
@@ -3072,7 +3072,7 @@ P.M. - after a charming ride.  <placeName ref="#">Tuscany</placeName> is
 Page 139:
 
 very beautiful.  I have never seen it so late as this - everything green - the streets filled 
-with lovely flowers for sale.  We wanted to go back to our old quarters at the <placeName ref="#">Hotel de la 
+with lovely flowers for sale.  We wanted to go back to our old quarters at the <placeName ref="#">Hotel de la &lt;/placeName&gt;
 Ville</placeName>, but could not get them.
 
 Text:
@@ -3087,9 +3087,9 @@ preferred to climb down those stony staircases, rather than trust myself to it a
 two and a half hours in these incomparable galleries, before we emerged more dead than alive.  
 In the afternoon we drove to S. Miniato, which always delights me.  I like to sit down on the 
 parapet at the edge of the terrace, and look at the church, rich and lovely, with its inlaid 
-marbles tones and yellowed by age.  It is of the Pisan Florentine style, not unlike <persName ref="#S._Martino">S. Maria 
+marbles tones and yellowed by age.  It is of the Pisan Florentine style, not unlike <persName ref="#S._Martino">S. Maria &lt;/persName&gt;
 Novella</persName>, and the hideous and fantastic Italian cemetery which surrounds it cannot detract from 
-its charm.  Next to it, and apparently part of it is the old machicolated <placeName ref="#">Mozzi Palace</placeName>.  <persName ref="#St._Peters">S. 
+its charm.  Next to it, and apparently part of it is the old machicolated <placeName ref="#">Mozzi Palace</placeName>.  <persName ref="#St._Peters">S. &lt;/persName&gt;
 Miniato</persName> is one of my favorite spots in <placeName ref="#">Florence</placeName>, and when I am tired of looking at the church 
 I can turn and look at the fortifications built by <persName ref="#Michael_Angelo">Michael Angelo</persName>, through the gateway of which 
 we approach the church - and to the noble 
@@ -3255,7 +3255,7 @@ rain having slackened, to see the famous lions of <persName ref="#Theodore">Thor
 comfortably by the fire, and read my book.  At 5 o'clock we took the train for <placeName ref="#">Basle</placeName>, where we had 
 an excellent supper at the station, and then got into our sleeping car.  The weather in <placeName ref="#">Paris</placeName> is 
 cold and wet.  <persName ref="#Mary">Mary</persName> and I began the inevitable shopping career this afternoon.  We were surprised to 
-find that <persName ref="#Rene">Annie</persName> and <persName ref="#Sara_Gibbs">Sara</persName> were not here, neither was there a letter from them.  
+find that <persName ref="#Annie_Freudenberg">Annie</persName> and <persName ref="#Sara_Gibbs">Sara</persName> were not here, neither was there a letter from them.  
 
 Page 146:
 
@@ -3277,7 +3277,7 @@ Line 3275:
 Tuesday, April 22.
 
 	We left <placeName ref="#">Paris</placeName> this morning at 10 o'clock via <placeName ref="#">Boulogne</placeName> and <placeName ref="#">Falkestone</placeName>, and arrived at the hotel 
-about 6 p.m. leaving <persName ref="#Theodore">Theodore</persName> at the station with the luggage, to go through the vexations of the <orgName ref="#">Custom 
+about 6 p.m. leaving <persName ref="#Theodore">Theodore</persName> at the station with the luggage, to go through the vexations of the <orgName ref="#">Custom &lt;/orgName&gt;
 House</orgName>.  It has rained persistently most of the day - our crossing was disagreeable - but we had an 
 excellent state room, and I made myself comfortable on a lounge, and slept most of the way over.
 
@@ -3286,19 +3286,19 @@ Line 3285:
 Sunday evening, April 27th.
 
 	The days have flown by - the weather bad - dark and raining most of the time.  It is pleasant to 
-be in <placeName ref="#">London</placeName> once more - in spite of smoke and fog, and too, too frequent rain, it is charming.  Mr. <persName ref="#Rathbone">Rathbone 
-
+be in <placeName ref="#">London</placeName> once more - in spite of smoke and fog, and too, too frequent rain, it is charming.  Mr. <persName ref="#Rathbone">Rathbone &lt;/persName&gt;
+&lt;/persName&gt;
 Page</persName> 147:
 
 called on Thursday - and Friday morning we met him at <orgName ref="#">Agnews</orgName>, where we had gone to see the strange and 
-beautiful drawings of the “Legend of the Briar Rose” by <persName ref="#Brun">Burne Jones</persName> - in a series of four pictures.  The 
+beautiful drawings of the “Legend of the Briar Rose” by <persName ref="#Burne_Jones">Burne Jones</persName> - in a series of four pictures.  The 
 rooms were beautifully trimmed with flowers - it was the first morning of the exhibition, and if we had 
-waited until the afternoon, we would have seen a lot of notable people, Mr. <persName ref="#Brun">Gladstone</persName> among others.
+waited until the afternoon, we would have seen a lot of notable people, Mr. <persName ref="#Burne_Jones">Gladstone</persName> among others.
 
-	On Friday, we went to <persName ref="#Madonna">Minton</persName>'s and chose some beautiful new china.  On Saturday morning Mr <persName ref="#Villa_Corsini">Gaspard 
+	On Friday, we went to <persName ref="#Burne_Jones">Minton</persName>'s and chose some beautiful new china.  On Saturday morning Mr <persName ref="#Burne_Jones">Gaspard &lt;/persName&gt;
 Farrar</persName> called, and asked <persName ref="#Theodore">Theodore</persName> to dinner, where he is this evening.  Then we walked around to <placeName ref="#">Vigo Street</placeName> 
 to the two little silver shops, and at one of them <persName ref="#Theodore">Theodore</persName> bought some charming old silver platters and 
-trays.  Then to <persName ref="#Theodore">Dunthoran</persName>'s gallery, where in his pretty rooms we saw a lot of beautiful etchings by <persName ref="#Theodore">William 
+trays.  Then to <persName ref="#Theodore">Dunthoran</persName>'s gallery, where in his pretty rooms we saw a lot of beautiful etchings by <persName ref="#Theodore">William &lt;/persName&gt;
 Strange</persName> - one of which <persName ref="#Theodore">Theodore</persName> bought.  Here the sun which had been fitfully shining, disappeared - and a 
 yellow fog, which afterwards became black rapidly fell upon us - and in a few moments it was too dark to see 
 to read on the street.  There was nothing for it but to get into a four wheeler, detestable things, and come 
@@ -3360,10 +3360,10 @@ The freshness of the young foliage - the flowers - the birds - all made a pictur
 through Kings, <orgName ref="#">Trinity</orgName>, <persName ref="#Mary">Clare Colleges</persName>, and went to Mr. <persName ref="#Lüling">Lüling</persName>'s rooms for lunch, where we met a friend of his, Mr. 
 <persName ref="#Lüling">Fielding</persName> a younger son of the Earl of <persName ref="#Lüling">Denhigh</persName>.  A most delightful young fellow.  Then I went home for a rest, while 
 the rest went for service at <orgName ref="#">King</orgName>'s Chapel.  I was sorry not to see this - but I had a splitting headache.  At 4 
-o'clock <persName ref="#Mary">Mary</persName> and <persName ref="#Constance">Constance Austin</persName> went to Mrs. <persName ref="#Constance">George Darwin</persName>'s, a friend of <persName ref="#Constance">Constance</persName>'s, for afternoon tea, and Mr. 
+o'clock <persName ref="#Mary">Mary</persName> and <persName ref="#Constance">Constance Austin</persName> went to Mrs. <persName ref="#Constance">George Darwin</persName>'s, a friend of <persName ref="#Chester">Constance</persName>'s, for afternoon tea, and Mr. 
 <persName ref="#Lüling">Lüling</persName> came to take me and <persName ref="#Theodore">Theodore</persName> to Mr. <persName ref="#Lüling">Fieldings</persName> rooms in <orgName ref="#">Trinity College</orgName>, where we were to have tea - pleasant 
 rooms, and simple unaffected fellows.  The Mr. <persName ref="#Lüling">Fieldings</persName> who had secured places for us in the Chapel for afternoon 
-service, walked across the Quad with us - without anything on his head.  He and <persName ref="#Lüling">Lüling</persName>, who is a member of <orgName ref="#">Trinity 
+service, walked across the Quad with us - without anything on his head.  He and <persName ref="#Lüling">Lüling</persName>, who is a member of <orgName ref="#">Trinity &lt;/orgName&gt;
 Hall</orgName>, and both Roman Catholics, did not attend chapel, but on coming out Mr. <persName ref="#F.">F.</persName> came down from the organ gallery 
 with the organist, where he had been during the service - he is very musical.  We had a lovely service, and the famous 
 great organ - and all the men coming in in their white gowns, looked as if they might be a congregation of angels.  
@@ -3384,7 +3384,7 @@ Line 3380:
 	We brought our pleasant and all too short visit to <placeName ref="#">London</placeName> to an end this afternoon - leaving there at 
 4.30.  We looked longingly at <placeName ref="#">Winchester</placeName> as we came by, but hoped to see it tomorrow as our <placeName ref="#">S.S.</placeName> is not expected 
 until afternoon.  We left <placeName ref="#">Cambridge</placeName> last Monday morning, and were soon plunged into <placeName ref="#">London</placeName> engagements and 
-business.  <persName ref="#Theodore">Theodore</persName> and I did some necessary shopping, and <persName ref="#Constance">Constance</persName> and <persName ref="#Mary">Mary</persName> went to the <orgName ref="#">Royal Society of Water 
+business.  <persName ref="#Theodore">Theodore</persName> and I did some necessary shopping, and <persName ref="#Constance">Constance</persName> and <persName ref="#Mary">Mary</persName> went to the <orgName ref="#">Royal Society of Water &lt;/orgName&gt;
 Colours</orgName>.  In the evening <persName ref="#Theodore">Theodore</persName> and I dined with the Lidderdales - a trifle heavy - but as I know so little 
 about English society I always feel like assisting in a novel, when I go into it - and like to study the people.  
 Mr. <persName ref="#F.">L.</persName> was as delightful as he always is.
@@ -3401,7 +3401,7 @@ Page 152
 
 goodbye.  The <orgName ref="#">Le Roy Kings</orgName> too, bringing me some lovely flowers - and Mr. <persName ref="#Lidderdale">Lidderdale</persName>.  In the evening we drove 
 to <orgName ref="#">Chelsea</orgName> to dine with Mr. <persName ref="#Rathbone">Rathbone</persName> and his sister-in-law Miss Lüling, and had a charming evening - and the 
-next day Thursday was another rush until we left for <placeName ref="#">Southampton</placeName>.  We found Mrs. <persName ref="#Davis">Davis</persName> and <persName ref="#Mary">Miss Buttles</persName> here - 
+next day Thursday was another rush until we left for <placeName ref="#">Southampton</placeName>.  We found Mrs. <persName ref="#Davis">Davis</persName> and <persName ref="#Mariette">Miss Buttles</persName> here - 
 the former looking very ill - and now <persName ref="#Mary">Mary</persName> and I am sitting in a dismal heavy sitting room, feeing that the 
 fair is over, and prosaic things now await us.
 
@@ -3432,7 +3432,7 @@ First day (21-½ hours)		418 miles.
 5th   “ (fog)			442  “
 6th “    “			470   “
 
-We were still in a dense fog and reported to be 40 miles from <persName ref="#Sara_Gibbs">Sandy Hook</persName> (10 o'clock A.M.).  We have not yet 
+We were still in a dense fog and reported to be 40 miles from <persName ref="#Sampson">Sandy Hook</persName> (10 o'clock A.M.).  We have not yet 
 found a pilot, and are scarcely moving through the thick fog - sounding our whistle every moment.  Should this 
 fog lift, we would easily be in <placeName ref="#">New York</placeName> by noon - allowing for quarantine etc. but as we will surely be in today, 
 I now close this little record of the winter's travel, feeling assured that the pleasure of future reference to it, 
