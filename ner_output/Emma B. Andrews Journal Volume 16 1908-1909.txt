@@ -11,11 +11,11 @@ Monday. Nov. 9.
 
 PAGE 61
 
-<persName ref="#Eleanor">Eldon</persName> and <persName ref="#Whymper">Lady Gorst</persName>. Mr. and Mrs. <persName ref="#Pell">Pell</persName> have been dining with us. We have had a busy 10 days in <placeName ref="#">Cairo</placeName>.  Every one has been so kind.  We went to <persName ref="#Lady_Gorsts">Lady Gorsts</persName> to a garden party – to the <persName ref="#Iddings">Iddings</persName> to dine – and to a tea, where we met delightful people.  Mr. and Mrs. <persName ref="#Iddings">Iddings</persName> dined with us that evening, and Capt. <persName ref="#Trefusis">Trefusis</persName> – <persName ref="#Trefusis">M. Maspero</persName> another evening, and the Capt. Who also lunched with us.  The great event was <persName ref="#Theo">Theo</persName>’s presentation to the Khedive, which Mr <persName ref="#Iddings">Iddings</persName> has been trying to persuade him to do for 3 years – but this year he consented – and he was received in a private audience.  Mr. <persName ref="#Iddings">Iddings</persName> came for him in his own carriage, with his decorative Kavass, and 2 gorgeous running Sayces, and <persName ref="#Theo">Theo</persName> had to appear in frock coat and top hat at 10 in the morning.  I couldn’t but laugh when I saw them drive off in such style, for I knew how he hated it.  It was very successful however, and Mr. <persName ref="#Iddings">Iddings</persName> told me he had never seen the Khedive so interested in an interview.
+<persName ref="#Eleanor">Eldon</persName> and <persName ref="#Whymper">Lady Gorst</persName>. Mr. and Mrs. <persName ref="#Pell">Pell</persName> have been dining with us. We have had a busy 10 days in <placeName ref="#">Cairo</placeName>.  Every one has been so kind.  We went to <persName ref="#Lady_Gorsts">Lady Gorsts</persName> to a garden party – to the <persName ref="#Iddings">Iddings</persName> to dine – and to a tea, where we met delightful people.  Mr. and Mrs. <persName ref="#Iddings">Iddings</persName> dined with us that evening, and Capt. <persName ref="#Trefusis">Trefusis</persName> – <persName ref="#Trefusis">M. Maspero</persName> another evening, and the Capt. Who also lunched with us.  The great event was <persName ref="#Davis_Theodore">Theo</persName>’s presentation to the Khedive, which Mr <persName ref="#Iddings">Iddings</persName> has been trying to persuade him to do for 3 years – but this year he consented – and he was received in a private audience.  Mr. <persName ref="#Iddings">Iddings</persName> came for him in his own carriage, with his decorative Kavass, and 2 gorgeous running Sayces, and <persName ref="#Davis_Theodore">Theo</persName> had to appear in frock coat and top hat at 10 in the morning.  I couldn’t but laugh when I saw them drive off in such style, for I knew how he hated it.  It was very successful however, and Mr. <persName ref="#Iddings">Iddings</persName> told me he had never seen the Khedive so interested in an interview.
 
 Friday. Nov. 20.
 
-     In town with <persName ref="#Theo">Theo</persName> this morning, doing last things. Capt. <persName ref="#Trefusis">Trefusis</persName> lunched with us.  Our tug took us to the bridge landing at 1 o’clock and we hoped to get through the draw comfortably.  But the usual scrimmage occurred – and we came near losing the top of our big boom.  Then we had to get through the new <placeName ref="#">Ghizeh bridge</placeName> – we landed the Capt. And waited until most of the gyassas had passed through.  We got as far as the big Sugar station, 5 miles below Bedreschein – very cold. 
+     In town with <persName ref="#Davis_Theodore">Theo</persName> this morning, doing last things. Capt. <persName ref="#Trefusis">Trefusis</persName> lunched with us.  Our tug took us to the bridge landing at 1 o’clock and we hoped to get through the draw comfortably.  But the usual scrimmage occurred – and we came near losing the top of our big boom.  Then we had to get through the new <placeName ref="#">Ghizeh bridge</placeName> – we landed the Capt. And waited until most of the gyassas had passed through.  We got as far as the big Sugar station, 5 miles below Bedreschein – very cold. 
 
 PAGE 62
 
@@ -80,15 +80,15 @@ PAGE 65
 
 Wednesday. Dec. 2nd.
 
-     I have had a quietly busy and most pleasant day at home.  <persName ref="#Theo">Theo</persName> and <persName ref="#Eleanor">Eleanor</persName> were at <placeName ref="#">Karnak</placeName> and the <placeName ref="#">Luxor</placeName> temple.  A big mail last night, and reams of papers. No bad news.  <persName ref="#Mathilde">Mathilde</persName> better.
+     I have had a quietly busy and most pleasant day at home.  <persName ref="#Davis_Theodore">Theo</persName> and <persName ref="#Eleanor">Eleanor</persName> were at <placeName ref="#">Karnak</placeName> and the <placeName ref="#">Luxor</placeName> temple.  A big mail last night, and reams of papers. No bad news.  <persName ref="#Mathilde">Mathilde</persName> better.
 
 Thursday. Dec. 3rd.
 
-     <persName ref="#Theo">Theo</persName> and <persName ref="#Theo">Eleanor</persName> went to the <placeName ref="#">Valley</placeName> today and did not get back until 4 o’clock.  They report the road very bad as far as the bridge. <persName ref="#Harold_Jones">Harold</persName> is working between Hor-em-heb and Amenhotep II tomb.  Cold.
+     <persName ref="#Davis_Theodore">Theo</persName> and <persName ref="#Theo">Eleanor</persName> went to the <placeName ref="#">Valley</placeName> today and did not get back until 4 o’clock.  They report the road very bad as far as the bridge. <persName ref="#Harold_Jones">Harold</persName> is working between Hor-em-heb and Amenhotep II tomb.  Cold.
 
 Friday. Dec. 4th.
 
-     <persName ref="#Theo">Theo</persName> and <persName ref="#Eleanor">Eleanor</persName> at <placeName ref="#">Karnak</placeName> today – and I over to the town.  Mr. and Mrs. <persName ref="#Weigall">Weigall</persName> were here this afternoon.
+     <persName ref="#Davis_Theodore">Theo</persName> and <persName ref="#Eleanor">Eleanor</persName> at <placeName ref="#">Karnak</placeName> today – and I over to the town.  Mr. and Mrs. <persName ref="#Weigall">Weigall</persName> were here this afternoon.
 
 Saturday. Dec. 5th.
 
@@ -96,7 +96,7 @@ Saturday. Dec. 5th.
 
 Second Sunday in Advent. Dec. 6.
 
-     A quiet day at home – <persName ref="#Theo">Theo</persName> and <persName ref="#Eleanor">Eleanor</persName> over at the <placeName ref="#">Valley</placeName>. The roads and embankments have been so spoiled by the river, that they are well nigh impossible – and I cannot get over in my chair until they
+     A quiet day at home – <persName ref="#Davis_Theodore">Theo</persName> and <persName ref="#Eleanor">Eleanor</persName> over at the <placeName ref="#">Valley</placeName>. The roads and embankments have been so spoiled by the river, that they are well nigh impossible – and I cannot get over in my chair until they
 
 PAGE 66
 
@@ -120,7 +120,7 @@ Thursday. Dec. 10th.
 
 PAGE 67
 
-to call on Mrs. <persName ref="#Russell">Quibell</persName> and Miss <persName ref="#Bruce">Pirie</persName> – not at home – then asked for Miss <persName ref="#Bruce">Bruce</persName> and Miss <persName ref="#Dobie">Dobie</persName> – the former in bed – and I went up to her room to see her.  <persName ref="#Theo">Theo</persName> in the <placeName ref="#">Valley</placeName> today.
+to call on Mrs. <persName ref="#Russell">Quibell</persName> and Miss <persName ref="#Bruce">Pirie</persName> – not at home – then asked for Miss <persName ref="#Bruce">Bruce</persName> and Miss <persName ref="#Dobie">Dobie</persName> – the former in bed – and I went up to her room to see her.  <persName ref="#Davis_Theodore">Theo</persName> in the <placeName ref="#">Valley</placeName> today.
 
 Friday. Dec. 11.
 
@@ -132,7 +132,7 @@ Saturday. Dec. 12th.
 
 Third Sunday in Advent. Dec. 13.
 
-     <persName ref="#Eleanor">Eleanor</persName> and <persName ref="#Theo">Theo</persName> in the <placeName ref="#">Valley</placeName>.  Had a nice visit from Mr. <persName ref="#Whymper">Carter</persName> this morning – Mr. <persName ref="#Whymper">Whymper</persName>, Mr. and Mrs. <persName ref="#Weigall">Weigall</persName> dined with us, a pleasant evening.
+     <persName ref="#Eleanor">Eleanor</persName> and <persName ref="#Davis_Theodore">Theo</persName> in the <placeName ref="#">Valley</placeName>.  Had a nice visit from Mr. <persName ref="#Whymper">Carter</persName> this morning – Mr. <persName ref="#Whymper">Whymper</persName>, Mr. and Mrs. <persName ref="#Weigall">Weigall</persName> dined with us, a pleasant evening.
 
 Monday. Dec. 14th.
 
@@ -140,7 +140,7 @@ Monday. Dec. 14th.
 
 Tuesday. Dec. 15th.
 
-     <persName ref="#Harold">Harold Jones</persName> lunched here – having spent the night with the Weigalls – and intending to return there for the night.  <persName ref="#Harold">Theo</persName> and <persName ref="#Eleanor">Eleanor</persName> at <placeName ref="#">Der el Bahari</placeName>.
+     <persName ref="#Harold">Harold Jones</persName> lunched here – having spent the night with the Weigalls – and intending to return there for the night.  <persName ref="#Davis_Theodore">Theo</persName> and <persName ref="#Eleanor">Eleanor</persName> at <placeName ref="#">Der el Bahari</placeName>.
 
 PAGE 68
 
@@ -162,7 +162,7 @@ Friday. Dec. 25th.
 
 Tuesday. Dec. 29th.
 
-     At tea with the Scofields on the Maat.  <persName ref="#Harold">Harold</persName> here for the day.  Mr. <persName ref="#Pauline_Whitney">F. Lagge</persName> and his friend Mr. <persName ref="#Pauline_Whitney">Pease</persName> dined with us.  <persName ref="#Theo">Theo</persName> has 
+     At tea with the Scofields on the Maat.  <persName ref="#Harold">Harold</persName> here for the day.  Mr. <persName ref="#Pauline_Whitney">F. Lagge</persName> and his friend Mr. <persName ref="#Pauline_Whitney">Pease</persName> dined with us.  <persName ref="#Davis_Theodore">Theo</persName> has 
 
 PAGE 69
 
@@ -174,11 +174,11 @@ Wednesday. Dec. 30th.
 
 Thursday. Dec. 31st. 
 
-     Miss <persName ref="#Mathilde">Grace Scofield</persName>, <persName ref="#Eleanor">Eleanor</persName> and I, and <persName ref="#Theo">Theo</persName> went to the <placeName ref="#">Valley</placeName> today, lunched in our comfortable little stone house.  Perfect day.
+     Miss <persName ref="#Mathilde">Grace Scofield</persName>, <persName ref="#Eleanor">Eleanor</persName> and I, and <persName ref="#Davis_Theodore">Theo</persName> went to the <placeName ref="#">Valley</placeName> today, lunched in our comfortable little stone house.  Perfect day.
 
 Jan. 12th. Tuesday.
 
-     Various happenings social and otherwise since the month came in.  Mrs. <persName ref="#Weigall">Weigall</persName> and <persName ref="#Corinna_Smith">Corinna Smith</persName> come every Saturday morning to read.  Mr. and Mrs. <persName ref="#Walter_Jennings">Walter Brown</persName> of <placeName ref="#">Venice</placeName> are here for a month, with Mrs. B’s mother, Mrs. <persName ref="#Buchanan">Beckwith</persName>.  <persName ref="#Theo">Theo</persName> had Mr. <persName ref="#Nicol">Nicol</persName> out one day in the <placeName ref="#">Valley</placeName> wishing to show him the western valley.  Mrs. <persName ref="#Weigall">Henry Taft</persName> with her daughters dined with us one evening, with Mr. <persName ref="#Nicol">Nicol</persName>, <persName ref="#Eleanor">Weigall</persName> and <persName ref="#Joe_Smith">Joe Smith</persName>.  Then we had them (Mrs. and Miss <persName ref="#Joe_Smith">Taft</persName>) out to the <placeName ref="#">Valley</placeName> next day.  The <persName ref="#Jennings">Jennings</persName> have turned up.  <persName ref="#Arthur">Baron de Vos</persName> called – some things quite interesting have been found in the debris of the pit tomb Theo has been working in lately.  Bits of gold foil, stamped with the cartouches of
+     Various happenings social and otherwise since the month came in.  Mrs. <persName ref="#Weigall">Weigall</persName> and <persName ref="#Corinna_Smith">Corinna Smith</persName> come every Saturday morning to read.  Mr. and Mrs. <persName ref="#Walter_Jennings">Walter Brown</persName> of <placeName ref="#">Venice</placeName> are here for a month, with Mrs. B’s mother, Mrs. <persName ref="#Buchanan">Beckwith</persName>.  <persName ref="#Davis_Theodore">Theo</persName> had Mr. <persName ref="#Nicol">Nicol</persName> out one day in the <placeName ref="#">Valley</placeName> wishing to show him the western valley.  Mrs. <persName ref="#Weigall">Henry Taft</persName> with her daughters dined with us one evening, with Mr. <persName ref="#Nicol">Nicol</persName>, <persName ref="#Weigall">Weigall</persName> and <persName ref="#Joe_Smith">Joe Smith</persName>.  Then we had them (Mrs. and Miss <persName ref="#Joe_Smith">Taft</persName>) out to the <placeName ref="#">Valley</placeName> next day.  The <persName ref="#Jennings">Jennings</persName> have turned up.  <persName ref="#Arthur">Baron de Vos</persName> called – some things quite interesting have been found in the debris of the pit tomb Theo has been working in lately.  Bits of gold foil, stamped with the cartouches of
 
 PAGE 70
 
@@ -186,7 +186,7 @@ Thut-ankh-amon, <persName ref="#Arthur">Ai</persName> and S-ankh-aten, wife of T
 
 Friday. Jan. 15th.
 
-     Theo again in the <placeName ref="#">Valley</placeName> – Mr. <persName ref="#Erskine">Erskine</persName> has turned up again – he lunched with <persName ref="#Theo">Theo</persName> today.
+     Theo again in the <placeName ref="#">Valley</placeName> – Mr. <persName ref="#Erskine">Erskine</persName> has turned up again – he lunched with <persName ref="#Davis_Theodore">Theo</persName> today.
 
 Saturday. Jan 16th.
 
@@ -194,7 +194,7 @@ Saturday. Jan 16th.
 
 Jan. 21 – Thursday.
 
-     <persName ref="#Harold_Jones">Harold</persName> found yesterday in the last corner of the pit tomb, a most lovely alabaster statuette of a woman – about 9 in. high, the most perfect specimen of Egyptian art I have ever seen, and in perfect condition.  To think of her lying under that hard mud for nearly 3000 years! no inscription.  It is thought it may represent the wife of Thut-ankh-amen.  <persName ref="#Theo">Theo</persName>, <persName ref="#Eleanor">Eleanor</persName> and M. and Mme. <persName ref="#Corinna_Smith">Maspero</persName> in the valley today.  Lovely weather.
+     <persName ref="#Harold_Jones">Harold</persName> found yesterday in the last corner of the pit tomb, a most lovely alabaster statuette of a woman – about 9 in. high, the most perfect specimen of Egyptian art I have ever seen, and in perfect condition.  To think of her lying under that hard mud for nearly 3000 years! no inscription.  It is thought it may represent the wife of Thut-ankh-amen.  <persName ref="#Davis_Theodore">Theo</persName>, <persName ref="#Eleanor">Eleanor</persName> and M. and Mme. <persName ref="#Corinna_Smith">Maspero</persName> in the valley today.  Lovely weather.
 
 Third Sunday after Epiphany.  Jan. 24th.
 

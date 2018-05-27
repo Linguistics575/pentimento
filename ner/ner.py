@@ -10,14 +10,12 @@ from sklearn.preprocessing import Normalizer
 from sklearn.metrics.pairwise import cosine_similarity
 from collections import Counter
 
-titles = ['Mr.', 'Miss', 'Mrs.', 'Ms.', 'Lady', 'Dr.', 'Madame', 'M.', 'Mme.', 'Mlle.']
+titles = ['Mr.', 'Miss', 'Mrs.', 'Ms.', 'Lady', 'Dr.', 'Madame', 'M.', 'Mme.', 'Mlle.', 'Sir', 'Major']
 
 data_dir = '../ner_markup'
 output_dir = '../ner_output'
 files = os.listdir(data_dir)
 for x in files:
-    
-    x = files[1]
     with open(os.path.join(data_dir, x), 'r') as f:
         content = f.read()
     content = re.sub('<PERSON>', '<persName>', content)
@@ -47,6 +45,22 @@ for x in files:
         f.write(soup)
         
 files = os.listdir(output_dir)
+person_names = []
+for x in files:
+    with open(os.path.join(output_dir, x), 'r') as f:
+        content = f.read()
+    soup = BeautifulSoup(content, 'lxml')
+    for node in soup.find_all('persname'):
+        if 'S.S.' in node.text or 'SS ' in node.text:
+            node.name = 'name'
+            node.attrs = {'type': 'vessel'}
+        elif 'Hotel' in node.text:
+            node.name = 'name'
+            node.attrs = {'type': 'hotel'}
+        if node.name == 'persname':
+            person_names.append(node.text)
+person_names = Counter(person_names)
+
 for x in files:
     with open(os.path.join(output_dir, x), 'r') as f:
         content = f.read()
@@ -107,7 +121,12 @@ for x in files:
     ix = 0
     for e in elems:
         if e.name == 'persname':
-            e['ref'] = ref_dict[ix]
+            if e.text == 'Theo' or e.text == 'Theodore':
+                e['ref'] = '#Davis_Theodore'
+            elif e.text == 'Nettie' or e.text == 'Miss Buttles':
+                e['ref'] = '#Buttles_Jeanette'
+            else:
+                e['ref'] = ref_dict[ix]
             ix += 1
             
     soup = str(soup)
