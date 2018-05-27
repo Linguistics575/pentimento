@@ -10,7 +10,7 @@ from sklearn.preprocessing import Normalizer
 from sklearn.metrics.pairwise import cosine_similarity
 from collections import Counter
 
-titles = ['Mr.', 'Miss', 'Mrs.', 'Ms.', 'Lady', 'Dr.', 'Madame', 'M.', 'Mme.', 'Mlle.', 'Sir', 'Major']
+titles = ['Mr.', 'Miss', 'Mrs.', 'Ms.', 'Lady', 'Dr.', 'Madame', 'M.', 'Mme.', 'Mlle.', 'Sir', 'Major', 'SS. ']
 
 data_dir = '../ner_markup'
 output_dir = '../ner_output'
@@ -50,15 +50,23 @@ for x in files:
     with open(os.path.join(output_dir, x), 'r') as f:
         content = f.read()
     soup = BeautifulSoup(content, 'lxml')
-    for node in soup.find_all('persname'):
-        if 'S.S.' in node.text or 'SS ' in node.text:
+    for node in soup.find_all(['orgname', 'placename', 'persname']):
+        if 'S.S.' in node.text or 'SS. ' in node.text:
             node.name = 'name'
-            node.attrs = {'type': 'vessel'}
+            node.attrs = {'type': 'vessel', 'ref': '#{}'.format(re.sub(' ', '_', node.text))}
         elif 'Hotel' in node.text:
             node.name = 'name'
-            node.attrs = {'type': 'hotel'}
+            node.attrs = {'type': 'hotel', 'ref': '#{}'.format(re.sub(' ', '_', node.text))}
         if node.name == 'persname':
             person_names.append(node.text)
+    soup = str(soup)
+    soup = re.sub('</p></body></html>', '', soup)
+    soup = re.sub('<html><body><p>', '', soup)
+    soup = re.sub('persname', 'persName', soup)
+    soup = re.sub('placename', 'placeName', soup)
+    soup = re.sub('orgname', 'orgName', soup)
+    with open(os.path.join(output_dir, x), 'w') as f:
+        f.write(soup)
 person_names = Counter(person_names)
 
 for x in files:

@@ -10,7 +10,7 @@ Sunday, Oct. 30.
 
 We have had an uneventful stupid voyage, and are due at <placeName ref="#">Cherbourg</placeName> tomorrow.  We have had rain, cold winds, and rough seas.  Very pleasant rooms.
 
-<placeName ref="#">Paris</placeName> – Oct. 31. <orgName ref="#">Westminster Hotel</orgName>.
+<placeName ref="#">Paris</placeName> – Oct. 31. <name ref="#Westminster_Hotel" type="hotel">Westminster Hotel</name>.
 
 We made <orgName ref="#">Plymouth</orgName> at 7 o’clock this morning – I got up and looked out at the interesting coast – reached <placeName ref="#">Cherbourg</placeName> at 1 p.m. and were off at 3.  We felt some little trepidation at committing ourselves to a French railway – there has been such a history of accidents in <placeName ref="#">France</placeName>! But we knew that this line had been thoroughly repaired – as was shown by the piles of the old sleepers all along the road – in the most astounding state of decay – utter rottenness – they gave damning evidence of neglect.  I had never seen the <persName ref="#Brittany">Brittany</persName> country before. How charming those wide reaching fields were, in the late afternoon light – so softly green – and the characteristic, mostly 
 

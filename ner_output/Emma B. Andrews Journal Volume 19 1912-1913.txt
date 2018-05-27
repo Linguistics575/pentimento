@@ -16,11 +16,11 @@ PAGE 106
 
 Wednesday. Oct. 27th. (<persName ref="#Mary">Sarah</persName>’s note - it should be Nov. 27th. Either <orgName ref="#">EBA</orgName> or typist’s mistake)
 
-Arrived at noon today - found <persName ref="#Harry">Harry</persName> waiting for us.  The pleasant old appartment at the <placeName ref="#">Grand Hotel</placeName> - a tea at <persName ref="#Bertolini">Bertolini</persName>’s - and off in the <persName ref="#Bertolini">Prinz Heinrick</persName> for <placeName ref="#">Egypt</placeName> on Friday - a very smooth passage over a summer sea, and <placeName ref="#">Egypt</placeName> at last, and once again.  How glad we were for <persName ref="#Davis_Theodore">Theodore</persName>’s sake - and he was so happy to find himself once more here!
+Arrived at noon today - found <persName ref="#Harry">Harry</persName> waiting for us.  The pleasant old appartment at the <name ref="#Grand_Hotel" type="hotel">Grand Hotel</name> - a tea at <persName ref="#Bertolini">Bertolini</persName>’s - and off in the <persName ref="#Bertolini">Prinz Heinrick</persName> for <placeName ref="#">Egypt</placeName> on Friday - a very smooth passage over a summer sea, and <placeName ref="#">Egypt</placeName> at last, and once again.  How glad we were for <persName ref="#Davis_Theodore">Theodore</persName>’s sake - and he was so happy to find himself once more here!
 
 <persName ref="#Harry">Dahabya Beduin</persName>. Dec. 11th.
 
-We are now established on our boat - waiting for our tug - which should arrive in the morning.  How pleasant it is! after a whole month from home spent in hotels and steamers! It has been a busy week in <placeName ref="#">Cairo</placeName> - <persName ref="#Mary">Mary</persName> and <persName ref="#Doris">Doris</persName> have been sightseeing and motoring about.  I have been once to the Museum making a visit to Sir <persName ref="#Doris">Gaston Maspero</persName> with <persName ref="#Davis_Theodore">Theo</persName>.  We spoke of the magnificent cover to the so-called Tyii’s coffin which has never been shown to the public and is kept entirely apart in a private room.  A man capable of repairing it has been found, and has agreed to do the whole thing and to finish it within 5 months.  The gold work, as well as the exquisite inlay - it will be a grand addition to <persName ref="#Davis_Theodore">Theodore</persName>’s exhibit at the Museum.  We had quite a little tea party on Sunday afternoon, on the boat.  Mr. <persName ref="#Theodore">Sayce</persName>, <persName ref="#Artin_Pasha">Artin Pasha</persName>, <persName ref="#Claudius_Bey">Claudius Bey</persName> and the young <persName ref="#Claudius_Bey">Leavitts</persName>.  Mr. <persName ref="#Sayce">Sayce</persName> is on his way to <placeName ref="#">India</placeName>.  We gave a morning to the zoo - and generally a lot of sight seeing.
+We are now established on our boat - waiting for our tug - which should arrive in the morning.  How pleasant it is! after a whole month from home spent in hotels and steamers! It has been a busy week in <placeName ref="#">Cairo</placeName> - <persName ref="#Mary">Mary</persName> and <persName ref="#Doris">Doris</persName> have been sightseeing and motoring about.  I have been once to the Museum making a visit to Sir <persName ref="#Doris">Gaston Maspero</persName> with <persName ref="#Davis_Theodore">Theo</persName>.  We spoke of the magnificent cover to the so-called Tyii’s coffin which has never been shown to the public and is kept entirely apart in a private room.  A man capable of repairing it has been found, and has agreed to do the whole thing and to finish it within 5 months.  The gold work, as well as the exquisite inlay - it will be a grand addition to <persName ref="#Davis_Theodore">Theodore</persName>’s exhibit at the Museum.  We had quite a little tea party on Sunday afternoon, on the boat.  Mr. <persName ref="#Theodore">Sayce</persName>, <persName ref="#Bertolini">Artin Pasha</persName>, <persName ref="#Claudius_Bey">Claudius Bey</persName> and the young <persName ref="#Claudius_Bey">Leavitts</persName>.  Mr. <persName ref="#Sayce">Sayce</persName> is on his way to <placeName ref="#">India</placeName>.  We gave a morning to the zoo - and generally a lot of sight seeing.
 
 PAGE 107
 
@@ -62,7 +62,7 @@ PAGE 109
 
 Sunday. Jan. 19.
 
-We have had among other visitors this week, the <orgName ref="#">Hardys</orgName> to tea, Sir <persName ref="#Doris">Gaston</persName> and <persName ref="#Lady_Maspero">Lady Maspero</persName>, and Mr. and Mrs. <persName ref="#Artin_Pasha">Carlstone Sprague</persName> sent by Mrs. <persName ref="#Artin_Pasha">Metcalf</persName>, and Mr. <persName ref="#Medinet_Habu">Allen Marquand</persName>, windy and cold.
+We have had among other visitors this week, the <orgName ref="#">Hardys</orgName> to tea, Sir <persName ref="#Doris">Gaston</persName> and <persName ref="#Lady_Maspero">Lady Maspero</persName>, and Mr. and Mrs. <persName ref="#Lady_Maspero">Carlstone Sprague</persName> sent by Mrs. <persName ref="#Lady_Maspero">Metcalf</persName>, and Mr. <persName ref="#Medinet_Habu">Allen Marquand</persName>, windy and cold.
 
 Sunday. Jan. 26.
 
@@ -90,7 +90,7 @@ Very warm.  Mr. <persName ref="#Whymper">Whymper</persName> to breakfast - the P
 
 Sunday. March 2nd.
 
-On Monday <persName ref="#Mary">Mary</persName> and I went to tea with the Contessa in the gardens of the <placeName ref="#">Luxor Hotel</placeName> - met <persName ref="#Lady_Maspero">Lady Baring</persName>, <persName ref="#Mary">Miss Murray</persName>, and <persName ref="#Contessa_di_Villamarina">Contessa Pappenheim</persName> and daughter. Charming people all - yesterday we left for Aswân.
+On Monday <persName ref="#Mary">Mary</persName> and I went to tea with the Contessa in the gardens of the <name ref="#Luxor_Hotel" type="hotel">Luxor Hotel</name> - met <persName ref="#Lady_Maspero">Lady Baring</persName>, <persName ref="#Mary">Miss Murray</persName>, and <persName ref="#Contessa_di_Villamarina">Contessa Pappenheim</persName> and daughter. Charming people all - yesterday we left for Aswân.
 
 Sunday. March 9th.
 

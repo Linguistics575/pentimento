@@ -1,12 +1,12 @@
 ﻿Page 10
 
-<orgName ref="#">S.S. Fürst Bismarck</orgName>.
+<name ref="#S.S._Fürst_Bismarck" type="vessel">S.S. Fürst Bismarck</name>.
 	Nov. 27, 1900.
 		This is the last day of quite a remarkable voyage, so far as lovely, soft weather and a tranquil sea go. I have been indoors however much of the time with a bad cold, but amusing myself very well with books in my pleasant little sitting room. This is the second time I have occupied the Captain’s room - and I feel much at home here. It is the third time we have made this southern voyage in this comfortable ship - and once we crossed from <placeName ref="#">Southampton</placeName> to <placeName ref="#">New York</placeName> in her. We passed the <placeName ref="#">Azores</placeName> last Thursday, having sailed from <placeName ref="#">New York</placeName> the Saturday before, the 17 Nov. and stopped for 4 hours at <placeName ref="#">Gibraltar</placeName> on Sunday. Just now, we have <placeName ref="#">Sardinia</placeName> in view - and are due tomorrow morning early at <placeName ref="#">Naples</placeName>. We were expecting to leave <placeName ref="#">Naples</placeName> tomorrow evening on the <orgName ref="#">N.G. Lloyd</orgName>, “Preussen” - but from letters received at <placeName ref="#">Gibraltar</placeName>, are in doubt as to what kind of rooms we will get in her - and if we do not like them will wait in <placeName ref="#">Naples</placeName> for another steamer.
 
 Shepheards Hotel.
 	<placeName ref="#">Cairo</placeName>, <placeName ref="#">Egypt</placeName>. Dec. 7.
-		It is ten days now, that I have not had the chance to write. We landed at <placeName ref="#">Naples</placeName> early on the morning of the 28th, and went at once to the <placeName ref="#">Grand Hotel</placeName> for breakfast, which we had in the familiar corner sitting room on the 1st floor; leaving <persName ref="#Jones">Jones</persName> to struggle with the 
+		It is ten days now, that I have not had the chance to write. We landed at <placeName ref="#">Naples</placeName> early on the morning of the 28th, and went at once to the <name ref="#Grand_Hotel" type="hotel">Grand Hotel</name> for breakfast, which we had in the familiar corner sitting room on the 1st floor; leaving <persName ref="#Jones">Jones</persName> to struggle with the 
 
 Page 2
 
@@ -298,7 +298,7 @@ Page 33
 time to wait for the girls; but found that delightful enclosed terrace very comfortable - and decided we would go there for dinner - which we did, and are just home - a good dinner well served - and a rather attractive house, with its wide view of the rocks, river and mts. But how dismal is any hotel! Hot tonight - air deliciously dry - we are now beginning to receive accounts of the Queen’s funeral - indescribably imposing and touching.
 
 Tuesday, Feb. 12.
-	We walked on the island this morning, it being a little cooler - but hot enough - at 9:30 mercury at 72. Our big boom came down today - and all hands have been busy for we hope to get away tomorrow. I have never seen <placeName ref="#">Aswan</placeName> so unattractive. The heat - the hotels - all the changed surroundings, seem to make another place of it. In spite of the heat, the girls, with <persName ref="#Jones">Jones</persName> to take care of then, went over to <placeName ref="#">Philae</placeName> this afternoon - in a carriage, Heaven save the mark! a road has been made - they reported it awful. We went to the <orgName ref="#">Savoy Hotel</orgName> for dinner tonight - the dinner good, but cold and badly served. The house is much more attractive than the Cataract - cheerful and well furnished - and the palms and garden about it are really good. I should much prefer it to the Cataract hotel. But we all decided that we think the Beduin the best of all. We had a long row - and the north wind which has been blowing hard all day, was still going - but we hope it will blow itself out tonight. The only dahabeahs now here are the <persName ref="#Lathrop">Hathor</persName> and Nephtys - waiting for their people from the 2d cataract. I have never
+	We walked on the island this morning, it being a little cooler - but hot enough - at 9:30 mercury at 72. Our big boom came down today - and all hands have been busy for we hope to get away tomorrow. I have never seen <placeName ref="#">Aswan</placeName> so unattractive. The heat - the hotels - all the changed surroundings, seem to make another place of it. In spite of the heat, the girls, with <persName ref="#Jones">Jones</persName> to take care of then, went over to <placeName ref="#">Philae</placeName> this afternoon - in a carriage, Heaven save the mark! a road has been made - they reported it awful. We went to the <name ref="#Savoy_Hotel" type="hotel">Savoy Hotel</name> for dinner tonight - the dinner good, but cold and badly served. The house is much more attractive than the Cataract - cheerful and well furnished - and the palms and garden about it are really good. I should much prefer it to the Cataract hotel. But we all decided that we think the Beduin the best of all. We had a long row - and the north wind which has been blowing hard all day, was still going - but we hope it will blow itself out tonight. The only dahabeahs now here are the <persName ref="#Lathrop">Hathor</persName> and Nephtys - waiting for their people from the 2d cataract. I have never
 
 Page 34
 
@@ -360,7 +360,7 @@ Monday, Feb. 25.
 	I have had a busy day. We have had a north wind - it has been hot - the sailors have worked hard - we have made 30 miles, and are 4 miles below <placeName ref="#">Keneh</placeName> - just where we laid one night going up - Jan. 15. - about 6 weeks ago. The Horus passed us this morning going up - with the American flag.
 
 Tuesday, Feb. 26. 34 miles.
-	A very light favorable wind most of the day. We reached <persName ref="#Nagh_Hamadi">Nagh Hamadi</persName> about 4 o’clock - too late to get through the bridge, which as we turned around a bend of the river, we saw just closing. So we had to tie up for the night as the bridge does not open again until 7 A.M. The Philae with the <placeName ref="#">Shaw-Safes</placeName> overtook us just before we tied up. Mr. <persName ref="#Sayce">S.S.</persName> came over and asked us to go to tea, which we did. Then they started on, as they could go under the bridge. Very hot.
+	A very light favorable wind most of the day. We reached <persName ref="#Nagh_Hamadi">Nagh Hamadi</persName> about 4 o’clock - too late to get through the bridge, which as we turned around a bend of the river, we saw just closing. So we had to tie up for the night as the bridge does not open again until 7 A.M. The Philae with the <placeName ref="#">Shaw-Safes</placeName> overtook us just before we tied up. Mr. <name ref="#S.S." type="vessel">S.S.</name> came over and asked us to go to tea, which we did. Then they started on, as they could go under the bridge. Very hot.
 
 Page 39
 
@@ -451,7 +451,7 @@ Tuesday, Mar. 19th.
 Friday, Mar. 22.
 	It has been intolerably hot for 2 days - mercury at 93-95. All the electric fans going - a little visiting and shopping. The Tytus’s have been here all the week and we have enjoyed seeing them. This afternoon Mr. and Mrs. <persName ref="#Quibell">Quibell</persName> and <persName ref="#Baron">Baron</persName> v. <persName ref="#Bissing">Bissing</persName> came to tea and we had it on the garden terrace - v. Bissing looks poorly - we are off tomorrow.
 
-<placeName ref="#">Florence</placeName>, <placeName ref="#">Hotel Grande Bretagne</placeName>.
+<placeName ref="#">Florence</placeName>, <name ref="#Hotel_Grande_Bretagne" type="hotel">Hotel Grande Bretagne</name>.
 	April 23 - Tuesday.
 		A far away cry to a month ago, when in the heat of <placeName ref="#">Cairo</placeName> I made my last entry. We sailed from <placeName ref="#">Alexandria</placeName> the 23d on the Hapsburg, and landed at <placeName ref="#">Brindisi</placeName> the morning of the 26 - reaching <placeName ref="#">Rome</placeName> the same 
 
@@ -478,7 +478,7 @@ Hotel National.
 	<placeName ref="#">Lucerne</placeName> - May 3d - Friday.
 		Left <placeName ref="#">Milan</placeName> yesterday at 11:30 - and had a beautiful journey over the St. Gotthard. As we reached the northern side, and drew near <placeName ref="#">Lucerne</placeName>, the effects were charming - as the sky was filled with heavy clouds, through which the sun shone vividly from time to time giving lovely effects on lake, mountains, meadows, chalets, and quiet hamlets. Rain began to fall. The season greatly delayed - the cherry trees just coming into bloom - we are settled in the new part of the house, in luxurious rooms, furnished charmingly well. I have been out but little, the winds being cold, with frequent showers. The girls took a boat down the lake this afternoon. We go off tomorrow to <placeName ref="#">Basle</placeName> for the night.
 
-<orgName ref="#">Westminster Hotel</orgName>.
+<name ref="#Westminster_Hotel" type="hotel">Westminster Hotel</name>.
 	<placeName ref="#">Paris</placeName>, May 6th.
 		Left <placeName ref="#">Lucerne</placeName> at 2 o’clock on Saturday the 4th arriving at <placeName ref="#">Basle</placeName> at 4:30 - went as usual to our old rooms at the “Trois Rois” . <persName ref="#Baron">Baron</persName> v. <persName ref="#Theodore">Overbeck</persName> came over from <placeName ref="#">Freibourg</placeName> to dine with us, and we were off the next morning at 10 o’clock for <placeName ref="#">Paris</placeName>. A long, tiring ride as 
 
@@ -490,7 +490,7 @@ Tuesday, May 7.
 	A horrid day of rain - in doors all day - <persName ref="#Mary_Parsons">Mary Parsons</persName> came to dine.
 
 Wednesday, May 8.
-	The same story of bad weather - absolutely wintry - and constant rain. <persName ref="#Davis_Theodore">Theodore</persName> went to see the Kerbs at the <placeName ref="#">Chatham Hotel</placeName>. I dared not venture.
+	The same story of bad weather - absolutely wintry - and constant rain. <persName ref="#Davis_Theodore">Theodore</persName> went to see the Kerbs at the <name ref="#Chatham_Hotel" type="hotel">Chatham Hotel</name>. I dared not venture.
 
 Thursday, May 9.
 	The same kind of a day, but colder. <persName ref="#Davis_Theodore">Theodore</persName> and <persName ref="#Mary_Parsons">Mary Parsons</persName> went to the <placeName ref="#">Louvre</placeName>, and <persName ref="#Mary">Mary</persName> came to lunch. Later the sun came out so brilliantly it really seemed as if it might permanently have cleared - and <persName ref="#Davis_Theodore">Theodore</persName> proposed that I should go for a drive to the Bois. We have such a comfortable coupè that I went - but before we entered the <persName ref="#Baron">Bois</persName>, the clouds were again upon us, and the rain fell gently until we reached home. Miss Kerbs came in to tea, and was as nice and wonderful as ever.
@@ -504,7 +504,7 @@ Saturday, May 18.
 	A week of fussing. My daily drives have been my only solace. Weather has been, and is, cold - with high winds. Thursday being Ascension day, and a holiday, we went out to <placeName ref="#">Chantilly</placeName> to lunch - <persName ref="#Mary_Parsons">Mary Parsons</persName> with us. It was wintry - and sombre. The place full of people so that our lunch was a difficult affair. We had only time for the <placeName ref="#">Chateau</placeName> and its art treasures - and I spent much time looking from the windows on the wonderful park and pleasure grounds. A truly royal Chateau. We are off tomorrow for <placeName ref="#">London</placeName> - and my spirits are rising all the time.
 
 Monday, May 20.
-	<placeName ref="#">London</placeName>, <orgName ref="#">Bristol Hotel</orgName>.
+	<placeName ref="#">London</placeName>, <name ref="#Bristol_Hotel" type="hotel">Bristol Hotel</name>.
 		Established once more in our old quarters - which we have occupied for many years. We had a good journey from <placeName ref="#">Paris</placeName> yesterday - 
 
 Page 51
