@@ -10,7 +10,9 @@ from sklearn.preprocessing import Normalizer
 from sklearn.metrics.pairwise import cosine_similarity
 from collections import Counter
 
-titles = ['Mr.', 'Miss', 'Mrs.', 'Ms.', 'Lady', 'Dr.', 'Madame', 'M.', 'Mme.', 'Mlle.', 'Sir', 'Major', 'SS. ']
+titles = ['Mr.', 'Miss', 'Mrs.', 'Ms.', 'Lady', 'Dr.', 'Madame', 'M.', 'Mme.',
+          'Mlle.', 'Sir', 'Major']
+ship_titles = ['SS', 'S.S.', 'SS.']
 
 data_dir = '../ner_markup'
 output_dir = '../ner_output'
@@ -45,11 +47,49 @@ for x in files:
         f.write(soup)
         
 files = os.listdir(output_dir)
-person_names = []
 for x in files:
     with open(os.path.join(output_dir, x), 'r') as f:
         content = f.read()
     soup = BeautifulSoup(content, 'lxml')
+    
+    elems = []    
+    p = soup.p
+    e = soup.p.next_element
+    elems.append(e)  
+    while e.next_sibling:
+        e = e.next_sibling
+        elems.append(e)
+    
+    for e in elems:
+        if e.name == 'persname':
+            previous_token = e.previous_sibling
+            if previous_token:
+                previous_token = previous_token.split()[-1]
+                if previous_token in titles:
+                    e.string = previous_token + ' ' + e.string
+                    e.previous_sibling.replace_with(' '.join(e.previous_sibling.split()[0:-1]) + ' ')
+        if e.name in ['persname', 'orgname', 'placename']:
+            previous_token = e.previous_sibling
+            if previous_token:
+                previous_token = previous_token.split()[-1]
+                if previous_token in ship_titles:
+                    e.string = previous_token + ' ' + e.string
+                    e.previous_sibling.replace_with(' '.join(e.previous_sibling.split()[0:-1]) + ' ')
+    soup = str(soup)
+    soup = re.sub('</p></body></html>', '', soup)
+    soup = re.sub('<html><body><p>', '', soup)
+    soup = re.sub('persname', 'persName', soup)
+    soup = re.sub('placename', 'placeName', soup)
+    soup = re.sub('orgname', 'orgName', soup)
+    with open(os.path.join(output_dir, x), 'w') as f:
+        f.write(soup)
+
+person_names = []
+files = os.listdir(output_dir)
+for x in files:
+    with open(os.path.join(output_dir, x), 'r') as f:
+        content = f.read()
+    soup = BeautifulSoup(content, 'lxml')                
     for node in soup.find_all(['orgname', 'placename', 'persname']):
         if 'S.S.' in node.text or 'SS. ' in node.text:
             node.name = 'name'
@@ -70,6 +110,7 @@ for x in files:
 person_names = Counter(person_names)
 
 for x in files:
+    x = files[1]
     with open(os.path.join(output_dir, x), 'r') as f:
         content = f.read()
     soup = BeautifulSoup(content, "lxml")
@@ -94,12 +135,12 @@ for x in files:
     contexts = []
     for e in elems:
         if e.name == 'persname':
-            context = [e.previous_sibling + e.next_sibling]
+            context = [' '.join(e.previous_sibling.split()[-5:]) + ' '.join(e.next_sibling.split()[0:5])]
             contexts.append(context[0])
     
     tfidf = TfidfVectorizer(binary = True)
     tfidf_vecs = tfidf.fit_transform(contexts)
-    svd = TruncatedSVD(300)
+    svd = TruncatedSVD(200)
     normalizer = Normalizer(copy = False)
     pipeline = make_pipeline(svd, normalizer)
     vecs = pipeline.fit_transform(tfidf_vecs)   
