@@ -10,10 +10,10 @@ REFYEAR = None
 def main(argv):
     # DEFAULT VALUES
     parse_dates_enabled = True
-    input_file_name = "input.txt"
+    input_file_name = "input/emma b andrews journal volume 2 1892-1893.txt"
     tei_header_file_name = "teiheader.xml"
     variations_filename = "variations.xml"
-    output_file_name = "output.xml"
+    output_file_name = "output/emma b andrews journal volume 2 1892-1893.xml"
 
     # command line params
     if argv:
