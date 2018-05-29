@@ -23,3 +23,7 @@ wikipediaxmlreader/enwiki-20180420-redirect.sql
 wikipediaxmlreader/wikipedia.mwb
 
 wikimysql/.idea/workspace.xml
+
+teigeneratortool/venv/*
+
+teigeneratortool/.idea/workspace.xml

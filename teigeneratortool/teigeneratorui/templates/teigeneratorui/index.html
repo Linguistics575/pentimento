@@ -1,0 +1,127 @@
+{% load static %}
+
+<html>
+    <head>
+        <title>An example</title>
+        <link rel="stylesheet" type="text/css" href="{% static 'teigeneratorui/style.css' %}" />
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>
+            function genererateMarkup() {
+                console.log("JS: generate markup ...2")
+
+                var input = {
+                    'text': $("#input_text_area").val(),
+                    'header': $("#header_text_area").val(),
+                    'variations': $("#variations_text_area").val(),
+                }
+
+                var success = document.getElementById("success");
+                success.style.display = "none";
+
+                var loader = document.getElementById("loader");
+                loader.style.display = "block";
+
+                $.ajax({
+                    url: 'generatemarkup/',
+                    type: 'POST',
+                    contentType: 'application/json; charset=utf-8',
+                    data: JSON.stringify(input),
+                    dataType: 'text',
+                    success: function (data) {
+                       $("#output_text_area").val(data);
+                       loader.style.display = "none";
+                       success.style.display = "block";
+                    }
+                });
+            }
+
+            function saveTextAsFile(id_of_text_to_write, fileName)
+            {
+                var textToWrite = $(id_of_text_to_write).val();
+                var textFileAsBlob = new Blob([textToWrite], {type:'text/plain'});
+                var fileNameToSaveAs = fileName;
+
+                var downloadLink = document.createElement("a");
+                downloadLink.download = fileNameToSaveAs;
+                downloadLink.innerHTML = "Download File";
+                if (window.webkitURL != null)
+                {
+                    // Chrome allows the link to be clicked
+                    // without actually adding it to the DOM.
+                    downloadLink.href = window.webkitURL.createObjectURL(textFileAsBlob);
+                }
+                else
+                {
+                    // Firefox requires the link to be added to the DOM
+                    // before it can be clicked.
+                    downloadLink.href = window.URL.createObjectURL(textFileAsBlob);
+                    downloadLink.onclick = destroyClickedElement;
+                    downloadLink.style.display = "none";
+                    document.body.appendChild(downloadLink);
+                }
+
+                downloadLink.click();
+            }
+
+            function destroyClickedElement(event)
+            {
+                document.body.removeChild(event.target);
+            }
+
+            function upload(file_to_upload, upload_to_element)
+            {
+                var fileToLoad = document.getElementById(file_to_upload).files[0];
+
+                var fileReader = new FileReader();
+                fileReader.onload = function(fileLoadedEvent)
+                {
+                    var textFromFileLoaded = fileLoadedEvent.target.result;
+                    document.getElementById(upload_to_element).value = textFromFileLoaded;
+                };
+                fileReader.readAsText(fileToLoad, "UTF-8");
+            }
+        </script>
+    </head>
+    <body>
+        <div id ='title'>
+            <h1>TEI Generator</h1>
+        </div>
+
+        <div class='container'>
+            <div id="first">
+                <h3>Input</h3>
+                <textarea id="input_text_area" rows="30" cols="90"></textarea>
+                <input type="file" id="inputToUpload">
+                <button onclick="upload('inputToUpload', 'input_text_area');">Upload</button>
+                <button onclick="genererateMarkup();">Generate Markup</button>
+                <div id="loader"></div>
+                <div id="success">Success!</div>
+            </div>
+            <div id="second">
+                <h3>Output</h3>
+                <textarea id="output_text_area" rows="30" cols="90"></textarea>
+                <button onclick="saveTextAsFile('#output_text_area', 'markup.xml');">Export</button>
+            </div>
+            <div id="clear"></div>
+        </div>
+
+
+        <div class='container'>
+            <div id="first">
+                <h3>TEI Header</h3>
+                <textarea id="header_text_area" rows="30" cols="90">{{ teiheader }}</textarea>
+                <input type="file" id="headerToUpload">
+                <button onclick="upload('headerToUpload', 'header_text_area');">Upload</button>
+                <button onclick="saveTextAsFile('#header_text_area', 'header.xml');">Export</button>
+            </div>
+            <div id="second">
+                <h3>Location Variations</h3>
+                <textarea id="variations_text_area" rows="30" cols="90">{{ variations }}</textarea>
+                <input type="file" id="variationsToUpload">
+                <button onclick="upload('variationsToUpload', 'variations_text_area');">Upload</button>
+                <button onclick="saveTextAsFile('#variations_text_area', 'variations.xml');">Export</button>
+            </div>
+            <div id="clear"></div>
+        </div>
+    </body>
+</html>
