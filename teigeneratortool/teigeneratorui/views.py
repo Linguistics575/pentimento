@@ -19,11 +19,11 @@ def generatemarkup(request):
     print("PY: generating markup ...")
 
     json_data = json.loads(request.body)
-    text = json_data['text']
+    text_lines = json_data['text'].split("\n")
     header_root = ET.fromstring(json_data['header'].replace("\n", "\n"))
     variations_root = ET.fromstring(json_data['variations'].replace("\n", "\n"))
 
-    output = TEIGenerator.generateXML(text, header_root, variations_root)
+    output = TEIGenerator.generateXML(text_lines, header_root, variations_root)
     return HttpResponse(output)
 
 

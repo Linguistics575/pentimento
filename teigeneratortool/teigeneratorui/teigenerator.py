@@ -2,11 +2,8 @@ import xml.etree.cElementTree as ET
 import xml.dom.minidom as Minidom
 import teigeneratorui.dateutil.parser as DateParser
 
-def generateXML(text, header_root, variations_root):
+def generateXML(content_lines, header_root, variations_root):
     parse_dates_enabled = True
-
-    # read content file
-    content_lines = text.split("\n")
 
     # remove whitespaces
     content_lines = [x.strip() for x in content_lines]
