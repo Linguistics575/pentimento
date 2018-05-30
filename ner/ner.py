@@ -110,7 +110,6 @@ for x in files:
 person_names = Counter(person_names)
 
 for x in files:
-    x = files[1]
     with open(os.path.join(output_dir, x), 'r') as f:
         content = f.read()
     soup = BeautifulSoup(content, "lxml")
