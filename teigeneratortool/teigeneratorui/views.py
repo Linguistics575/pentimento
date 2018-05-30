@@ -23,10 +23,10 @@ def generatemarkup(request):
     
     with open(os.path.join('teigeneratortool', 'temp', 'input.txt'), 'w') as f:
         f.write(json_data['text'])
-    
+
     # Call named entity component
     subprocess.call('./teigeneratortool/ner.sh teigeneratortool/temp/input.txt', shell=True)
-    
+
     with open(os.path.join('teigeneratortool', 'temp', 'ner_output.txt'), 'r') as f:
         json_data['text'] = f.read()
     text_lines = json_data['text'].split("\n")

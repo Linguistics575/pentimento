@@ -27,11 +27,11 @@ content = re.sub('<ORGANIZATION>', '<orgName ref="#">', content)
 content = re.sub('</ORGANIZATION>', '</orgName>', content)
 soup = BeautifulSoup(content, 'lxml')
 for node in soup.find_all('persname'):
-    node.string = re.sub(r'\n', u'</persName>\n', node.string)
+    node.string = re.sub(r'\n', u'</persName>\n', str(node.string))
 for node in soup.find_all('orgname'):
-    node.string = re.sub(r'\n', u'</orgName>\n', node.string)
+    node.string = re.sub(r'\n', u'</orgName>\n', str(node.string))
 for node in soup.find_all('placename'):
-    node.string = re.sub(r'\n', u'</placeName>\n', node.string)
+    node.string = re.sub(r'\n', u'</placeName>\n', str(node.string))
              
 soup = str(soup)
 soup = re.sub('&lt;', '<', soup)
