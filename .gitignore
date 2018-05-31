@@ -27,3 +27,5 @@ wikimysql/.idea/workspace.xml
 teigeneratortool/venv/*
 
 teigeneratortool/.idea/workspace.xml
+
+teigeneratortool/teigeneratortool/temp/ner_output.txt
