@@ -8,11 +8,14 @@ import os
 from PorterStemmer import PorterStemmer
 from collections import Counter
 
+def getScriptDir():
+    return os.path.dirname(os.path.realpath(sys.argv[0]))
+
 p = PorterStemmer()
-wikiwords = set([line.split('\t')[0] for line in open('../WikipediaTitles/titleWordCount.tsv')])
-words = set([line.strip() for line in open('../spellchecker/words.txt').readlines()])
+wikiwords = set([line.split('\t')[0] for line in open(getScriptDir() + '/../WikipediaTitles/titleWordCount.tsv')])
+words = set([line.strip() for line in open(getScriptDir() + '/../spellchecker/words.txt').readlines()])
 lemmas = set([p.stem(word, 0, len(word)-1) for word in words])
-words.update([line.strip() for line in open('romannumerals.txt')])
+words.update([line.strip() for line in open(getScriptDir() + '/romannumerals.txt')])
 debug = None
 html = False
 
@@ -137,7 +140,7 @@ def doSpellingMerge(mergeInfo):
 
 def isCorrectCapitalization(seq, prevToken):
     for prev,cur in zip([prevToken] + seq, seq):
-        if prev.val == '.':
+        if prev and prev.val == '.':
             if not cur.val[0].isupper():
                 return False
         else:
@@ -193,7 +196,7 @@ def mergeUnigramFrequency(seqa, seqb, wordFreq):
     return [seqa, seqb]
 
 def doUnigramFrequncyMerge(mergeInfo, internalConfidentUnigrams):
-    freqs = {s.split('\t')[0]: int(s.split('\t')[1]) for s in open('brown_freq.txt').readlines()}
+    freqs = {s.split('\t')[0]: int(s.split('\t')[1]) for s in open(getScriptDir() + '/brown_freq.txt').readlines()}
 
     revisedMergeInfo = []
     for chunk in mergeInfo:
@@ -256,7 +259,7 @@ def doGuessMerge(mergeInfo):
     revisedMergeInfo = []
     for chunk in mergeInfo:
         if len(chunk) == 2:
-            chunk = mergeChunk(chunk[0], chunk[1], False)
+            chunk = mergeChunk(chunk[1], chunk[0], False)
         if len(revisedMergeInfo) and len(chunk) == len(revisedMergeInfo[-1]) == 1:
             revisedMergeInfo[-1][0].extend(chunk[0])
         else:
@@ -338,7 +341,7 @@ def getLineTokens(text, toks):
 
 def printPreserveSpacing(toks, fileHandle, colored=False):
     toPrint = []
-    newline = '<br/>' if html else '\n'
+    newline = '<br/>\n' if html else '\n'
     for tok in toks:
         if colored:
             toPrint.append(tok.repr.replace('\n', newline))
@@ -373,6 +376,7 @@ if not os.path.exists(outfolder):
 
 internalUnigrams = getCommonToks(afiles, bfiles)
 for afile, bfile in zip(afiles, bfiles):
+    print(afile)
     atoks = tokenize(afile)
     btoks = tokenize(bfile)
 
