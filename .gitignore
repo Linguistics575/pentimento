@@ -22,6 +22,10 @@ pngs/
 
 pdfs/
 
+WikipediaTitles/enwiki-latest-page.sql
+WikipediaTitles/titleWordCount.tsv
+WikipediaTitles/titles.txt
+
 wikipediaxmlreader/.idea/workspace.xml
 
 wikipediaxmlreader/enwiki-20180420-redirect.sql
