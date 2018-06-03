@@ -9,6 +9,16 @@ The goal of this project is to create an end-to-end system for parsing historica
 
 2. NER and XML Generation Tool
 
+The tool can be accessed here: http://eslamelsawy.pythonanywhere.com/teigenerator/
+
+The web interface is divided into 4 sections, the top left section is for user input, you can type any text or upload a file from local disk by clicking “choose file”, then picking a .txt file from local disk then clicking “upload”
+
+After that, click “Generate Markup”, and wait for couple of seconds until the output appears in the output section in the top right section of the page, the output can be saved to local disk as .xml file by clicking “Export”
+
+In the lower left section you can find the TEI header section, there is a default header that you can modify or you can upload your header .xml file from local disk by clicking “choose file”, then picking a .xml file, then clicking “upload”. This header will be included in the output xml.
+
+In the lower right section you can find the location name variations database, which you can “export” as xml file. This database is used to populate the ref attribute of placeName element in the generated markup, it tries to unify the ref attribute of different location spelling variations found in the text (e.g. Assouan and Aswân are both referring to the same name Aswan). More details about the schema of this database in the technical documentation below
+
 
 3. Batch Processing NER
 
