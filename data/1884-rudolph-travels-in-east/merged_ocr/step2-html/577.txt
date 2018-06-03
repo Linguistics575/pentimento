@@ -1,0 +1,24 @@
+<span><span style="color: #ff0000;">Author<br/>
+<br/>
+</span>UNIVERSITY OF TORONTO<br/>
+LIBRARY<br/>
+<br/>
+<span style="color: #ff0000;">[ </span><span style="color: #ff0000;">E </span><span style="color: #ff0000;">o </span><span style="color: #ff0000;">n </span><span style="color: #ff0000;">0 </span><span style="color: #ff0000;">t </span><span style="color: #ff0000;">p</span><span style="color: #ff0000;">,<br/>
+<br/>
+</span><span style="color: #ff0000;">remove<br/>
+</span>the <span style="color: #0000FF;">card<br/>
+</span>from this<br/>
+<br/>
+<span style="color: #ff0000;">I </span>Acme Library Card Pocket<br/>
+Under <span style="color: #0000FF;">Pan </span>"Ref. Index File.<span style="color: #ff0000;">"<br/>
+</span>Made <span style="color: #ff0000;">by </span>LIBRARY BUREAU<br/>
+<br/>
+<span style="color: #0000FF;">I<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span></span>

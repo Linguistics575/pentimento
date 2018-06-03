@@ -1,0 +1,57 @@
+<span>EUROPEAN AND EASTERN HOTELS. 297<br/>
+<br/>
+<span style="color: #0000FF;">Ghent</span>... Hotel de Vienne.<br/>
+Gmunden.. Hotel Belle Vue.<br/>
+Hamburg.. Hotel <span style="color: #0000FF;">Strait</span>.<br/>
+Hanover.. British Hotel<span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Heidelberg.. </span>Hotel de l'Europe.<br/>
+Innsbruck.. Hotel Tyrol.<br/>
+<br/>
+<span style="color: #0000FF;">[ </span><span style="color: #0000FF;">still</span>... Hotel <span style="color: #ff0000;">Kruez</span>.<br/>
+<br/>
+Kiel... Hotel Germania.<br/>
+Leipsic.. Hotel Baviere.<br/>
+Mayence.. Hotel de Hollande<span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Metz </span><span style="color: #0000FF;">(</span>Hotel de <span style="color: #0000FF;">Paris</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">. </span>Grand Hotel de <span style="color: #0000FF;">Meta</span>.<br/>
+Munich.. Hotel Belle Vue.<br/>
+Namur.. Hotel Holland.<br/>
+Neuwied.. Moravian Hotel<span style="color: #ff0000;">.<br/>
+<br/>
+</span>Ostend.<br/>
+<br/>
+<span style="color: #0000FF;">Passau.. </span>Hotel <span style="color: #ff0000;">Bayrischen </span>Hof.<br/>
+Regensburg.. Hotel Three Helmets<span style="color: #ff0000;">.<br/>
+</span>Rendsburg.. Hotel Bergman.<br/>
+Rochefort.. Hotel Biron.<br/>
+<span style="color: #ff0000;">Rotterdam.. </span>New Bath Hotel.<br/>
+<span style="color: #0000FF;">Salzburg.. </span>Hotel Erzherzog Carl.<br/>
+<span style="color: #0000FF;">Schwalbach.. </span>Hotel Metropole.<br/>
+<br/>
+Spa... Hotel de l'Europe.<br/>
+<br/>
+<span style="color: #0000FF;">Stettin.. </span>Hotel du <span style="color: #ff0000;">N </span><span style="color: #ff0000;">ord</span>.<br/>
+<span style="color: #0000FF;">Strasburg.. </span>Hotel Maison Rouge.<br/>
+Stuttgart.. Marquardt's Hotel.<br/>
+The Hague.. Hotel du Vieux Doelen.<br/>
+Trieste.. Hotel de la Ville.<br/>
+<br/>
+<span style="color: #0000FF;">Vienna </span><span style="color: #0000FF;">l </span><span style="color: #0000FF;">Special </span>} Hotel Metropole<span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Wiesbaden.. </span>Grand Hotel du Rhin<span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">Worms.. </span>Hotel de <span style="color: #0000FF;">1 </span>Europe.<br/>
+<br/>
+Switzerland and the Alpine Districts.<br/>
+Aarau.. Hotel de la Cigogne.<br/>
+<br/>
+Aigle.. Hotel Victoria.<br/>
+Airolo.. Hotel de la Poste.<br/>
+<span style="color: #ff0000;">Alpnacht.. </span>Hotel Pilatus.<br/>
+Andermatt. Hotel Trois Rois.<br/>
+<br/>
+Baden (<span style="color: #0000FF;">Switzerland</span>) <span style="color: #ff0000;">Hinterhof</span><span style="color: #ff0000;">.<br/>
+<br/>
+<br/>
+</span></span>

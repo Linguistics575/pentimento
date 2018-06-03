@@ -1,0 +1,249 @@
+<span><span style="color: #0000FF;">Bologna</span><span style="color: #0000FF;">:<br/>
+<br/>
+</span><span style="color: #0000FF;">Pellone</span>, <span style="color: #0000FF;">Arena </span>di <span style="color: #ff0000;">363</span><span style="color: #ff0000;">.<br/>
+<br/>
+</span>S. Paolo <span style="color: #0000FF;">371</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #ff0000;">Paaseggitm'p </span><span style="color: #0000FF;">Monument </span><span style="color: #0000FF;">trm</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">B. </span><span style="color: #0000FF;">Petronio </span><span style="color: #0000FF;">866</span>.<br/>
+<span style="color: #0000FF;">Piazza </span><span style="color: #ff0000;">Cevour </span><span style="color: #0000FF;">370</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">Galileo </span><span style="color: #0000FF;">MO</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">Maggiore </span><span style="color: #0000FF;">365</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">- </span><span style="color: #ff0000;">Melpighi </span><span style="color: #0000FF;">Sli</span><span style="color: #0000FF;">.<br/>
+</span>- 8. <span style="color: #0000FF;">Martino </span>380.<br/>
+<span style="color: #ff0000;">-</span><span style="color: #ff0000;">. </span>del <span style="color: #0000FF;">Nettuno </span><span style="color: #0000FF;">365</span>.<br/>
+- <span style="color: #0000FF;">dell'Otto </span><span style="color: #0000FF;">Agosto </span><span style="color: #0000FF;">880</span>.<br/>
+- Rossini 375.<br/>
+- <span style="color: #ff0000;">Vitt</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">Emanuele </span><span style="color: #ff0000;">365</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">S. </span><span style="color: #ff0000;">Pietro </span><span style="color: #ff0000;">872</span><span style="color: #ff0000;">.<br/>
+<br/>
+</span><span style="color: #ff0000;">_ </span><span style="color: #ff0000;">Pinacoteca </span><span style="color: #ff0000;">876</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Ports </span><span style="color: #ff0000;">dUze </span><span style="color: #ff0000;">lio </span><span style="color: #ff0000;">380</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">Galliera </span><span style="color: #ff0000;">J</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">S. </span><span style="color: #ff0000;">Innis </span><span style="color: #ff0000;">381</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">-1</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">Seregozze </span><span style="color: #ff0000;">Mt</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Portico </span><span style="color: #ff0000;">do</span><span style="color: #ff0000;">" </span><span style="color: #ff0000;">Banchi </span><span style="color: #ff0000;">366</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Post </span><span style="color: #ff0000;">Offiee </span><span style="color: #ff0000;">362</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Railway </span><span style="color: #ff0000;">Station </span><span style="color: #ff0000;">362</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Rossini </span><span style="color: #ff0000;">a </span><span style="color: #ff0000;">House </span><span style="color: #ff0000;">374</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">B. </span><span style="color: #ff0000;">Salvatore </span><span style="color: #ff0000;">366</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Spirito </span><span style="color: #ff0000;">Santo</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">Chapel<br/>
+<br/>
+</span><span style="color: #ff0000;">3</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">B. </span><span style="color: #ff0000;">Stefano </span><span style="color: #ff0000;">373</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Theatres </span><span style="color: #ff0000;">362</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">376</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Torre </span><span style="color: #ff0000;">Aainelli </span><span style="color: #ff0000;">372</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">Gariaendo</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">372</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">University </span><span style="color: #ff0000;">376</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Vie </span><span style="color: #ff0000;">delle </span><span style="color: #ff0000;">Asse </span><span style="color: #ff0000;">366</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">--</span><span style="color: #ff0000;">Cturtigliopt </span><span style="color: #ff0000;">372</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">Mazzini </span><span style="color: #ff0000;">374</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">Rizzoli </span><span style="color: #ff0000;">372</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">8</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">Stefano </span><span style="color: #ff0000;">373</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">B. </span><span style="color: #ff0000;">Vitale </span><span style="color: #ff0000;">375</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">Zamboni </span><span style="color: #ff0000;">trm</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">vietorlihnarcH.</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">Statue<br/>
+</span><span style="color: #ff0000;">of </span>M6.<br/>
+<span style="color: #0000FF;">Villa </span><span style="color: #ff0000;">Mesznnttt </span><span style="color: #0000FF;">380</span><span style="color: #0000FF;">.<br/>
+</span>- <span style="color: #ff0000;">Bevedin </span><span style="color: #0000FF;">1</span>.<br/>
+"<span style="color: #0000FF;">gg</span><span style="color: #0000FF;">.</span>""" ed Agricola<br/>
+<br/>
+<span style="color: #0000FF;">Bolzano </span>17.<br/>
+<span style="color: #ff0000;">Bonaeoola </span>102.<br/>
+<span style="color: #ff0000;">BOndione </span>197.<br/>
+<br/>
+S. <span style="color: #0000FF;">Bonifacio </span><span style="color: #0000FF;">242</span>.<br/>
+<span style="color: #ff0000;">Bordighen </span>93.<br/>
+<span style="color: #0000FF;">Borghetto </span>95.<br/>
+<br/>
+- di <span style="color: #0000FF;">Vam </span>102.<br/>
+Borgo S. <span style="color: #ff0000;">Agosunn </span><span style="color: #0000FF;">Wh<br/>
+</span><span style="color: #0000FF;">-</span><span style="color: #0000FF;">. </span><span style="color: #ff0000;">Buggilmu </span><span style="color: #0000FF;">m.<br/>
+</span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">B. </span><span style="color: #ff0000;">Dalmlno </span>M.<br/>
+<span style="color: #0000FF;">--</span><span style="color: #0000FF;">S. </span><span style="color: #0000FF;">Donnino </span><span style="color: #0000FF;">337</span>.<br/>
+<span style="color: #0000FF;">- </span><span style="color: #0000FF;">Lavezzaro </span>171.<br/>
+<span style="color: #0000FF;">- </span>S. Lorenzo <span style="color: #0000FF;">396</span>.<br/>
+<span style="color: #ff0000;">Punigale </span>382.<br/>
+<span style="color: #0000FF;">Ticino </span><span style="color: #0000FF;">fa</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">Borgoforte </span><span style="color: #0000FF;">241</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">-<br/>
+</span><span style="color: #0000FF;">--</span><span style="color: #0000FF;">-</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span>INDEX.<br/>
+<br/>
+<span style="color: #0000FF;">Borgofranco </span><span style="color: #0000FF;">M.<br/>
+</span><span style="color: #0000FF;">Borgomanero </span><span style="color: #0000FF;">18L<br/>
+</span><span style="color: #0000FF;">Borgone </span>2.<br/>
+<br/>
+<span style="color: #0000FF;">Borgotaro </span><span style="color: #0000FF;">346</span>.<br/>
+<span style="color: #0000FF;">30mm </span><span style="color: #0000FF;">Mg.<br/>
+</span><span style="color: #0000FF;">Harlan</span><span style="color: #0000FF;">: </span><span style="color: #0000FF;">WL<br/>
+</span><span style="color: #0000FF;">30mm</span>, the <span style="color: #0000FF;">49</span>.<br/>
+<br/>
+- <span style="color: #0000FF;">di </span><span style="color: #0000FF;">Millesimo </span><span style="color: #0000FF;">48</span><span style="color: #0000FF;">.<br/>
+</span>Bormio 162.<br/>
+<span style="color: #0000FF;">Borromean </span><span style="color: #0000FF;">Islands </span>179.<br/>
+<span style="color: #ff0000;">Boraelli </span>532.<br/>
+<br/>
+<span style="color: #ff0000;">Borzoli </span><span style="color: #0000FF;">to</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #ff0000;">Borzonasea </span>101.<br/>
+<span style="color: #ff0000;">Bogeoehietttrnovty </span><span style="color: #0000FF;">231</span>.<br/>
+<span style="color: #ff0000;">Boacolnngo </span><span style="color: #ff0000;">383</span>.<br/>
+<span style="color: #0000FF;">Bmh</span>, <span style="color: #ff0000;">Grotto</span><span style="color: #ff0000;">. </span>di M.<br/>
+<span style="color: #ff0000;">Bottuone </span>188.<br/>
+<span style="color: #ff0000;">Botzen </span>17.<br/>
+<br/>
+Bone, <span style="color: #ff0000;">anlonn </span><span style="color: #0000FF;">del </span><span style="color: #0000FF;">w.<br/>
+</span><span style="color: #ff0000;">Bouttithsariee </span><span style="color: #0000FF;">M.<br/>
+</span><span style="color: #0000FF;">Bonnet </span><span style="color: #0000FF;">Lu</span><span style="color: #0000FF;">. </span>du <span style="color: #0000FF;">L<br/>
+</span><span style="color: #0000FF;">mm</span><span style="color: #0000FF;">... </span>152.<br/>
+<span style="color: #0000FF;">Bozzolo </span><span style="color: #0000FF;">192</span>.<br/>
+<br/>
+Bra <span style="color: #0000FF;">47</span>.<br/>
+<br/>
+<span style="color: #0000FF;">Bracco </span><span style="color: #0000FF;">102</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #ff0000;">Bramapane </span>Monte IN.<br/>
+<span style="color: #ff0000;">Brundolin </span><span style="color: #ff0000;">325</span><span style="color: #ff0000;">.<br/>
+<br/>
+</span><span style="color: #ff0000;">Braus </span>Col di <span style="color: #ff0000;">46</span><span style="color: #ff0000;">.<br/>
+<br/>
+</span><span style="color: #ff0000;">Brh </span><span style="color: #ff0000;">il</span><span style="color: #ff0000;">.<br/>
+<br/>
+</span>-, <span style="color: #ff0000;">Monte </span>11.<br/>
+<br/>
+<span style="color: #0000FF;">Bragg</span><span style="color: #0000FF;">"</span>, the <span style="color: #0000FF;">u. </span><span style="color: #0000FF;">tID</span>.<br/>
+<span style="color: #0000FF;">Bregna </span>M.<br/>
+<span style="color: #ff0000;">Breitenatein </span>20.<br/>
+Brembo, the IN. 198.<br/>
+Brenner <span style="color: #0000FF;">18</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #ff0000;">Bnnnerbnd </span>16.<br/>
+<br/>
+<span style="color: #0000FF;">Brno </span><span style="color: #0000FF;">208.<br/>
+<br/>
+</span><span style="color: #0000FF;">menu</span>, the <span style="color: #0000FF;">211256.257</span>.<br/>
+<span style="color: #0000FF;">Brentonico </span><span style="color: #0000FF;">216</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">Breach</span><span style="color: #0000FF;">. </span>199.<br/>
+<br/>
+<span style="color: #0000FF;">Brendan </span>Al <span style="color: #0000FF;">a</span>, the 206.<br/>
+<span style="color: #0000FF;">Breanne </span>18.<br/>
+<br/>
+<span style="color: #0000FF;">Brianza</span>, the <span style="color: #ff0000;">152</span>.<br/>
+<span style="color: #ff0000;">Bricheraaio </span>42.<br/>
+<span style="color: #0000FF;">Brienno </span><span style="color: #0000FF;">166</span>.<br/>
+<br/>
+<span style="color: #0000FF;">Brim </span>M.<br/>
+<br/>
+Briglia 382.<br/>
+<br/>
+<span style="color: #0000FF;">Brigue </span><span style="color: #0000FF;">3</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Brione</span>, Monte <span style="color: #0000FF;">210</span>.<br/>
+<span style="color: #ff0000;">Briughem </span><span style="color: #0000FF;">858.<br/>
+</span><span style="color: #0000FF;">ammo </span><span style="color: #0000FF;">m.<br/>
+<br/>
+</span><span style="color: #0000FF;">2mm</span>, Val <span style="color: #0000FF;">tim<br/>
+</span><span style="color: #0000FF;">Brixen </span><span style="color: #0000FF;">IT</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Bruni </span><span style="color: #0000FF;">383</span>.<br/>
+<br/>
+Brouis, Col <span style="color: #0000FF;">di </span><span style="color: #0000FF;">46</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">Brozzi </span><span style="color: #0000FF;">UB</span><span style="color: #0000FF;">,<br/>
+<br/>
+</span><span style="color: #0000FF;">Bruck </span><span style="color: #0000FF;">20.<br/>
+<br/>
+</span><span style="color: #0000FF;">anete </span><span style="color: #0000FF;">150</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Brunetta</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">La </span><span style="color: #0000FF;">M.<br/>
+</span><span style="color: #0000FF;">Brunnen </span>5.<br/>
+<span style="color: #ff0000;">Brmrimpiano </span><span style="color: #ff0000;">IM</span>.<br/>
+<span style="color: #ff0000;">Bruain-Arsizio </span><span style="color: #ff0000;">161</span>.<br/>
+<span style="color: #0000FF;">Buccione </span><span style="color: #0000FF;">184</span>.<br/>
+<br/>
+<br/>
+<br/>
+<span style="color: #ff0000;">BAEDEKEB</span>. Italy I. <span style="color: #0000FF;">120</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">] </span>Edit<span style="color: #ff0000;">.<br/>
+<br/>
+</span><span style="color: #ff0000;">Barano </span><span style="color: #ff0000;">320</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Bnaaane </span><span style="color: #ff0000;">89</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Buseeto </span><span style="color: #ff0000;">316</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Bnuoleno </span>2.<br/>
+<span style="color: #ff0000;">Bnato-Araizio </span>165<span style="color: #ff0000;">.<br/>
+<br/>
+</span>Byron's Grotto <span style="color: #ff0000;">tot</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">P<br/>
+<br/>
+</span><span style="color: #ff0000;">Ondemerio </span>12.<br/>
+<span style="color: #ff0000;">Cedenubbie </span>157.<br/>
+<span style="color: #0000FF;">Codename </span><span style="color: #0000FF;">172</span>.<br/>
+<span style="color: #0000FF;">Olden </span><span style="color: #0000FF;">387.<br/>
+</span><span style="color: #0000FF;">cane</span>, the <span style="color: #0000FF;">An</span>.<br/>
+<span style="color: #0000FF;">Cagnol </span><span style="color: #0000FF;">Villa </span><span style="color: #0000FF;">IM</span>.<br/>
+<span style="color: #ff0000;">Celci</span>, <span style="color: #ff0000;">alle </span><span style="color: #ff0000;">dei </span><span style="color: #ff0000;">Mli</span>.<br/>
+<span style="color: #0000FF;">Calcio </span>198<span style="color: #0000FF;">.<br/>
+<br/>
+</span>", B <span style="color: #0000FF;">1 </span><span style="color: #0000FF;">423</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">Caldiero</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Caldine</span>, Le 396.<br/>
+<span style="color: #ff0000;">Callieno </span>18<span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Callieri </span><span style="color: #0000FF;">M.<br/>
+<br/>
+</span><span style="color: #ff0000;">Calolzio </span><span style="color: #0000FF;">151</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Caluso </span><span style="color: #0000FF;">(</span><span style="color: #ff0000;">Canevese</span><span style="color: #0000FF;">) </span>51.<br/>
+<span style="color: #0000FF;">"</span><span style="color: #0000FF;">Mia</span><span style="color: #0000FF;">"</span>.<br/>
+<span style="color: #0000FF;">Camaldoli </span><span style="color: #0000FF;">533</span>.<br/>
+<span style="color: #0000FF;">Cambiasca </span>178.<br/>
+<span style="color: #ff0000;">Camerlata </span><span style="color: #ff0000;">IM</span>.<br/>
+<span style="color: #ff0000;">Cumnego </span><span style="color: #ff0000;">148</span>.<br/>
+<span style="color: #0000FF;">Camoghé</span>, <span style="color: #0000FF;">name </span>12.<br/>
+<span style="color: #ff0000;">Camogli </span><span style="color: #ff0000;">N.<br/>
+</span><span style="color: #ff0000;">Cemonica</span>, Val 207.<br/>
+<span style="color: #0000FF;">Campagnola </span><span style="color: #0000FF;">52</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #ff0000;">Cnmpaldino </span><span style="color: #0000FF;">534</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">Campiglia </span><span style="color: #0000FF;">58. </span><span style="color: #0000FF;">tlt</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #ff0000;">Oampione </span><span style="color: #0000FF;">164</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #ff0000;">Cnmpo </span>(Lake Como) <span style="color: #0000FF;">ma</span>.<br/>
+<span style="color: #0000FF;">- </span><span style="color: #0000FF;">ie</span>' Fiori, <span style="color: #0000FF;">me</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">Wt</span>.<br/>
+<span style="color: #0000FF;">Campo </span><span style="color: #0000FF;">Formio </span><span style="color: #0000FF;">325</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #ff0000;">Gazinyogrosso</span>, <span style="color: #ff0000;">Rifugio<br/>
+<br/>
+</span><span style="color: #ff0000;">Cempola</span><span style="color: #ff0000;">, </span>the <span style="color: #ff0000;">339</span>.<br/>
+<span style="color: #ff0000;">Campoligure </span><span style="color: #0000FF;">49</span>.<br/>
+<span style="color: #ff0000;">Camporciero</span>, Val <span style="color: #0000FF;">di<br/>
+</span><span style="color: #ff0000;">qampoe1np1tsro </span>257.<br/>
+<span style="color: #0000FF;">Canals </span><span style="color: #0000FF;">49</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">Candoglia </span>179.<br/>
+<span style="color: #0000FF;">Canepa </span>98.<br/>
+<br/>
+<span style="color: #ff0000;">Cannéro </span><span style="color: #ff0000;">175</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">Cannobbina</span>, Val m.<br/>
+<span style="color: #0000FF;">Cannobio </span>IN.<br/>
+<span style="color: #0000FF;">Cancun </span>339.<br/>
+<span style="color: #ff0000;">Clnhluvo </span><span style="color: #0000FF;">50</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Cumin </span><span style="color: #0000FF;">160</span>.<br/>
+<br/>
+- <span style="color: #ff0000;">Asnago </span><span style="color: #0000FF;">148</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">Canzo </span><span style="color: #0000FF;">153</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #ff0000;">Caoddo </span><span style="color: #0000FF;">353</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">Caorle </span><span style="color: #0000FF;">328</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Caorso </span><span style="color: #0000FF;">192</span>.<br/>
+<br/>
+Capo <span style="color: #ff0000;">di </span><span style="color: #ff0000;">Ponte </span><span style="color: #ff0000;">2B</span>.<br/>
+<span style="color: #ff0000;">Cepolago </span>13.<br/>
+<br/>
+<br/>
+<br/>
+<span style="color: #0000FF;">Caprasio</span>, <span style="color: #0000FF;">Monte </span>3<span style="color: #ff0000;">.<br/>
+</span>35.<br/>
+<br/>
+<br/>
+<br/>
+</span>

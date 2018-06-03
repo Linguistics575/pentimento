@@ -1,0 +1,56 @@
+<span>EGYPTIAN STATE <span style="color: #0000FF;">RAILWAYS<br/>
+<br/>
+</span><span style="color: #ff0000;">ASS0UAN-LUXU </span><span style="color: #0000FF;">R<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #0000FF;">A.M.<br/>
+</span><span style="color: #ff0000;">SitrALLAL</span>... <span style="color: #0000FF;">0.10 </span>10. <span style="color: #0000FF;">512</span>. <span style="color: #0000FF;">02.50</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">0<br/>
+</span><span style="color: #0000FF;">Junction </span><span style="color: #0000FF;">"</span><span style="color: #0000FF;">8.18 </span><span style="color: #0000FF;">- </span>10.25 12.18 3. <span style="color: #0000FF;">1.15.825</span><span style="color: #0000FF;">, </span>10. 3 <span style="color: #0000FF;">10021225515 </span><span style="color: #0000FF;">.25<br/>
+</span><span style="color: #0000FF;">' </span><span style="color: #0000FF;">.50 </span>10.15 <span style="color: #0000FF;">- </span><span style="color: #0000FF;">1.-ir</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">e</span><span style="color: #0000FF;">" </span><span style="color: #0000FF;">C</span><span style="color: #0000FF;">"</span><span style="color: #0000FF;">"<br/>
+</span><span style="color: #0000FF;">Junction</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">.10 </span><span style="color: #0000FF;">i </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">2</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">5<br/>
+</span><span style="color: #ff0000;">Guezireh</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">"</span>6.20 <span style="color: #ff0000;">| </span><span style="color: #ff0000;">$ </span><span style="color: #ff0000;">210.27 </span>2 <span style="color: #0000FF;">15 </span><span style="color: #0000FF;">l<br/>
+</span><span style="color: #ff0000;">Khattara.</span>,, 6.48 <span style="color: #ff0000;">510.49 </span>2.43<br/>
+<span style="color: #0000FF;">Daraw </span><span style="color: #0000FF;">"</span>7.44 <span style="color: #0000FF;">I </span>11.34 3.46<br/>
+Kom <span style="color: #0000FF;">Ombo </span><span style="color: #0000FF;">"</span>8.10 <span style="color: #ff0000;">76 </span><span style="color: #ff0000;">11.49 </span>4.10<br/>
+<span style="color: #0000FF;">P.M.<br/>
+</span><span style="color: #ff0000;">Kagoug</span><span style="color: #ff0000;">...</span><span style="color: #ff0000;">,</span><span style="color: #ff0000;">, </span>8.55 <span style="color: #0000FF;">E </span>12.25 4 55<br/>
+<span style="color: #0000FF;">Silwa </span><span style="color: #0000FF;">"</span>9.16 <span style="color: #ff0000;">50.12.41 </span>5.16<br/>
+<span style="color: #ff0000;">Sirrag </span><span style="color: #0000FF;">"</span><span style="color: #0000FF;">.. </span>9.47 <span style="color: #ff0000;">3</span><span style="color: #ff0000;">' </span>1 5 l <span style="color: #0000FF;">5.47</span>. 1<br/>
+<span style="color: #0000FF;">hagab.</span><span style="color: #0000FF;">,</span>, 1.32 3.54 l<br/>
+FAYOUM LINES<br/>
+<span style="color: #0000FF;">A.M. </span><span style="color: #0000FF;">l </span><span style="color: #0000FF;">A.M. </span><span style="color: #0000FF;">p.51</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #ff0000;">ABOUXAH </span>dep. 6.20 <span style="color: #0000FF;">l </span>10. 0 3.40<br/>
+<span style="color: #ff0000;">Abchaway</span>,, <span style="color: #0000FF;">6.44 </span><span style="color: #0000FF;">1 </span>10.11 <span style="color: #0000FF;">A</span>. 4<br/>
+<span style="color: #0000FF;">Senate</span><span style="color: #0000FF;">... </span><span style="color: #0000FF;">"</span>7.14 10.26 4.34<br/>
+FAYOUM arr. A.M. 7.34 10.40 <span style="color: #0000FF;">P.M. </span>4.54<br/>
+dep. 5.40 <span style="color: #0000FF;">l </span><span style="color: #0000FF;">s </span><span style="color: #0000FF;">18 </span>10.50 <span style="color: #0000FF;">1 </span><span style="color: #0000FF;">50 </span>5.34<br/>
+<span style="color: #0000FF;">Edwa </span><span style="color: #0000FF;">"</span>5.51 <span style="color: #0000FF;">_ </span>11.50 <span style="color: #ff0000;">_ </span>2.50 6.30<br/>
+<span style="color: #ff0000;">A.M</span><span style="color: #ff0000;">. </span>A.M. <span style="color: #0000FF;">l </span><span style="color: #0000FF;">A.M. </span><span style="color: #0000FF;">mu</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">p.11</span><span style="color: #0000FF;">. </span>P <span style="color: #ff0000;">16.1<br/>
+</span><span style="color: #ff0000;">SENNOURES </span>dep. 7. 0 <span style="color: #ff0000;">l </span>9.30 1. 0 <span style="color: #ff0000;">i </span>5. 0 9.40<br/>
+<span style="color: #ff0000;">Hiahmo </span><span style="color: #0000FF;">"</span>7.15 l 9.45 1.15 5.11 9.55<br/>
+FAYOUM arr. <span style="color: #0000FF;">l </span><span style="color: #0000FF;">7.30 </span><span style="color: #0000FF;">1 </span>10. 0 1.30 5.25 10.10<br/>
+<span style="color: #0000FF;">i<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span>Times between 6 <span style="color: #0000FF;">m. </span>and <span style="color: #0000FF;">o </span><span style="color: #0000FF;">w. </span>are indicated by a heavy line.<br/>
+<br/>
+<span style="color: #ff0000;">183<br/>
+<br/>
+<br/>
+</span></span>

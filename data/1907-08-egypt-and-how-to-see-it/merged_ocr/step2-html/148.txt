@@ -1,0 +1,199 @@
+<span><span style="color: #ff0000;">APPENDIX </span><span style="color: #ff0000;">I<br/>
+<br/>
+<br/>
+<br/>
+</span>Boots<br/>
+<br/>
+Brush<br/>
+<br/>
+<span style="color: #0000FF;">Button<br/>
+</span><span style="color: #0000FF;">Clothes<br/>
+<br/>
+</span>Coat<br/>
+<br/>
+Collar<br/>
+Drawers<br/>
+Gloves<br/>
+Great-coat<br/>
+Handkerchief<br/>
+<br/>
+<span style="color: #ff0000;">Carpenter<br/>
+</span><span style="color: #ff0000;">'lerk<br/>
+</span><span style="color: #ff0000;">Coachman<br/>
+</span><span style="color: #ff0000;">Consul<br/>
+</span><span style="color: #ff0000;">Cook<br/>
+</span><span style="color: #ff0000;">Doctor<br/>
+</span>Donkey <span style="color: #0000FF;">boy<br/>
+</span><span style="color: #0000FF;">Doorkeeper<br/>
+</span><span style="color: #0000FF;">Engineer<br/>
+</span><span style="color: #0000FF;">Gardener<br/>
+</span><span style="color: #0000FF;">Groom<br/>
+</span><span style="color: #0000FF;">Guide </span><span style="color: #0000FF;">I<br/>
+</span>Interpreter <span style="color: #ff0000;">l<br/>
+<br/>
+</span>Ant<br/>
+Bird<br/>
+<span style="color: #0000FF;">Buffalo<br/>
+</span><span style="color: #0000FF;">Calf<br/>
+</span><span style="color: #0000FF;">Cat<br/>
+</span>Camel<br/>
+<span style="color: #0000FF;">Chicken<br/>
+</span><span style="color: #0000FF;">Cow<br/>
+</span><span style="color: #0000FF;">Crow<br/>
+</span><span style="color: #0000FF;">Dog<br/>
+</span><span style="color: #0000FF;">Donkey<br/>
+</span>Duck<br/>
+Flea<br/>
+<br/>
+<span style="color: #0000FF;">Fly<br/>
+<br/>
+</span>Gazelle<br/>
+Goat<br/>
+<br/>
+<span style="color: #ff0000;">APPENDIX </span><span style="color: #ff0000;">I<br/>
+<br/>
+</span>CLOTHES, & <span style="color: #ff0000;">C.<br/>
+<br/>
+</span><span style="color: #ff0000;">giza </span><span style="color: #ff0000;">m<br/>
+</span><span style="color: #ff0000;">fursha<br/>
+</span><span style="color: #ff0000;">zonir<br/>
+</span><span style="color: #ff0000;">hedfim<br/>
+</span><span style="color: #ff0000;">sitra'a<br/>
+</span><span style="color: #ff0000;">ya'ah<br/>
+</span><span style="color: #ff0000;">libbas<br/>
+</span><span style="color: #ff0000;">aldiwfin<br/>
+</span><span style="color: #ff0000;">balto<br/>
+</span><span style="color: #ff0000;">mandcrl<br/>
+</span><span style="color: #ff0000;">bomayla<br/>
+</span><span style="color: #ff0000;">ibra<br/>
+</span><span style="color: #ff0000;">dubbt'cs<br/>
+</span><span style="color: #ff0000;">gayb<br/>
+</span><span style="color: #ff0000;">moos<br/>
+<br/>
+</span><span style="color: #ff0000;">PROFESSIONS</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">TRADES</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">& </span><span style="color: #ff0000;">C.<br/>
+<br/>
+</span><span style="color: #ff0000;">nagqar<br/>
+</span><span style="color: #ff0000;">kc'itib<br/>
+</span><span style="color: #ff0000;">arbaggy<br/>
+</span><span style="color: #ff0000;">'onsu</span><span style="color: #ff0000;">!<br/>
+</span><span style="color: #ff0000;">tabbdkh<br/>
+</span><span style="color: #ff0000;">hakeem<br/>
+</span><span style="color: #ff0000;">hammcir<br/>
+</span><span style="color: #ff0000;">bowab<br/>
+</span><span style="color: #ff0000;">muhande</span><span style="color: #ff0000;">:<br/>
+</span><span style="color: #ff0000;">£0 </span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">03</span><span style="color: #ff0000;">'</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">?<br/>
+</span><span style="color: #ff0000;">syse<br/>
+<br/>
+</span><span style="color: #ff0000;">terrgomcin<br/>
+<br/>
+</span>Rug<br/>
+Scissors<br/>
+Shawl<br/>
+Shirt<br/>
+Slippers<br/>
+<span style="color: #ff0000;">ya'ah </span>Socks<br/>
+Sponge<br/>
+<span style="color: #ff0000;">Stick<br/>
+<br/>
+</span>Stud<br/>
+<br/>
+Suit of clothes<br/>
+Thread<br/>
+Tie<br/>
+Trousers<br/>
+<span style="color: #0000FF;">Waistcoat<br/>
+<br/>
+</span><span style="color: #0000FF;">Messenger<br/>
+</span><span style="color: #0000FF;">Officer<br/>
+</span><span style="color: #0000FF;">Policeman<br/>
+</span><span style="color: #0000FF;">Porter<br/>
+</span><span style="color: #0000FF;">Postman<br/>
+</span><span style="color: #0000FF;">Servant<br/>
+<br/>
+</span><span style="color: #0000FF;">Soldier<br/>
+</span><span style="color: #0000FF;">Tailor<br/>
+</span><span style="color: #0000FF;">Washerman<br/>
+</span><span style="color: #0000FF;">Watchman<br/>
+<br/>
+</span><span style="color: #0000FF;">ANIMALS</span>, & <span style="color: #ff0000;">C.<br/>
+<br/>
+</span><span style="color: #ff0000;">naml<br/>
+</span><span style="color: #ff0000;">layr<br/>
+<br/>
+</span>ga <span style="color: #ff0000;">nayny </span><span style="color: #0000FF;">Washerman<br/>
+</span><span style="color: #0000FF;">syse </span><span style="color: #0000FF;">Watchman<br/>
+</span><span style="color: #ff0000;">terrgotmin<br/>
+<br/>
+</span><span style="color: #0000FF;">ANIMALS</span>, <span style="color: #ff0000;">plu</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">bam<br/>
+</span><span style="color: #ff0000;">ghee</span><span style="color: #ff0000;">!<br/>
+</span><span style="color: #ff0000;">dubbrina</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">plu</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">dubbd </span><span style="color: #ff0000;">n<br/>
+<br/>
+</span><span style="color: #ff0000;">gazala<br/>
+</span><span style="color: #ff0000;">gidye<br/>
+<br/>
+</span>Goose<br/>
+Hawk<br/>
+Hornet<br/>
+<span style="color: #ff0000;">Horse<br/>
+</span>Kite<br/>
+<span style="color: #0000FF;">Mosquito<br/>
+</span><span style="color: #0000FF;">Mull</span><span style="color: #0000FF;">:<br/>
+</span>Pig<br/>
+Pigeon<br/>
+Quail<br/>
+Rabbit or hare<br/>
+<span style="color: #ff0000;">bad </span>Rat or mouse<br/>
+Scorpion<br/>
+Sheep<br/>
+Snake<br/>
+Snipe<br/>
+<span style="color: #0000FF;">Turkey<br/>
+<br/>
+</span>148<br/>
+<br/>
+<span style="color: #ff0000;">battaneea<br/>
+</span>ma'ass<br/>
+shat<br/>
+'amees<br/>
+<span style="color: #ff0000;">shibshib<br/>
+</span><span style="color: #ff0000;">shombat<br/>
+</span><span style="color: #ff0000;">suflinga<br/>
+</span>assay-ya<br/>
+<span style="color: #ff0000;">zonir<br/>
+</span>badla<br/>
+<span style="color: #0000FF;">kheit<br/>
+</span><span style="color: #ff0000;">bombagh<br/>
+</span><span style="color: #0000FF;">bantah'm<br/>
+</span><span style="color: #ff0000;">seedery<br/>
+<br/>
+</span>sai-ee<br/>
+<span style="color: #ff0000;">zdbet<br/>
+</span><span style="color: #ff0000;">shawecsh<br/>
+</span><span style="color: #ff0000;">shayyal<br/>
+</span><span style="color: #ff0000;">bostaggy<br/>
+</span>haddam, plu. <span style="color: #0000FF;">hmMa</span><span style="color: #0000FF;">"</span><span style="color: #0000FF;">um<br/>
+</span><span style="color: #ff0000;">askerry<br/>
+</span>khayyat, <span style="color: #0000FF;">tarty<br/>
+</span><span style="color: #ff0000;">ghassdl<br/>
+</span><span style="color: #ff0000;">ghafeer<br/>
+<br/>
+</span><span style="color: #0000FF;">wisp<br/>
+</span>sakr<br/>
+<span style="color: #ff0000;">dabbfir<br/>
+</span>hussan, plu. khail<br/>
+<span style="color: #ff0000;">hedayya<br/>
+</span>namus<br/>
+<span style="color: #0000FF;">hagl<br/>
+</span><span style="color: #0000FF;">khanzeer<br/>
+</span>hamam<br/>
+<span style="color: #ff0000;">simmcin<br/>
+</span>amab<br/>
+far<br/>
+a'raba<br/>
+<span style="color: #ff0000;">khartif<br/>
+</span><span style="color: #ff0000;">teabdn<br/>
+</span><span style="color: #ff0000;">bekasseen<br/>
+</span>dik <span style="color: #ff0000;">rfimy<br/>
+<br/>
+<br/>
+</span></span>

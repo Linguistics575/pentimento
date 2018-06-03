@@ -1,0 +1,19 @@
+<span><span style="color: #0000FF;">f </span>MAP <span style="color: #0000FF;">OF<br/>
+</span><span style="color: #0000FF;">COOK</span><span style="color: #0000FF;">'S </span><span style="color: #0000FF;">TOURS<br/>
+<br/>
+</span><span style="color: #0000FF;">T0<br/>
+<br/>
+</span>EGYPT<span style="color: #ff0000;">. </span>THE <span style="color: #0000FF;">NILE</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span>PA L <span style="color: #ff0000;">E </span><span style="color: #ff0000;">STI </span>N <span style="color: #0000FF;">E.<br/>
+</span>TURKEY<span style="color: #0000FF;">, </span><span style="color: #0000FF;">GREECE</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">ITALY </span><span style="color: #0000FF;">ke</span>.<br/>
+<br/>
+<span style="color: #0000FF;">Scale </span><span style="color: #0000FF;">of </span><span style="color: #0000FF;">English </span><span style="color: #0000FF;">Miles<br/>
+</span><span style="color: #0000FF;">100 </span><span style="color: #0000FF;">"<br/>
+<br/>
+</span>"<span style="color: #0000FF;">a </span><span style="color: #0000FF;">50 </span><span style="color: #0000FF;">0 </span><span style="color: #0000FF;">.00 </span><span style="color: #0000FF;">_7 </span><span style="color: #0000FF;">_ </span><span style="color: #0000FF;">V </span><span style="color: #0000FF;">300<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span></span>

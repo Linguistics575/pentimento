@@ -1,0 +1,81 @@
+<span><span style="color: #ff0000;">EGYPTIAN<br/>
+<br/>
+</span><span style="color: #ff0000;">STATE<br/>
+<br/>
+</span>RAILWAYS<br/>
+<br/>
+<br/>
+<br/>
+<span style="color: #0000FF;">ALEXANDRIA</span><span style="color: #0000FF;">--</span><span style="color: #0000FF;">CAIRo<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #0000FF;">l<br/>
+</span><span style="color: #0000FF;">[ </span>A.M<span style="color: #ff0000;">, </span><span style="color: #ff0000;">.41.. </span><span style="color: #ff0000;">1.1.. </span><span style="color: #ff0000;">noon</span>. <span style="color: #ff0000;">AM</span><span style="color: #ff0000;">.</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">A.M</span>. <span style="color: #0000FF;">NOON </span><span style="color: #0000FF;">mu</span>. dep. <span style="color: #ff0000;">7. </span><span style="color: #ff0000;">o</span><span style="color: #ff0000;">; </span>9. <span style="color: #0000FF;">01020 </span>12. 0 <span style="color: #ff0000;">3.40 </span><span style="color: #ff0000;">4.25 </span>6. 0 11.30<br/>
+<span style="color: #0000FF;">Hadra.. </span><span style="color: #0000FF;">rr </span><span style="color: #0000FF;">7 </span>l <span style="color: #0000FF;">7 </span>I - <span style="color: #0000FF;">t </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">512.51<br/>
+</span><span style="color: #0000FF;">Abou-Hommous</span><span style="color: #0000FF;">,</span>, , <span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">a </span><span style="color: #ff0000;">I</span>. <span style="color: #0000FF;">7 </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">_<br/>
+</span>l - <span style="color: #ff0000;">7 </span><span style="color: #ff0000;">_ </span><span style="color: #ff0000;">7 </span><span style="color: #ff0000;">7 </span>- - <span style="color: #0000FF;">312</span>. <span style="color: #0000FF;">tt </span><span style="color: #0000FF;">7.58 </span><span style="color: #0000FF;">9.58.11.40.</span><span style="color: #0000FF;">,</span><span style="color: #0000FF;">; </span>- <span style="color: #ff0000;">4.44 </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">6.58 </span><span style="color: #ff0000;">Cry</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">1.32<br/>
+</span><span style="color: #ff0000;">Denchal.</span><span style="color: #ff0000;">,</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">2</span><span style="color: #ff0000;">--</span><span style="color: #ff0000;">-</span><span style="color: #ff0000;">'</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">t </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">oi </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">g </span><span style="color: #ff0000;">1.48<br/>
+</span><span style="color: #ff0000;">Saft-el-Melouk</span><span style="color: #ff0000;">,</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">I </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">(</span><span style="color: #ff0000;">it </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">g </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">o </span><span style="color: #ff0000;">1.59<br/>
+</span><span style="color: #ff0000;">I </span><span style="color: #ff0000;">P.M. </span><span style="color: #ff0000;">L</span><span style="color: #ff0000;">; </span><span style="color: #ff0000;">a </span><span style="color: #ff0000;">.2</span><span style="color: #ff0000;">:<br/>
+</span><span style="color: #ff0000;">Tch-ol-Baroud</span><span style="color: #ff0000;">,</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">8.22/ </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">je</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">5 </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">5</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">8 </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">M </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">ttr </span><span style="color: #ff0000;">2.17<br/>
+</span><span style="color: #ff0000;">'rywiikieh</span>." 7 <span style="color: #0000FF;">J</span><span style="color: #0000FF;">?</span>.. "<span style="color: #0000FF;">? </span><span style="color: #0000FF;">(</span><span style="color: #0000FF;">7 </span><span style="color: #ff0000;">il/E </span><span style="color: #0000FF;">5<br/>
+</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">G </span><span style="color: #0000FF;">V </span><span style="color: #0000FF;">a. </span><span style="color: #0000FF;">"<br/>
+</span><span style="color: #ff0000;">TANTAH.. </span><span style="color: #0000FF;">I </span><span style="color: #0000FF;">3 </span>6.11 57.55 <span style="color: #0000FF;">i<br/>
+</span><span style="color: #ff0000;">Defrah.. </span><span style="color: #0000FF;">7 </span>- <span style="color: #0000FF;">_<br/>
+</span><span style="color: #ff0000;">Birket-eFSab </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">7</span><span style="color: #0000FF;">,<br/>
+</span><span style="color: #ff0000;">Kouesnn</span><span style="color: #0000FF;">. </span>- <span style="color: #0000FF;">I </span><span style="color: #0000FF;">i </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">f.</span><span style="color: #0000FF;">" </span><span style="color: #0000FF;">4.14<br/>
+</span><span style="color: #0000FF;">I<br/>
+</span><span style="color: #ff0000;">Bonha</span><span style="color: #0000FF;">. </span>- <span style="color: #0000FF;">8.30 </span><span style="color: #0000FF;">a<br/>
+</span><span style="color: #ff0000;">Snndanhour</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">I<br/>
+</span>Toukh<span style="color: #0000FF;">,</span><span style="color: #0000FF;">, </span>- <span style="color: #0000FF;">m<br/>
+</span><span style="color: #0000FF;">Kaha</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">7 </span><span style="color: #ff0000;">Calioub </span>- <span style="color: #ff0000;">- </span><span style="color: #ff0000;">1</span><span style="color: #ff0000;">--</span><span style="color: #ff0000;">-- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">5.34<br/>
+</span><span style="color: #ff0000;">Choubra</span><span style="color: #ff0000;">" </span><span style="color: #ff0000;">--</span><span style="color: #ff0000;">-- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">- </span><span style="color: #ff0000;">5.49<br/>
+</span><span style="color: #ff0000;">t</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">i </span><span style="color: #ff0000;">1<br/>
+</span><span style="color: #ff0000;">0mm</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">1. </span><span style="color: #ff0000;">arr</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">10.25.12.201 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">3</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">5 </span><span style="color: #ff0000;">7.10 </span>7.25 <span style="color: #0000FF;">020<br/>
+</span><span style="color: #ff0000;">P.iMA1LlA-SUEZ </span>DOCKS SUEZ <span style="color: #0000FF;">DocKS</span><span style="color: #0000FF;">--</span><span style="color: #0000FF;">ISMAILIA<br/>
+</span><span style="color: #0000FF;">i</span><span style="color: #0000FF;">,</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">o<br/>
+</span><span style="color: #0000FF;">P.M</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">P.M. </span><span style="color: #0000FF;">iA.M</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">12.11</span><span style="color: #0000FF;">...</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">ISMAILIA.. </span><span style="color: #0000FF;">dep</span><span style="color: #0000FF;">. </span>2.15 <span style="color: #0000FF;">9.45 </span>Docks. <span style="color: #ff0000;">apnuw </span><span style="color: #0000FF;">5.10 </span><span style="color: #0000FF;">31</span><span style="color: #0000FF;">;</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #ff0000;">Néfiché.</span>,, <span style="color: #ff0000;">2.25 </span><span style="color: #ff0000;">9.55 </span><span style="color: #ff0000;">{ </span><span style="color: #ff0000;">SUEZ </span><span style="color: #ff0000;">{ </span><span style="color: #ff0000;">Terre-plein</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">7.32 </span><span style="color: #ff0000;">5.42</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">d§<br/>
+</span><span style="color: #ff0000;">Fayed</span><span style="color: #ff0000;">.</span><span style="color: #ff0000;">'</span><span style="color: #ff0000;">,</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">3</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">10.81</span>: Rue Colmar <span style="color: #ff0000;">arrd7.87 </span><span style="color: #0000FF;">5.17 </span><span style="color: #0000FF;">g'is<br/>
+</span><span style="color: #ff0000;">Frrnirhe</span><span style="color: #0000FF;">... </span><span style="color: #0000FF;">"</span>3.26 10.56) <span style="color: #0000FF;">A'<br/>
+</span>Rue Colmar <span style="color: #0000FF;">11</span><span style="color: #0000FF;">" </span><span style="color: #0000FF;">.,4</span>. 3 11.33, <span style="color: #ff0000;">Génélé </span>"<span style="color: #0000FF;">8.31 </span><span style="color: #0000FF;">6.41.arn<br/>
+</span><span style="color: #0000FF;">,</span>, 4.13 11.43; <span style="color: #0000FF;">Fayed</span>. "<span style="color: #ff0000;">8.56 </span>7. <span style="color: #ff0000;">6 </span>:2<br/>
+<span style="color: #ff0000;">Sum </span><span style="color: #ff0000;">Terre-Plein</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">tt </span><span style="color: #ff0000;">4y</span><span style="color: #ff0000;">! </span><span style="color: #ff0000;">lr</span><span style="color: #ff0000;">! </span><span style="color: #ff0000;">.yfilyé</span>" <span style="color: #ff0000;">fiché</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">"</span>9.30 <span style="color: #0000FF;">7.40 </span><span style="color: #0000FF;">227</span>.<br/>
+Docks. <span style="color: #0000FF;">arr</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">4.20 </span><span style="color: #0000FF;">11.5ty </span><span style="color: #0000FF;">ISMAILIA</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">arr</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">9.38 </span><span style="color: #0000FF;">7.48559<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #0000FF;">The</span><span style="color: #0000FF;">. </span>principal trains only are shown<span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Times </span>between <span style="color: #ff0000;">6 </span><span style="color: #ff0000;">p.11</span><span style="color: #ff0000;">. </span>and <span style="color: #0000FF;">a </span><span style="color: #0000FF;">m. </span>are indicated by a heavy line<span style="color: #ff0000;">.<br/>
+</span>174<br/>
+<br/>
+<br/>
+<br/>
+</span>

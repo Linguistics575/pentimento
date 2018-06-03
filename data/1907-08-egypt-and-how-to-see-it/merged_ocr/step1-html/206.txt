@@ -1,0 +1,177 @@
+<span>INDEX<br/>
+<br/>
+<br/>
+<br/>
+<span style="color: #0000FF;">Damanhour</span>, 16, <span style="color: #0000FF;">173</span>, <span style="color: #ff0000;">174</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">184</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">185<br/>
+<br/>
+</span>Damietta, <span style="color: #0000FF;">122</span>, <span style="color: #0000FF;">184</span>, <span style="color: #0000FF;">185<br/>
+<br/>
+</span><span style="color: #0000FF;">Daraw</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">103</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">182</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">183<br/>
+<br/>
+</span><span style="color: #0000FF;">Deir-eI-Bahari</span>, 93<br/>
+<br/>
+Deir Suriani, 144<br/>
+<br/>
+De Lesseps, <span style="color: #0000FF;">14<br/>
+<br/>
+</span><span style="color: #0000FF;">Delta</span><span style="color: #0000FF;">, </span>the, 119<br/>
+<br/>
+<span style="color: #0000FF;">Benders</span>, 80<br/>
+<br/>
+Distribution of time at Luxor, 97<br/>
+<br/>
+Distances from Cairo, ty river, 172<br/>
+Khartoum, <span style="color: #ff0000;">116<br/>
+<br/>
+</span>EDEN Palace <span style="color: #0000FF;">Hotel</span>, Cairo, 157<br/>
+<br/>
+<span style="color: #0000FF;">Edfou</span>, Temple of, <span style="color: #0000FF;">he.</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">100</span>, <span style="color: #ff0000;">182</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">183<br/>
+<br/>
+</span><span style="color: #ff0000;">Elephantiue</span>, Island of, 110<br/>
+<br/>
+<span style="color: #ff0000;">El-Kab</span><span style="color: #ff0000;">, </span>100<br/>
+<br/>
+<span style="color: #ff0000;">Esneh</span>, Barrage, <span style="color: #0000FF;">& </span><span style="color: #0000FF;">c.</span>, <span style="color: #ff0000;">99</span>, <span style="color: #0000FF;">182</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">183<br/>
+</span>Temple <span style="color: #ff0000;">of</span>, 99<br/>
+<br/>
+<span style="color: #0000FF;">1111111111</span>, Oasis <span style="color: #ff0000;">ot</span>, <span style="color: #0000FF;">143<br/>
+</span><span style="color: #ff0000;">Farshout</span>, 143, <span style="color: #0000FF;">178</span>, <span style="color: #0000FF;">179<br/>
+</span><span style="color: #0000FF;">Fayoum</span>, <span style="color: #0000FF;">62</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">182</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">183<br/>
+<br/>
+</span><span style="color: #0000FF;">Medinet-el-</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">62</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">182</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">183<br/>
+</span>Ferries, <span style="color: #0000FF;">Nile</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">199<br/>
+<br/>
+</span><span style="color: #0000FF;">GARAGES</span>, Motor, 170<br/>
+<span style="color: #ff0000;">Ghezireh</span>, Island of, 27<br/>
+Palace <span style="color: #0000FF;">Hotel</span>, <span style="color: #ff0000;">24</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">156<br/>
+</span>Sporting Club, 27<span style="color: #ff0000;">, </span><span style="color: #ff0000;">164<br/>
+</span><span style="color: #ff0000;">Gizeh</span><span style="color: #ff0000;">, </span>Pyramids and Sphinx <span style="color: #0000FF;">of</span>, 50<br/>
+<span style="color: #0000FF;">Zoological </span>Gardens <span style="color: #ff0000;">of</span>, <span style="color: #0000FF;">a<br/>
+</span>Golf, 27. 45<br/>
+Grand Hotel, Alexandria, 128, 160<br/>
+Assouan, 106<span style="color: #0000FF;">, </span><span style="color: #0000FF;">163<br/>
+</span><span style="color: #0000FF;">Helouan</span>, <span style="color: #0000FF;">M</span>, 158<br/>
+<br/>
+<span style="color: #0000FF;">HASSANEIN</span>, Mosque of <span style="color: #0000FF;">El-</span>, <span style="color: #0000FF;">"<br/>
+</span><span style="color: #ff0000;">Hatasu</span>, Temple of Queen, 91<br/>
+Hawara, Pyramid of, 65<br/>
+Hayat, Hotel El-, Helouan, <span style="color: #ff0000;">46</span>, 159<br/>
+<span style="color: #0000FF;">Heliopolis</span>, <span style="color: #0000FF;">My<br/>
+</span>Oasis City, 50<br/>
+Helouan, "<br/>
+<span style="color: #0000FF;">Hotels</span>, 45<span style="color: #ff0000;">, </span>158<br/>
+<span style="color: #0000FF;">Time-tables</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">189</span>, <span style="color: #0000FF;">In<br/>
+</span>Hibis, Temple <span style="color: #ff0000;">of</span>, 144<br/>
+Hotels, Alexandria, 16, 159<br/>
+Assiout, 78, 162<br/>
+Assouan, 106, <span style="color: #0000FF;">163<br/>
+</span>Cairo, 22, 155<br/>
+Fayoum, 62, 162<br/>
+Helouan, <span style="color: #0000FF;">45</span>, <span style="color: #ff0000;">158<br/>
+</span>Ismailia, 162<br/>
+Khartoum, 116<br/>
+Luxor, <span style="color: #ff0000;">83</span>, <span style="color: #0000FF;">162<br/>
+</span><span style="color: #0000FF;">Port </span><span style="color: #0000FF;">Said</span>, <span style="color: #ff0000;">14</span>, 161<br/>
+Suez, 140, 162<br/>
+Zeitoun, 48, 159<br/>
+<br/>
+<span style="color: #0000FF;">11111 </span><span style="color: #ff0000;">Touloun</span>, Mosque of, <span style="color: #0000FF;">"<br/>
+</span>Imperial Hotel, Cairo, 158<br/>
+<span style="color: #0000FF;">Ismailia</span>, 15, <span style="color: #0000FF;">137,114<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #0000FF;">JosEPH</span>'s Well, 33<br/>
+Jupiter <span style="color: #0000FF;">Amman</span>, Oasis of, <span style="color: #0000FF;">143<br/>
+<br/>
+</span><span style="color: #0000FF;">KANTARAH</span>, <span style="color: #ff0000;">14</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">176<br/>
+</span>Karnack, <span style="color: #0000FF;">s7<br/>
+</span><span style="color: #0000FF;">Karoun </span><span style="color: #0000FF;">Laker</span>, 66<br/>
+<span style="color: #0000FF;">Kasr-er.Nil </span><span style="color: #0000FF;">Bridge</span>. 27<br/>
+Keneh, <span style="color: #0000FF;">so</span>. <span style="color: #0000FF;">178</span>, <span style="color: #0000FF;">no<br/>
+</span>Kharga, <span style="color: #ff0000;">143</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">178</span>, 179<br/>
+Khartoum, 112, <span style="color: #0000FF;">191-198<br/>
+</span><span style="color: #0000FF;">Khedivial </span>Club, Alexandria, <span style="color: #0000FF;">Per</span>, <span style="color: #0000FF;">164<br/>
+</span>Cairo, 27, <span style="color: #ff0000;">164<br/>
+</span>Hotel, Alexandria, 128, 160<br/>
+Cairo, <span style="color: #ff0000;">160<br/>
+</span>Library, 39<br/>
+Mail Steamers, 203<br/>
+Opera House, 29<br/>
+<span style="color: #ff0000;">Rhephren</span>, 53<br/>
+King's Chamber, Great Pyramid, <span style="color: #0000FF;">"<br/>
+</span>Kings<span style="color: #ff0000;">, </span>the Tombs of, 91<br/>
+Kom Ombo, <span style="color: #0000FF;">102</span>, <span style="color: #ff0000;">182</span>, <span style="color: #0000FF;">183<br/>
+</span>Temple <span style="color: #0000FF;">of</span>, 102<br/>
+Kurkur, Oasis of, 144<br/>
+Kurna<span style="color: #ff0000;">. </span>Temple of, 91<br/>
+<span style="color: #ff0000;">Kurnet </span><span style="color: #ff0000;">Murrai</span>, Tombs of, <span style="color: #0000FF;">96<br/>
+<br/>
+</span><span style="color: #0000FF;">LABYRINTH</span>, the, <span style="color: #ff0000;">65<br/>
+</span><span style="color: #ff0000;">Lahoun</span>, <span style="color: #0000FF;">"<br/>
+<br/>
+</span>Light <span style="color: #0000FF;">Railways </span>The Delta, <span style="color: #0000FF;">46</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">120</span><span style="color: #0000FF;">.<br/>
+</span><span style="color: #0000FF;">189</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">190<br/>
+</span><span style="color: #0000FF;">Fayoum</span><span style="color: #0000FF;">. </span>62<span style="color: #ff0000;">, </span><span style="color: #ff0000;">188<br/>
+</span>Lower <span style="color: #0000FF;">Egypt</span>, 120<br/>
+Lower Egypt, 119<br/>
+Luggage, arrangements for, <span style="color: #ff0000;">197<br/>
+</span>Luxor, Hotels, 83, <span style="color: #ff0000;">162<br/>
+</span>Temples and Tombs, 86<br/>
+Timetables, <span style="color: #0000FF;">178-183<br/>
+<br/>
+</span><span style="color: #0000FF;">MANSOURAH</span>, <span style="color: #0000FF;">121</span>, <span style="color: #0000FF;">184.2185<br/>
+<br/>
+</span><span style="color: #0000FF;">Marg</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">48</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">187 </span><span style="color: #0000FF;">2<br/>
+<br/>
+</span>Mariette, <span style="color: #0000FF;">57<br/>
+<br/>
+</span><span style="color: #0000FF;">Mariam</span>, <span style="color: #ff0000;">131 </span><span style="color: #ff0000;">37F</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">e<br/>
+</span>Railway, <span style="color: #0000FF;">131<br/>
+<br/>
+</span>Mastabas of <span style="color: #ff0000;">Ptahotep </span>and Ti, <span style="color: #ff0000;">58<br/>
+<br/>
+</span><span style="color: #ff0000;">Matarieh </span>(near Cairo), 48, <span style="color: #0000FF;">I<br/>
+</span>(Lake <span style="color: #0000FF;">Menzaleh</span>), 125<br/>
+<br/>
+Medinet-el-Fayoum, 62, <span style="color: #0000FF;">182</span>, <span style="color: #ff0000;">183<br/>
+<br/>
+</span>Medinet Habu, 96<br/>
+<br/>
+<span style="color: #ff0000;">Mehallet </span><span style="color: #0000FF;">Kebir</span>, 120<br/>
+<br/>
+Memnon, <span style="color: #0000FF;">Colossi </span>of, 97<br/>
+<br/>
+Memphis, 56<br/>
+<br/>
+Mena House Hotel, 25, 50, 156<br/>
+<br/>
+<span style="color: #0000FF;">Manes</span>, 79<br/>
+<br/>
+<span style="color: #0000FF;">Menzaleh</span>, Lake, 125<br/>
+<br/>
+<span style="color: #0000FF;">Mereruka</span>, Tomb <span style="color: #0000FF;">of</span>, <span style="color: #0000FF;">58<br/>
+<br/>
+</span><span style="color: #0000FF;">Metropole</span>, Hotel, Cairo, 158<br/>
+<br/>
+<span style="color: #0000FF;">Minieh</span>, 74, <span style="color: #0000FF;">177</span>, <span style="color: #0000FF;">t<br/>
+<br/>
+</span>Moeris, Lake, <span style="color: #0000FF;">"<br/>
+<br/>
+</span><span style="color: #0000FF;">Mohammed.mi </span>Mosque, <span style="color: #0000FF;">"<br/>
+<br/>
+<br/>
+<br/>
+</span>206<br/>
+<br/>
+<br/>
+<br/>
+</span>

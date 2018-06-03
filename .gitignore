@@ -16,6 +16,12 @@ __pycache__/
 
 tiff/
 
+tiffs/
+
+pngs/
+
+pdfs/
+
 wikipediaxmlreader/.idea/workspace.xml
 
 wikipediaxmlreader/enwiki-20180420-redirect.sql

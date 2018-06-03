@@ -1,0 +1,12 @@
+<span><span style="color: #0000FF;">do </span><span style="color: #0000FF;">.5.<br/>
+<br/>
+</span><span style="color: #0000FF;">. </span>.5 <span style="color: #0000FF;">now<br/>
+</span><span style="color: #0000FF;">P </span>2: go: <span style="color: #0000FF;">a<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span></span>

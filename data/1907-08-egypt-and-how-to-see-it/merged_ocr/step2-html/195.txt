@@ -1,0 +1,108 @@
+<span>EGYPTIAN <span style="color: #ff0000;">STATE </span><span style="color: #ff0000;">RAILWAYS<br/>
+<br/>
+</span>EGYPTIAN STATE RAILWAYS<br/>
+<br/>
+RAILWAY FARES AND BAGGAGE <span style="color: #ff0000;">RATES<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #ff0000;">Bag- </span><span style="color: #ff0000;">H </span><span style="color: #ff0000;">lBag'<br/>
+</span><span style="color: #ff0000;">lst</span><span style="color: #ff0000;">: </span><span style="color: #ff0000;">2nd </span><span style="color: #ff0000;">i </span><span style="color: #ff0000;">gage</span><span style="color: #ff0000;">.</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">lst </span><span style="color: #ff0000;">2nd</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">gage<br/>
+</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">fclass</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">class</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">[ </span><span style="color: #ff0000;">1:31.010 </span><span style="color: #ff0000;">class</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">class</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">I</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">[ </span><span style="color: #ff0000;">filo-1'10<br/>
+</span><span style="color: #ff0000;">3.</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">grams</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">grams.<br/>
+</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">Mil- </span><span style="color: #ff0000;">MilCuno </span><span style="color: #ff0000;">to </span><span style="color: #ff0000;">Pt</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">I </span><span style="color: #ff0000;">Pt</span><span style="color: #ff0000;">" </span><span style="color: #ff0000;">fliemes</span><span style="color: #ff0000;">.</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">PORT </span><span style="color: #ff0000;">SAID </span><span style="color: #ff0000;">to </span><span style="color: #ff0000;">Pt</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">Pt</span><span style="color: #ff0000;">" </span><span style="color: #ff0000;">liemesAbchaway.. </span><span style="color: #ff0000;">671 </span><span style="color: #ff0000;">3 </span><span style="color: #ff0000;">34</span><span style="color: #ff0000;">: </span><span style="color: #ff0000;">25.0 </span><span style="color: #ff0000;">i </span><span style="color: #ff0000;">Assouan.. </span><span style="color: #ff0000;">318 </span><span style="color: #ff0000;">195 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">61.38<br/>
+</span><span style="color: #ff0000;">Alexandria</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">871 </span><span style="color: #ff0000;">i </span><span style="color: #ff0000;">431 </span><span style="color: #ff0000;">32 </span><span style="color: #ff0000;">16 </span><span style="color: #ff0000;">j </span><span style="color: #ff0000;">Cairo.. </span><span style="color: #ff0000;">95 </span><span style="color: #ff0000;">471</span><span style="color: #ff0000;">: </span><span style="color: #ff0000;">34</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">97<br/>
+</span><span style="color: #ff0000;">Assiout.. </span><span style="color: #ff0000;">1321 </span><span style="color: #ff0000;">66 </span><span style="color: #ff0000;">46.37 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">Ismailia.. </span><span style="color: #ff0000;">371 </span><span style="color: #ff0000;">19 </span><span style="color: #ff0000;">14</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">24Assouan.. </span><span style="color: #ff0000;">2581 </span><span style="color: #ff0000;">-129 </span><span style="color: #ff0000;">57.09 </span><span style="color: #ff0000;">Luxor.. </span><span style="color: #ff0000;">2641 </span><span style="color: #ff0000;">1321 </span><span style="color: #ff0000;">57.54Ayat.. </span><span style="color: #ff0000;">29 </span><span style="color: #ff0000;">5 </span><span style="color: #ff0000;">141</span><span style="color: #ff0000;">! </span><span style="color: #ff0000;">11.16 </span><span style="color: #ff0000;">Suez </span><span style="color: #ff0000;">(</span><span style="color: #ff0000;">town</span><span style="color: #ff0000;">)</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">75 </span><span style="color: #ff0000;">371 </span><span style="color: #ff0000;">27.65<br/>
+</span><span style="color: #ff0000;">Baliana.. </span><span style="color: #ff0000;">168 </span><span style="color: #ff0000;">i </span><span style="color: #ff0000;">84 </span><span style="color: #ff0000;">50.6 </span><span style="color: #ff0000;">i'<br/>
+</span>Barrage Sinale. <span style="color: #0000FF;">class</span>. <span style="color: #0000FF;">1<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #0000FF;">1<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #0000FF;">Bag- </span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">1 </span>(town) <span style="color: #0000FF;">to<br/>
+</span>Return <span style="color: #0000FF;">81 </span><span style="color: #0000FF;">51 </span>_ <span style="color: #0000FF;">Cairo </span><span style="color: #0000FF;">95 </span><span style="color: #0000FF;">47 </span><span style="color: #0000FF;">} </span><span style="color: #0000FF;">34.97<br/>
+</span><span style="color: #0000FF;">66 </span><span style="color: #0000FF;">46.37 </span><span style="color: #0000FF;">I </span><span style="color: #0000FF;">Ismailia </span><span style="color: #0000FF;">_</span><span style="color: #0000FF;">)</span><span style="color: #0000FF;">.</span><span style="color: #0000FF;">'</span><span style="color: #0000FF;">,</span><span style="color: #0000FF;">'</span><span style="color: #0000FF;">) </span><span style="color: #0000FF;">19 </span><span style="color: #0000FF;">14.241 </span><span style="color: #0000FF;">129 </span><span style="color: #0000FF;">57.09 </span><span style="color: #0000FF;">Luxor </span><span style="color: #0000FF;">12311 </span><span style="color: #0000FF;">1321 </span><span style="color: #0000FF;">57. </span><span style="color: #0000FF;">"<br/>
+</span><span style="color: #0000FF;">14111116 </span><span style="color: #0000FF;">Suez </span><span style="color: #0000FF;">(</span><span style="color: #0000FF;">town</span><span style="color: #0000FF;">) </span><span style="color: #0000FF;">_ </span><span style="color: #0000FF;">75 </span><span style="color: #0000FF;">371 </span><span style="color: #0000FF;">27.35<br/>
+</span><span style="color: #0000FF;">Sum </span><span style="color: #0000FF;">(</span><span style="color: #0000FF;">town</span><span style="color: #0000FF;">) </span><span style="color: #0000FF;">to </span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">1<br/>
+</span><span style="color: #0000FF;">Cairo</span>. <span style="color: #ff0000;">161 </span>81 6.46 <span style="color: #0000FF;">1 </span><span style="color: #0000FF;">Ismailia </span><span style="color: #0000FF;">4tl </span>22 <span style="color: #0000FF;">16.67<br/>
+</span><span style="color: #0000FF;">Ill </span><span style="color: #0000FF;">8.98</span><span style="color: #0000FF;">, </span>Port <span style="color: #0000FF;">Said</span><span style="color: #0000FF;">. </span>75 37 <span style="color: #0000FF;">27.65<br/>
+</span>141 <span style="color: #0000FF;">11.0</span><span style="color: #0000FF;">,<br/>
+</span>Abou <span style="color: #ff0000;">Kerkas </span><span style="color: #0000FF;">39 </span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">11 </span><span style="color: #0000FF;">} </span><span style="color: #0000FF;">32.31<br/>
+</span><span style="color: #ff0000;">Abouxah</span><span style="color: #0000FF;">. </span>12 6 5.02<br/>
+30 22.12 <span style="color: #ff0000;">Abchaway.. </span>10 5 4.3<br/>
+35 25.88 <span style="color: #0000FF;">1 </span><span style="color: #0000FF;">Assiout </span>1181 591 42.9:<br/>
+951 52.22 <span style="color: #0000FF;">1 </span><span style="color: #0000FF;">Assouan </span><span style="color: #0000FF;">247y </span>124 56.12<br/>
+103 <span style="color: #0000FF;">53.33 </span><span style="color: #0000FF;">Cairo </span>591 30 22.12<br/>
+<span style="color: #ff0000;">Mansourah</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">631 </span><span style="color: #ff0000;">32 </span><span style="color: #ff0000;">23.56</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">Dair-Moés</span><span style="color: #ff0000;">. </span>1001 <span style="color: #ff0000;">1 </span>501 36.88<br/>
+491 <span style="color: #0000FF;">36.48 </span><span style="color: #0000FF;">I </span><span style="color: #0000FF;">Luxor </span><span style="color: #0000FF;">1921 </span><span style="color: #0000FF;">I </span>961 <span style="color: #ff0000;">L </span><span style="color: #ff0000;">52.36<br/>
+</span><span style="color: #ff0000;">Port </span><span style="color: #ff0000;">Said.. </span><span style="color: #ff0000;">95 </span><span style="color: #ff0000;">471 </span><span style="color: #ff0000;">34.97 </span><span style="color: #ff0000;">i </span><span style="color: #ff0000;">Sennourés</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">6 </span><span style="color: #ff0000;">3</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">2.86<br/>
+</span><span style="color: #ff0000;">Rosetta.. </span><span style="color: #ff0000;">103 </span><span style="color: #ff0000;">521 </span><span style="color: #ff0000;">38.41'<br/>
+</span><span style="color: #ff0000;">Salhieh.. </span><span style="color: #ff0000;">601 </span><span style="color: #ff0000;">301 </span><span style="color: #ff0000;">22.55 </span><span style="color: #ff0000;">SHELLAL </span><span style="color: #ff0000;">to<br/>
+</span><span style="color: #ff0000;">Shellal.. </span><span style="color: #ff0000;">261 </span><span style="color: #ff0000;">1301</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">57.29 </span><span style="color: #ff0000;">Alexandria</span><span style="color: #ff0000;">. </span>310 155 60.82<br/>
+43 <span style="color: #0000FF;">31</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">62 </span><span style="color: #0000FF;">Assouan </span>5 <span style="color: #ff0000;">21 </span>2.86<br/>
+49 3605 <span style="color: #0000FF;">Cairo </span>261 <span style="color: #ff0000;">1 </span>1301 57.29<br/>
+<span style="color: #0000FF;">(</span><span style="color: #0000FF;">town</span><span style="color: #0000FF;">)</span>. <span style="color: #ff0000;">961 </span><span style="color: #ff0000;">481 </span><span style="color: #ff0000;">35.51 </span><span style="color: #ff0000;">Luxor.. </span><span style="color: #ff0000;">911 </span>451 33.57<br/>
+21 <span style="color: #0000FF;">1569 </span>Port <span style="color: #0000FF;">Said</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">320 </span>160 <span style="color: #0000FF;">1111.53<br/>
+</span>Suez<span style="color: #ff0000;">... </span>3201 <span style="color: #0000FF;">1601 </span><span style="color: #0000FF;">61</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">58<br/>
+</span><span style="color: #0000FF;">Zagazig.. </span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">37 </span><span style="color: #0000FF;">181 </span><span style="color: #0000FF;">14.07<br/>
+</span><span style="color: #0000FF;">' </span><span style="color: #0000FF;">ASSIOUT </span><span style="color: #0000FF;">to<br/>
+</span><span style="color: #0000FF;">ALEXANDRIA </span><span style="color: #0000FF;">to'.. </span>Abou <span style="color: #ff0000;">Kerkas </span><span style="color: #0000FF;">I </span>52 <span style="color: #0000FF;">26 </span><span style="color: #0000FF;">119.36<br/>
+</span>Assouan<span style="color: #ff0000;">... </span>164 82 1 50.29<br/>
+<span style="color: #ff0000;">Return </span><span style="color: #ff0000;">81 </span><span style="color: #ff0000;">7</span><span style="color: #ff0000;">' </span>Baliana. <span style="color: #ff0000;">65 </span>321 <span style="color: #ff0000;">24.14<br/>
+</span><span style="color: #ff0000;">Assouan.. </span><span style="color: #ff0000;">3071 </span><span style="color: #ff0000;">154</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">60.62 </span><span style="color: #ff0000;">Cairo.. </span>1321 66 46.37<br/>
+431 32.16<span style="color: #0000FF;">. </span><span style="color: #0000FF;">1 </span>35 1711 13.26<br/>
+17 <span style="color: #0000FF;">1 </span><span style="color: #0000FF;">12.94 </span><span style="color: #0000FF;">L </span><span style="color: #0000FF;">Fayoum </span><span style="color: #0000FF;">(</span><span style="color: #0000FF;">Medinet </span><span style="color: #0000FF;">1181 </span><span style="color: #0000FF;">59</span><span style="color: #0000FF;">;</span><span style="color: #0000FF;">; </span>42.93<br/>
+1271 <span style="color: #0000FF;">1 </span><span style="color: #0000FF;">56.86</span><span style="color: #0000FF;">' </span><span style="color: #0000FF;">Kena</span>. 171 <span style="color: #0000FF;">3197<br/>
+</span><span style="color: #0000FF;">Luxor </span><span style="color: #0000FF;">.1111</span><span style="color: #0000FF;">; </span><span style="color: #0000FF;">511 </span><span style="color: #0000FF;">1034<br/>
+</span><span style="color: #0000FF;">Sohag </span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">1121135<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #0000FF;">195<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span></span>

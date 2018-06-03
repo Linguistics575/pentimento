@@ -1,0 +1,53 @@
+<span>EGYPTIAN STATE <span style="color: #0000FF;">RAILWAYS<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #0000FF;">LUXOR</span>--<span style="color: #ff0000;">ASSOUAN<br/>
+<br/>
+</span><span style="color: #ff0000;">|<br/>
+</span><span style="color: #ff0000;">i<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #ff0000;">9.x</span><span style="color: #ff0000;">.<br/>
+</span><span style="color: #ff0000;">2.45<br/>
+</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">3.32<br/>
+</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">3.55<br/>
+</span><span style="color: #ff0000;">4</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">8<br/>
+</span><span style="color: #ff0000;">4.36<br/>
+</span><span style="color: #ff0000;">L </span><span style="color: #ff0000;">5.14<br/>
+</span><span style="color: #ff0000;">i </span><span style="color: #ff0000;">5.50<br/>
+</span><span style="color: #ff0000;">T </span><span style="color: #ff0000;">6.14<br/>
+</span>I <span style="color: #0000FF;">7</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">0<br/>
+</span>: <span style="color: #0000FF;">c<br/>
+</span><span style="color: #0000FF;">FAYOUM </span><span style="color: #0000FF;">LINES<br/>
+</span>' A.M. <span style="color: #ff0000;">A.M. </span>A.M<span style="color: #0000FF;">, </span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">lug </span>P.M.<br/>
+<span style="color: #0000FF;">WASTA.. </span>dep. i 6.55 10.20 3.25 <span style="color: #ff0000;">7.20 </span><span style="color: #ff0000;">9.35<br/>
+</span>El <span style="color: #0000FF;">Rous</span><span style="color: #0000FF;">,</span><span style="color: #0000FF;">,</span><span style="color: #0000FF;">; </span>7.13 10.38 3.42 7.38 9.52<br/>
+<span style="color: #0000FF;">Siala </span><span style="color: #0000FF;">n </span><span style="color: #0000FF;">4 </span>7.29 10.54 3.56 7.54 10. 6<br/>
+<span style="color: #0000FF;">Edwa</span><span style="color: #0000FF;">,</span>, l 7.40 11. 5 <span style="color: #ff0000;">4</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">5 </span><span style="color: #ff0000;">8</span><span style="color: #ff0000;">. </span>5 10.15<br/>
+<span style="color: #0000FF;">FAYOUM </span>arr. i 7.51 11.16 4.15 8.16 10.25<br/>
+<span style="color: #0000FF;">dep.</span><span style="color: #0000FF;">, </span>8. 0 <span style="color: #0000FF;">11.41 </span>8.39 "8.17 12.8 9. <span style="color: #ff0000;">5<br/>
+</span><span style="color: #ff0000;">Abchaway</span><span style="color: #0000FF;">,</span><span style="color: #0000FF;">, </span>8.32 12.35 9.30<br/>
+<span style="color: #ff0000;">ABOUXAH </span><span style="color: #ff0000;">arr.. </span>8.40 12.45 <span style="color: #0000FF;">_ </span><span style="color: #0000FF;">9.40<br/>
+</span><span style="color: #0000FF;">Am</span>. <span style="color: #0000FF;">A.M</span>. <span style="color: #0000FF;">8.30 </span><span style="color: #0000FF;">l </span>11.50 <span style="color: #ff0000;">l </span>4.25 8.50 10.35<br/>
+P.M.<br/>
+<span style="color: #ff0000;">Biahmo</span><span style="color: #0000FF;">,</span>. 8.49 <span style="color: #0000FF;">12. </span><span style="color: #0000FF;">a </span>4.40 9. 9 10.54<br/>
+<span style="color: #ff0000;">SENNOURES </span><span style="color: #ff0000;">arr</span>. <span style="color: #0000FF;">an</span>. <span style="color: #ff0000;">0 </span>12.20 4.50 9.20 <span style="color: #ff0000;">11</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">5<br/>
+<br/>
+<br/>
+<br/>
+</span>Times between <span style="color: #0000FF;">e </span><span style="color: #0000FF;">m</span><span style="color: #0000FF;">, </span>and <span style="color: #0000FF;">a </span><span style="color: #0000FF;">m</span><span style="color: #0000FF;">, </span>are <span style="color: #0000FF;">maimed </span>by a heavy line.<br/>
+<br/>
+<span style="color: #ff0000;">182<br/>
+<br/>
+<br/>
+</span></span>

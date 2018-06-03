@@ -1,0 +1,86 @@
+<span>EGYPTIAN <span style="color: #0000FF;">STATE </span>RAILWAYS<br/>
+<br/>
+ALEXANDRIA<span style="color: #0000FF;">,<br/>
+</span>Sidi-Gaber <span style="color: #ff0000;">Juno..</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">*6 </span>0 <span style="color: #0000FF;">7 </span><span style="color: #0000FF;">449101050 </span><span style="color: #0000FF;">12.25'l</span>. <span style="color: #ff0000;">03.34 </span>4.10 6.10 7.50<br/>
+<span style="color: #0000FF;">Ramleh.. </span><span style="color: #0000FF;">"</span>6 11 <span style="color: #0000FF;">7.58921 </span>11. 1 12.36 2.11 <span style="color: #0000FF;">3.484.21.C21 </span><span style="color: #0000FF;">8. </span><span style="color: #0000FF;">l<br/>
+</span><span style="color: #0000FF;">Aboukir.. </span><span style="color: #0000FF;">"</span><span style="color: #0000FF;">6</span>. <span style="color: #0000FF;">37 </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">19.4711127 </span><span style="color: #0000FF;">I</span>. <span style="color: #ff0000;">22.37 </span>4.24447 6.47 <span style="color: #0000FF;">8.2</span><span style="color: #0000FF;">.<br/>
+</span>Rosetta<span style="color: #0000FF;">...</span><span style="color: #0000FF;">,</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">9.48 </span><span style="color: #0000FF;">6 </span><span style="color: #0000FF;">0'<br/>
+</span><span style="color: #0000FF;">'Em-'INA</span><span style="color: #0000FF;">... </span><span style="color: #0000FF;">arr</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">r </span><span style="color: #0000FF;">10.30</span><span style="color: #0000FF;">' </span><span style="color: #0000FF;">$ </span><span style="color: #0000FF;">6.40</span>.<br/>
+<br/>
+<span style="color: #0000FF;">an</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Trains </span><span style="color: #0000FF;">marked </span><span style="color: #0000FF;">thas</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">start </span><span style="color: #0000FF;">from<br/>
+<br/>
+</span><span style="color: #ff0000;">ALExhNDR1A-EDFINA<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #0000FF;">ihc </span><span style="color: #ff0000;">Alexandriz-Ramleh </span>Railway <span style="color: #0000FF;">(</span><span style="color: #0000FF;">335<br/>
+<br/>
+</span>station at Sidi-Gaber, not from the <span style="color: #0000FF;">ES </span><span style="color: #0000FF;">R. </span>station.<br/>
+<br/>
+<span style="color: #ff0000;">EDFINA</span>--<span style="color: #0000FF;">ALEXANDRIA<br/>
+<br/>
+</span><span style="color: #0000FF;">J </span><span style="color: #0000FF;">I<br/>
+</span>A.M. 1<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<span style="color: #0000FF;">mu..<br/>
+</span><span style="color: #ff0000;">IEDFINA </span><span style="color: #0000FF;">dep</span>. <span style="color: #0000FF;">5.10 </span><span style="color: #0000FF;">3</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">0'<br/>
+</span><span style="color: #0000FF;">Rosetta</span>...,, <span style="color: #0000FF;">A. </span><span style="color: #0000FF;">M. </span><span style="color: #0000FF;">6</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">42 </span><span style="color: #0000FF;">A.M </span>A.M. P.M. P.M.<br/>
+<span style="color: #0000FF;">Aboukir.</span><span style="color: #0000FF;">,</span>, <span style="color: #ff0000;">, </span><span style="color: #ff0000;">16.40 </span><span style="color: #ff0000;">7.55110</span>. <span style="color: #0000FF;">40 </span><span style="color: #0000FF;">7</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">55110:0 </span><span style="color: #0000FF;">0111.35110 </span><span style="color: #0000FF;">2.45 </span><span style="color: #0000FF;">4.55 </span><span style="color: #0000FF;">- </span><span style="color: #0000FF;">17</span>. <span style="color: #0000FF;">0 </span><span style="color: #0000FF;">8.35<br/>
+</span><span style="color: #0000FF;">Ramleh </span><span style="color: #0000FF;">"</span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">8</span>. <span style="color: #0000FF;">22</span><span style="color: #0000FF;">) </span><span style="color: #0000FF;">10.27 </span>12. 2 1.37 <span style="color: #0000FF;">3.12 </span><span style="color: #0000FF;">5221144727 </span>9. 2<br/>
+<span style="color: #0000FF;">Sidi-Gaber </span><span style="color: #0000FF;">June..</span>, <span style="color: #0000FF;">17.17 </span><span style="color: #0000FF;">8</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">35</span><span style="color: #0000FF;">) </span><span style="color: #0000FF;">1,0 </span><span style="color: #0000FF;">37 </span><span style="color: #0000FF;">12.121.473.22 </span><span style="color: #0000FF;">5.3213</span>. <span style="color: #0000FF;">27.37 </span>9.12<br/>
+<span style="color: #0000FF;">ALEXANDRiA </span>arr<span style="color: #0000FF;">. </span><span style="color: #0000FF;">L </span><span style="color: #0000FF;">g. </span><span style="color: #0000FF;">15.15</span><span style="color: #0000FF;">--</span><span style="color: #0000FF;">'<br/>
+</span><span style="color: #0000FF;">i<br/>
+<br/>
+</span><span style="color: #0000FF;">1<br/>
+</span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">i </span><span style="color: #0000FF;">5</span><span style="color: #0000FF;">' </span><span style="color: #0000FF;">1<br/>
+<br/>
+</span><span style="color: #0000FF;">I<br/>
+</span>FAYOUM LIGHT RAILWAY CO.'S <span style="color: #0000FF;">TIME-TABLES<br/>
+<br/>
+</span><span style="color: #ff0000;">FAYOUM-TAMIEH<br/>
+<br/>
+</span><span style="color: #0000FF;">TAM </span><span style="color: #0000FF;">IEH-FAYOUM<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span>A.M. <span style="color: #0000FF;">P.M. </span><span style="color: #0000FF;">dip</span><span style="color: #0000FF;">. </span>10.40 <span style="color: #0000FF;">1 </span><span style="color: #0000FF;">8.40 </span><span style="color: #ff0000;">TAMIEH</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">dep</span>. 6.15 12.50<br/>
+<span style="color: #ff0000;">Sennourés </span><span style="color: #0000FF;">"</span><span style="color: #0000FF;">- </span>5.20<span style="color: #ff0000;">. </span><span style="color: #ff0000;">Sennourés.</span><span style="color: #ff0000;">,</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">7.15</span><span style="color: #ff0000;">--</span><span style="color: #ff0000;">TAMIEH.. </span><span style="color: #ff0000;">arr.. </span><span style="color: #ff0000;">12.20 </span><span style="color: #ff0000;">6.15</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">FAYOUM</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">arr</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">840 </span><span style="color: #ff0000;">2.30<br/>
+</span><span style="color: #ff0000;">FAYOUM</span><span style="color: #ff0000;">--</span><span style="color: #ff0000;">LAHUN</span><span style="color: #ff0000;">--</span><span style="color: #ff0000;">fif </span><span style="color: #ff0000;">1+ </span><span style="color: #ff0000;">iLéI-jUN</span><span style="color: #ff0000;">--</span><span style="color: #ff0000;">i</span><span style="color: #ff0000;">--</span><span style="color: #ff0000;">EAYOUM </span><span style="color: #ff0000;">_<br/>
+</span><span style="color: #ff0000;">A.M. </span><span style="color: #ff0000;">i </span><span style="color: #ff0000;">P'H </span><span style="color: #ff0000;">> </span><span style="color: #ff0000;">A.M. </span><span style="color: #ff0000;">[ </span><span style="color: #ff0000;">P </span><span style="color: #ff0000;">M.<br/>
+</span><span style="color: #ff0000;">FAYOUM.. </span><span style="color: #ff0000;">dep</span>.<span style="color: #ff0000;">' </span><span style="color: #ff0000;">6</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">5</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">240</span><span style="color: #ff0000;">'</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">LAHUN </span><span style="color: #ff0000;">dep </span><span style="color: #ff0000;">7.40 </span><span style="color: #ff0000;">E </span><span style="color: #ff0000;">4.10<br/>
+</span><span style="color: #ff0000;">Hawara..</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">,</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">6.39 </span><span style="color: #ff0000;">.f </span><span style="color: #ff0000;">315</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">Hawarq</span><span style="color: #ff0000;">,</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">8.24 </span><span style="color: #ff0000;">E </span><span style="color: #ff0000;">4.51<br/>
+</span><span style="color: #ff0000;">) </span><span style="color: #ff0000;">LAHUN.. </span><span style="color: #ff0000;">arr</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">L </span><span style="color: #ff0000;">7.20</span><span style="color: #ff0000;">: </span><span style="color: #ff0000;">355 </span><span style="color: #ff0000;">i. </span>FAYOUM <span style="color: #ff0000;">arr </span>8.55 <span style="color: #0000FF;">L </span>5.20<br/>
+<span style="color: #0000FF;">- </span><span style="color: #0000FF;">- </span>___<span style="color: #0000FF;">. </span><span style="color: #0000FF;">__ </span><span style="color: #0000FF;">___</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">_ </span><span style="color: #0000FF;">__ </span><span style="color: #0000FF;">___| </span><span style="color: #0000FF;">_ </span><span style="color: #0000FF;">_</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">_</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;"># </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">7 </span><span style="color: #0000FF;">7'7 </span><span style="color: #0000FF;">4</span><span style="color: #0000FF;">--</span><span style="color: #0000FF;">..</span>--<span style="color: #ff0000;">I- </span><span style="color: #ff0000;">.7 </span><span style="color: #ff0000;">FAYOUMTEELRAK </span><span style="color: #ff0000;">GHigAK-FAYOUM<br/>
+</span>A.M. <span style="color: #ff0000;">A.M</span>. <span style="color: #0000FF;">P.M.<br/>
+</span><span style="color: #0000FF;">FAYOUM </span>dep <span style="color: #ff0000;">6</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">0</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">9</span><span style="color: #ff0000;">. </span>0 <span style="color: #ff0000;">3.45</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">GHARAK</span>. dep. 6. 0 1. 0 3.45<br/>
+<span style="color: #ff0000;">GHARAK</span>. <span style="color: #0000FF;">1 </span>8. 5 <span style="color: #0000FF;">Al</span>. 5 <span style="color: #0000FF;">5.4511 </span>FAYOUM. arr. <span style="color: #0000FF;">8 </span><span style="color: #0000FF;">5 </span><span style="color: #0000FF;">3 </span>5 5.45<br/>
+<span style="color: #ff0000;">r </span><span style="color: #ff0000;">i<br/>
+</span><span style="color: #ff0000;">FAYOUM</span>--<span style="color: #ff0000;">ISAZLEHLWADI </span><span style="color: #0000FF;">7 </span><span style="color: #ff0000;">NAZLEH-WADI</span>--<span style="color: #ff0000;">FAypVM<br/>
+</span><span style="color: #0000FF;">I </span>A.M.<span style="color: #0000FF;">, </span><span style="color: #0000FF;">P.M.1 </span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">A.M</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">I </span>P.M<br/>
+<span style="color: #0000FF;">FAYOUM.. </span>dep. 8.45 4. <span style="color: #0000FF;">0 </span>1 <span style="color: #ff0000;">3.15<br/>
+<br/>
+</span><span style="color: #ff0000;">NAZLEH-WADI </span>arr. <span style="color: #ff0000;">"</span><span style="color: #ff0000;">10.40<br/>
+</span><span style="color: #ff0000;">|<br/>
+<br/>
+</span>1 <span style="color: #0000FF;">I </span><span style="color: #0000FF;">4 </span><span style="color: #0000FF;">l<br/>
+<br/>
+</span><span style="color: #0000FF;">*7 </span>- <span style="color: #0000FF;">___.._</span><span style="color: #0000FF;">--</span><span style="color: #0000FF;">_.__._</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">__</span><span style="color: #0000FF;">--</span><span style="color: #0000FF;">A </span><span style="color: #0000FF;">I<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span></span>

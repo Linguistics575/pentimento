@@ -1,0 +1,60 @@
+<span><span style="color: #0000FF;">EGYPTIAN </span><span style="color: #0000FF;">STATE </span><span style="color: #0000FF;">RAILWAYS<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #0000FF;">CAIRO </span><span style="color: #0000FF;">MANSOURAH</span>, via <span style="color: #ff0000;">ZAGAZIG<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">A.M</span>. <span style="color: #0000FF;">A.H</span><span style="color: #0000FF;">. </span><span style="color: #0000FF;">P.M. </span><span style="color: #0000FF;">P.I</span><span style="color: #0000FF;">.<br/>
+<br/>
+</span><span style="color: #0000FF;">Cum.. </span>_. dep. <span style="color: #ff0000;">l </span><span style="color: #ff0000;">5.45 </span><span style="color: #ff0000;">7.45 </span><span style="color: #ff0000;">1 </span>11.25 2.40 5.40<br/>
+<span style="color: #ff0000;">Calioub</span><span style="color: #0000FF;">... </span><span style="color: #0000FF;">IF </span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">6.11 </span><span style="color: #0000FF;">1 </span><span style="color: #0000FF;">8.12 </span>11.50 3. 5 <span style="color: #0000FF;">a</span>. 5<br/>
+Bilbeis<span style="color: #ff0000;">...</span><span style="color: #ff0000;">" </span><span style="color: #ff0000;">7.28</span><span style="color: #ff0000;">' </span><span style="color: #ff0000;">9.19 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">1</span>. <span style="color: #0000FF;">0 </span><span style="color: #0000FF;">4.18 </span><span style="color: #0000FF;">7.18<br/>
+</span><span style="color: #0000FF;">ZAGAZIG</span>... arr<span style="color: #ff0000;">. </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">7.55 </span><span style="color: #ff0000;">f </span><span style="color: #ff0000;">9.44 </span><span style="color: #ff0000;">1 </span>1.27 <span style="color: #ff0000;">4.45 </span>7.42<br/>
+<span style="color: #0000FF;">m</span><span style="color: #0000FF;">)</span>. <span style="color: #0000FF;">1 </span><span style="color: #0000FF;">.54 </span><span style="color: #0000FF;">1.40 </span>5. o <span style="color: #ff0000;">7.55<br/>
+</span><span style="color: #ff0000;">Abou-kehir</span><span style="color: #ff0000;">,</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">10.30 </span><span style="color: #ff0000;">2.26 </span>5.38 8.30<br/>
+<span style="color: #0000FF;">MANSOURAH </span><span style="color: #0000FF;">arr</span>. <span style="color: #ff0000;">I </span><span style="color: #ff0000;">11.50 </span><span style="color: #ff0000;">I </span>3.45 7.10 <span style="color: #0000FF;">9.55<br/>
+<br/>
+</span><span style="color: #0000FF;">Aaou- </span><span style="color: #0000FF;">KEBI </span><span style="color: #0000FF;">x </span><span style="color: #0000FF;">_.<br/>
+</span><span style="color: #0000FF;">Facom<br/>
+</span><span style="color: #0000FF;">SAL</span>" <span style="color: #ff0000;">[ </span><span style="color: #ff0000;">8.11 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">11.46 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">3.15 </span><span style="color: #ff0000;">t </span><span style="color: #ff0000;">4.40<br/>
+<br/>
+</span><span style="color: #ff0000;">SALHIEH </span><span style="color: #ff0000;">an</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">8.55 </span><span style="color: #ff0000;">12.30 </span><span style="color: #ff0000;">-</span><span style="color: #ff0000;">" </span><span style="color: #ff0000;">e </span><span style="color: #ff0000;">5.20<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #ff0000;">TANTAH-MANSOURAH-DAMIETTA<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</span><span style="color: #ff0000;">A.M</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">A.M</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">A.M. </span><span style="color: #ff0000;">P.M.. </span><span style="color: #ff0000;">P.M. </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">P.M.<br/>
+</span><span style="color: #ff0000;">Tuna</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">dep</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">5.30 </span><span style="color: #ff0000;">9.15 </span><span style="color: #ff0000;">11.15 </span><span style="color: #ff0000;">2</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">5 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">6.15 </span><span style="color: #ff0000;">i </span><span style="color: #ff0000;">8.15<br/>
+</span><span style="color: #ff0000;">Mehalleb.Roh </span><span style="color: #ff0000;">tr </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">5.54 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">9.36 </span><span style="color: #ff0000;">3 </span><span style="color: #ff0000;">11.34 </span><span style="color: #ff0000;">2.25 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">6.36</span>, <span style="color: #ff0000;">8.35<br/>
+</span><span style="color: #ff0000;">MANSOURAH </span><span style="color: #ff0000;">arr</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">7</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">4 </span><span style="color: #ff0000;">10.45 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">12.34 </span><span style="color: #ff0000;">3.25 </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">7.40 </span><span style="color: #ff0000;">t</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">9.35<br/>
+</span><span style="color: #ff0000;">dep</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">7.16 </span><span style="color: #ff0000;">12.38 </span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">'</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">'</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">; </span><span style="color: #ff0000;">7.45 </span><span style="color: #ff0000;">i</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">'</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">"<br/>
+</span><span style="color: #ff0000;">Cherbine </span><span style="color: #ff0000;">Junc.. </span><span style="color: #ff0000;">"</span><span style="color: #ff0000;">7.53 </span><span style="color: #ff0000;">1.12 </span><span style="color: #ff0000;">8.20 </span><span style="color: #ff0000;">3</span><span style="color: #ff0000;">'</span><span style="color: #ff0000;">,<br/>
+</span><span style="color: #ff0000;">Farascour</span><span style="color: #ff0000;">,</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">8.48 </span><span style="color: #ff0000;">2. </span><span style="color: #ff0000;">o </span><span style="color: #ff0000;">I </span><span style="color: #ff0000;">t </span><span style="color: #ff0000;">9</span><span style="color: #ff0000;">. </span><span style="color: #ff0000;">8 </span><span style="color: #ff0000;">2<br/>
+</span><span style="color: #ff0000;">DAMIETTA </span><span style="color: #ff0000;">arr</span><span style="color: #ff0000;">.</span><span style="color: #ff0000;">; </span><span style="color: #ff0000;">9.15 </span><span style="color: #ff0000;">2.30 </span><span style="color: #ff0000;">I </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">9.35 </span><span style="color: #ff0000;">5<br/>
+</span><span style="color: #ff0000;">1</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">F<br/>
+</span><span style="color: #ff0000;">TANTAH-DAMANHOUR</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">via </span><span style="color: #ff0000;">DESSOUK<br/>
+</span><span style="color: #ff0000;">i </span><span style="color: #ff0000;">l </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">I</span><span style="color: #ff0000;">,<br/>
+</span><span style="color: #ff0000;">A.M. </span><span style="color: #ff0000;">g</span><span style="color: #ff0000;">, </span><span style="color: #ff0000;">A.M. </span><span style="color: #ff0000;">1 </span><span style="color: #ff0000;">P.M. </span><span style="color: #ff0000;">,1 </span><span style="color: #ff0000;">p.11</span>.<br/>
+<span style="color: #ff0000;">TANTAH</span>... <span style="color: #0000FF;">Wp</span><span style="color: #0000FF;">. </span>5.<br/>
+<span style="color: #0000FF;">Kallim- </span><span style="color: #0000FF;">Juno</span>... <span style="color: #0000FF;">arr.</span><span style="color: #0000FF;">, </span><span style="color: #0000FF;">2.10 </span><span style="color: #0000FF;">6.50 </span><span style="color: #0000FF;">1<br/>
+<br/>
+<br/>
+<br/>
+</span>Only the principal trains and stations are mentioned<span style="color: #0000FF;">.<br/>
+<br/>
+<br/>
+<br/>
+</span></span>
