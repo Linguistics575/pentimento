@@ -1,13 +1,13 @@
-# pentimento
+# Pentimento
 
 The goal of this project is to create an end-to-end system for parsing historical documents pertaining to the Emma B. Andrews Diary Project. The system has three components: OCR, named entity recognition and normalization, and XML generation. Additionally, there are two user interfaces. The first is to aid the user in running OCR and correcting any mistakes. The second is to aid in named entity recognition and XML markup.
 
-USER GUIDE
+## User Guide
 
-1. OCR
+1. OCR Tool
 
 
-2. NER and XML Generation
+2. NER and XML Generation Tool
 
 
 3. Batch Processing NER
@@ -28,17 +28,22 @@ name type="vessel"
 
 The persName tags will have a ref attribute with a normalized version of the name.
 
-TECHNICAL DOCUMENTATION
+## Technical Documentation
 
 1. OCR
 
 
 2. Named Entity Recognition
 
-The NER component is available in the user interface. Additionally, 
+The NER module uses the Stanford CoreNLP library to generate persName, placeName, and orgName tags. The Stanford CoreNLP output goes through a post-processing step to ensure that all named entities are on the same line (for compatibility with the XML generation component). There is also a rule-based post-processing step to include personal titles in the named entities (e.g. Mr., Mrs., Lord, etc.). Finally, there is another rule-based post-processing step that will reclassify named entities as vessels or hotels where applicable. 
 
 3. Named Entity Normalization (People)
 
+The named entity normalization step for people consists of two steps: lexical similarity and semantic similarity. The lexical similarity of named entities is computed using Levenshtein distance. 
+
+The semantic similarity is computed using cosine distane between the contexts in which any two named entities appear. Context is defined to be the paragraph in which the named entitiy appears. The paragraphs are vectorized using a tf-idf vectorizer and then reduced to a 200-dimensional vector via SVD. 
+
+The lexical similarity and semantic similarity are added and then clustered using affinity propagation. The most frequently occurring named entity in the cluster is used as the ref attribute.
 
 4. Named Entity Normalization (Places)
 
