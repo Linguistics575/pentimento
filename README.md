@@ -4,10 +4,10 @@ The goal of this project is to create an end-to-end system for parsing historica
 
 ## User Guide
 
-1. OCR Tool
+1. **OCR Tool**
 
 
-2. NER and XML Generation Tool
+2. **NER and XML Generation Tool**
 
 The tool can be accessed here: http://eslamelsawy.pythonanywhere.com/teigenerator/
 
@@ -20,7 +20,7 @@ In the lower left section you can find the TEI header section, there is a defaul
 In the lower right section you can find the location name variations database, which you can “export” as xml file. This database is used to populate the ref attribute of placeName element in the generated markup, it tries to unify the ref attribute of different location spelling variations found in the text (e.g. Assouan and Aswân are both referring to the same name Aswan). More details about the schema of this database in the technical documentation below
 
 
-3. Batch Processing NER
+3. **Batch Processing NER**
 
 Batch processing for NER is not compatible with the user interface. However, it can be done via commandline. Store the documents you want to process in the ner_input directory. These documents must be plain text files. If they are image files or pdfs, they will need to go through the OCR component as described above.
 
@@ -40,14 +40,14 @@ The persName tags will have a ref attribute with a normalized version of the nam
 
 ## Technical Documentation
 
-1. OCR
+1. **OCR**
 
 
-2. Named Entity Recognition
+2. **Named Entity Recognition**
 
 The NER module uses the Stanford CoreNLP library to generate persName, placeName, and orgName tags. The Stanford CoreNLP output goes through a post-processing step to ensure that all named entities are on the same line (for compatibility with the XML generation component). There is also a rule-based post-processing step to include personal titles in the named entities (e.g. Mr., Mrs., Lord, etc.). Finally, there is another rule-based post-processing step that will reclassify named entities as vessels or hotels where applicable. 
 
-3. Named Entity Normalization (People)
+3. **Named Entity Normalization (People)**
 
 The named entity normalization step for people consists of two steps: lexical similarity and semantic similarity. The lexical similarity of named entities is computed using Levenshtein distance. 
 
@@ -55,7 +55,7 @@ The semantic similarity is computed using cosine distane between the contexts in
 
 The lexical similarity and semantic similarity are added and then clustered using affinity propagation. The most frequently occurring named entity in the cluster is used as the ref attribute.
 
-4. Named Entity Normalization (Places)
+4. **Named Entity Normalization (Places)**
 
 Places names normalization is happening using places variations database (https://github.com/Linguistics575/pentimento/blob/master/teigeneratortool/teigeneratorui/static/teigeneratorui/variations.xml)
 
@@ -72,4 +72,4 @@ During generating the xml markup, we look for the <placeName> elements in the va
 See resolveVariations function in teigenerator.py script https://github.com/Linguistics575/pentimento/blob/master/teigeneratortool/teigeneratorui/teigenerator.py
 
 
-5. XML Generation
+5. **XML Generation**
