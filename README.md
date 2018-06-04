@@ -19,6 +19,8 @@ In the lower left section you can find the TEI header section, there is a defaul
 
 In the lower right section you can find the location name variations database, which you can “export” as xml file. This database is used to populate the ref attribute of placeName element in the generated markup, it tries to unify the ref attribute of different location spelling variations found in the text (e.g. Assouan and Aswân are both referring to the same name Aswan). More details about the schema of this database in the technical documentation below
 
+** For developers**: in order to run the tool locally (i.e. localhost) you will need: (1) Download free trial of PyCharm professional, (2) From the IDE open this project https://github.com/Linguistics575/pentimento/tree/master/teigeneratortool, (3) From terminal run: “python manage.py runserver”, (4) You should see the tool available on http://localhost:8000/teigenerator/ 
+
 
 3. **Batch Processing NER**
 
