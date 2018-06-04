@@ -57,5 +57,19 @@ The lexical similarity and semantic similarity are added and then clustered usin
 
 4. Named Entity Normalization (Places)
 
+Places names normalization is happening using places variations database (https://github.com/Linguistics575/pentimento/blob/master/teigeneratortool/teigeneratorui/static/teigeneratorui/variations.xml)
+
+The database file is in .xml format, with <variations> element as the root, each <location> must have one <wiki-page> element which has the name of the wikipedia page that corresponds to this location
+
+Each <location> has zero or more <wiki-variation> elements, which were automatically extracted from parsing wikipedia dumps
+
+Each <location> can have zero or more <manual-variation> elements, which can be added manually by the annotator
+
+Each <location> can have one <modern-name> element, which is added manually by the annotator
+
+During generating the xml markup, we look for the <placeName> elements in the variations database, if we found a <wiki-variation> or <manual-variation> that matches the place name, we update the ref attribute of the <placeName> element with the <modern-name> if it exists otherwise we use <wiki-page>
+
+See resolveVariations function in teigenerator.py script https://github.com/Linguistics575/pentimento/blob/master/teigeneratortool/teigeneratorui/teigenerator.py
+
 
 5. XML Generation

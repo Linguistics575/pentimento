@@ -13,6 +13,8 @@ import xml.etree.cElementTree as ET
 import xml.dom.minidom as Minidom
 import json
 import subprocess
+# from nltk.tag import StanfordNERTagger
+# from nltk.tokenize import word_tokenize
 
 
 @csrf_exempt
@@ -20,15 +22,27 @@ def generatemarkup(request):
     print("PY: generating markup ...")
 
     json_data = json.loads(request.body)
-    
-    with open(os.path.join('teigeneratortool', 'temp', 'input.txt'), 'w') as f:
-        f.write(json_data['text'])
+    #option 1
+    # with open(os.path.join('teigeneratortool', 'temp', 'input.txt'), 'w') as f:
+    #     f.write(json_data['text'])
+    #
+    # #Call named entity component
+    # subprocess.call('./teigeneratortool/ner.sh teigeneratortool/temp/input.txt', shell=True)
+    #
+    # with open(os.path.join('teigeneratortool', 'temp', 'ner_output.txt'), 'r') as f:
+    #     json_data['text'] = f.read()
 
-    # Call named entity component
-    subprocess.call('./teigeneratortool/ner.sh teigeneratortool/temp/input.txt', shell=True)
+    #option2
+    # st = StanfordNERTagger('/Users/eslamelsawy/Desktop/CLMS/575_Egypt/project/pentimento/stanford_ner/classifiers/english.all.3class.distsim.crf.ser.gz',
+    #                        '/Users/eslamelsawy/Desktop/CLMS/575_Egypt/project/pentimento/stanford_ner/stanford-ner.jar',
+    #                        encoding='utf-8')
+    #
+    # text = "Ronaldo went to France"
+    #
+    # tokenized_text = word_tokenize(text)
+    # classified_text = st.tag(tokenized_text)
+    # print(classified_text)
 
-    with open(os.path.join('teigeneratortool', 'temp', 'ner_output.txt'), 'r') as f:
-        json_data['text'] = f.read()
     text_lines = json_data['text'].split("\n")
     header_root = ET.fromstring(json_data['header'].replace("\n", "\n"))
     variations_root = ET.fromstring(json_data['variations'].replace("\n", "\n"))
