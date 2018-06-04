@@ -11,7 +11,7 @@ The goal of this project is to create an end-to-end system for parsing historica
 
 The tool can be accessed here: http://eslamelsawy.pythonanywhere.com/teigenerator/
 
-The web interface is divided into 4 sections, the top left section is for user input, you can type any text or upload a file from local disk by clicking “choose file”, then picking a .txt file from local disk then clicking “upload”
+The web interface is divided into 4 sections, the top left section is for user input, you can type any text or upload a file from local disk by clicking “choose file”, then picking a .txt file from local disk then clicking “upload”. For example upload a text file from emma’s diary https://github.com/Linguistics575/pentimento/tree/master/emma_diaries 
 
 After that, click “Generate Markup”, and wait for couple of seconds until the output appears in the output section in the top right section of the page, the output can be saved to local disk as .xml file by clicking “Export”
 
