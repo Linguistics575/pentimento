@@ -6,6 +6,7 @@ The goal of this project is to create an end-to-end system for parsing historica
 
 1. **OCR Tool**
 
+Please go here for documentation on the user interface: https://github.com/pentimenti/pentimenti.github.io
 
 2. **NER and XML Generation Tool**
 
