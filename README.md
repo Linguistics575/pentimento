@@ -1,17 +1,26 @@
 # Pentimento
 
-The goal of this project is to create an end-to-end system for parsing historical documents pertaining to the Emma B. Andrews Diary Project. The system has three components: OCR, named entity recognition and normalization, and XML generation. Additionally, there are two user interfaces. The first is to aid the user in running OCR and correcting any mistakes. The second is to aid in named entity recognition and XML markup.
+The goal of this project is to create an end-to-end system for parsing historical documents pertaining to the Emma B. Andrews Diary Project. The tools provided in this project can be used to greatly speed up the processing of historical documents by automating the process while still allowing for human oversight. 
+
+The system has three components: OCR, named entity recognition and normalization, and XML generation. Additionally, there are two user interfaces. The first is to aid the user in running OCR and correcting any mistakes. The second is to aid in named entity recognition and XML markup.
+
+Although this tool was developed specifically for use by interns working on the Emma B. Andrews Diary Project, it should also be extensible to other historical datasets written in English.  
+
+## License ##
+
+This project is licensed under the GNU General Public License v3.0 (see LICENSE.txt for full details).
 
 ## User Guide
 
 1. **OCR Tool**
 
+Please go here for documentation on the user interface: https://github.com/pentimenti/pentimenti.github.io
 
 2. **NER and XML Generation Tool**
 
 The tool can be accessed here: http://eslamelsawy.pythonanywhere.com/teigenerator/
 
-The web interface is divided into 4 sections, the top left section is for user input, you can type any text or upload a file from local disk by clicking “choose file”, then picking a .txt file from local disk then clicking “upload”. For example upload a text file from emma’s diary https://github.com/Linguistics575/pentimento/tree/master/emma_diaries 
+The web interface is divided into 4 sections, the top left section is for user input, you can type any text or upload a file from local disk by clicking “choose file”, then picking a .txt file from local disk then clicking “upload”. For example upload a text file from emma’s diary https://github.com/Linguistics575/pentimento/tree/master/ner_input
 
 After that, click “Generate Markup”, and wait for couple of seconds until the output appears in the output section in the top right section of the page, the output can be saved to local disk as .xml file by clicking “Export”
 
