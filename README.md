@@ -80,7 +80,7 @@ The tei generator script can be found here: https://github.com/Linguistics575/pe
 
 The script takes as input: (1) the input text lines, (2) the header file and (3) the variation database
 
-The output is a valid xml that has <teiHeader> <div> <p> <title> <date> <placeName> <orgName> <persName> elements
+The output is a valid xml that has **teiHeader**, **div**, **p**, **title**, **date**, **placeName**, **orgName**, **persName** elements
 
 We are using dateutil library for parsing dates https://github.com/Linguistics575/pentimento/tree/master/teigeneratortool/teigeneratorui/dateutil
 
