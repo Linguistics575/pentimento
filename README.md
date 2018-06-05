@@ -6,6 +6,8 @@ The system has three components: OCR, named entity recognition and normalization
 
 Although this tool was developed specifically for use by interns working on the Emma B. Andrews Diary Project, it should also be extensible to other historical datasets written in English.  
 
+## License ##
+
 This project is licensed under the GNU General Public License v3.0 (see LICENSE.txt for full details).
 
 ## User Guide
