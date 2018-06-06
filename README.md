@@ -88,9 +88,9 @@ In the lower right section you can find the location name variations database, w
 Batch processing for NER is not compatible with the user interface. However, it can be done via commandline. Store the documents you want to process in the ner_input directory. These documents must be plain text files. If they are image files or pdfs, they will need to go through the OCR component as described above.
 
 From the ner directory, run the following command:
-
+```
 ./ner.sh
-
+```
 The marked-up files will be available in the ner_output directory. Markup will include the following named entity XML labels:
 
 persName
@@ -105,7 +105,27 @@ The persName tags will have a ref attribute with a normalized version of the nam
 
 ### OCR
 
+This process is broken into two parts:  
+1. [pdfToTxt.sh](https://github.com/Linguistics575/pentimento/blob/master/pdfToTxt.sh) Run an open-source OCR tool to transform pdfs to txt files.  
+2. [ocrPostProcess.sh](https://github.com/Linguistics575/pentimento/blob/master/ocrPostProcess.sh) Do some post-processing on the txt files to automatically correct some mistakes.
+
+#### pdfToText.sh
+
+#### ocrPostProcess.sh
+
+This has two components: normalize.py and merge.py
+
+normalize.py corrects spacing errors by performing tokenize and detokenize sequentially. Also, nonstandard characters are replaced with their standard equivalents (e.g. curly quotes are changed to ascii quotes). 
+
 ### Post-OCR Editing Interface
+
+See [README of pentimenti.github.io](https://github.com/pentimenti/pentimenti.github.io)
+The output of the merge step can be used to add new books to this project. 
+The required pentimenti book directories can be copied from these places
+* pentimenti.github.io/bookTitle/htmls/: data/outputDataDir/merged_ocr/step[n]-html/ 
+* pentimenti.github.io/bookTitle/txts/: data/outputDataDir/merged_ocr/step[n]-txt/
+* pentimenti.github.io/bookTitle/pngs/: data/outputDataDir/pngs/
+(Where n is the biggest number available)
 
 ### Named Entity Recognition
 
@@ -144,5 +164,5 @@ The script takes as input: (1) the input text lines, (2) the header file and (3)
 
 The output is a valid xml that has **teiHeader**, **div**, **p**, **title**, **date**, **placeName**, **orgName**, **persName** elements
 
-We are using dateutil library for parsing dates https://github.com/Linguistics575/pentimento/tree/master/teigeneratortool/teigeneratorui/dateutil
+We are using dateutil library for [parsing dates](https://github.com/Linguistics575/pentimento/tree/master/teigeneratortool/teigeneratorui/dateutil)
 
