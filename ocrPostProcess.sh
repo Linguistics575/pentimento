@@ -1,4 +1,18 @@
 #!/bin/sh
+            
+# Usage: ./pdfToText.sh pathToInputPdf dataDirectory
+#
+# dataDirectory should have data in the format as outputted by ./pdfToText.sh
+# 
+# Outputs:
+#   normalized_ocr/ directory of text files, same structure as raw_ocr, containing output of ocr/normalize.py
+#   merged_ocr/     directory of text and html files, result of ocr/merge.py run on normalized_ocr/ files. This will take n-1 steps, where n in the number of subdirectories of normalized_ocr. The step with the largest number is the final output. These files can be imported into the pentimenti.github.io tool
+#
+# In every output directory, the naming convetion is [number].[extension]. For example: 1.txt, 2.txt, ... for directories with text files.
+#
+# In order to run this tool you need
+#   * nltk
+
 
 for dir in `ls "$1/raw_ocr"`
 do

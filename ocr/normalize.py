@@ -22,6 +22,9 @@ def untokenize(words):
     return step6.strip()
 
 def charSubstitute(line):
+    """
+    Standardize common characters.
+    """
     subs = {
         '’': "'",
         '‘': "'",

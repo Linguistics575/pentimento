@@ -1,5 +1,12 @@
 #!/usr/bin/python3
 
+# This script takes 2 alternative OCR results
+# Wherever the alternatives disagree, this script chooses the best choice given some linguistic rules
+# Example rules:
+#   * Is only one alternative a valid English word? ("the" vs. "tlo")
+#   * Is only one alternative captialized correctly? ("I know What to do" vs. "I know what to do")
+#   * Is one alternative a much more common word than the other alternative? (e.g. "must" vs. "mash")
+
 import sys
 import difflib
 import nltk

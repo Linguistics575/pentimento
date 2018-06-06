@@ -1,3 +1,6 @@
+# This file was used to generate brown_freq.py
+# Unigram frequencies of Brown Corpus
+
 import nltk
 import re
 from nltk.corpus import brown
