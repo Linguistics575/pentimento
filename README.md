@@ -70,7 +70,7 @@ We have a website for editing output of the batch OCR processing results. After 
 
 ### NER and XML Generation Tool
 
-The tool can be accessed here: http://eslamelsawy.pythonanywhere.com/teigenerator/
+The tool can be accessed here: http://www.pentimento.dreamhosters.com/teigenerator/
 
 The web interface is divided into 4 sections, the top left section is for user input, you can type any text or upload a file from local disk by clicking “choose file”, then picking a .txt file from local disk then clicking “upload”. For example upload a text file from [emma’s diary](https://github.com/Linguistics575/pentimento/tree/master/ner_input)
 
@@ -81,6 +81,10 @@ In the lower left section you can find the TEI header section, there is a defaul
 In the lower right section you can find the location name variations database, which you can “export” as xml file. This database is used to populate the ref attribute of placeName element in the generated markup, it tries to unify the ref attribute of different location spelling variations found in the text (e.g. Assouan and Aswân are both referring to the same name Aswan). More details about the schema of this database in the technical documentation below
 
 **For developers** : in order to run the tool locally (i.e. localhost) you will need: (1) Download free trial of PyCharm professional, (2) From the IDE open [this project](https://github.com/Linguistics575/pentimento/tree/master/teigeneratortool), (3) From terminal run: “python manage.py runserver”, (4) You should see the tool available on http://localhost:8000/teigenerator/ 
+
+**Deployments** : in order to make changes to the tool running online, you will need access to this repo: https://github.com/Eslam-Elsawy/teigeneratortool, we decided to make a separate small size repo to deploy from to save storage on the hosting server
+
+The tool is deployed to Dreamhost, to get access run "ssh newbook@william-few.dreamhost.com" from your terminal, contact Sarah for password, the tool can be found under "/home/newbook/pentimento.dreamhosters.com/"
 
 
 ### Batch Processing NER
