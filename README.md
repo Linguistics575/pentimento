@@ -103,7 +103,7 @@ The persName tags will have a ref attribute with a normalized version of the nam
 
 ## Technical Documentation
 
-### OCR
+### Batch OCR Processing
 
 This process is broken into two parts:  
 1. [pdfToTxt.sh](https://github.com/Linguistics575/pentimento/blob/master/pdfToTxt.sh) Run an open-source OCR tool to transform pdfs to txt files.  
@@ -111,20 +111,56 @@ This process is broken into two parts:
 
 #### pdfToText.sh
 
+This script performs these steps
+* Separate pdf into pages using the command 'pdfseparate'
+* Convert each page into a .tiff file. This is the input for the OCR engine.
+* run [do_ocr.py](https://github.com/Linguistics575/pentimento/blob/master/ocr/do_ocr.py), which is just a wrapper around the library [tesserocr](https://github.com/sirfz/tesserocr)
+* Remove the .tiff files because they are really big, and we don't really need them
+* Also convert pdfs to png, since that's useful for the interface
+
 #### ocrPostProcess.sh
 
-This has two components: normalize.py and merge.py
+This has two components: [normalize.py](https://github.com/Linguistics575/pentimento/blob/master/ocr/normalize.py) and [merge.py](https://github.com/Linguistics575/pentimento/blob/master/ocr/merge.py)
 
-normalize.py corrects spacing errors by performing tokenize and detokenize sequentially. Also, nonstandard characters are replaced with their standard equivalents (e.g. curly quotes are changed to ascii quotes). 
+The input should be the two alternative text outputs of pdfToText.sh, or some collection of folders in the same format. There should be at least two input sets. Otherwise, merge.py will not run. 
+
+normalize.py corrects spacing errors by performing tokenize and detokenize sequentially. Also, nonstandard characters are replaced with their standard equivalents (e.g. curly quotes are changed to ascii quotes).  
+Usage is
+```
+./normalize.py < inputFile > outputFile
+```
+
+merge.py takes the two alternative OCR results, and combines them via an algorithm that chooses the best alternative everywhere where the two OCR results disagree. 
+
+Here is an overview of the rules applied, with their corresponding functions
+* doSpellingMerge(): Is only one alternative a valid English word? If so, choose valid word. ("the" vs. "tlo")
+* doCapitalizationMerge(): Is only one alternative captialized correctly? If so, choose correct capitalization. ("I know what to do" vs. "I know What to do")
+* doUnigramFrequncyMerge(): Is one alternative a much more common word than the other alternative? If so, choose the more common word (e.g. "must" vs. "mash")
+* doPunctuationGarbageMerge(): Is one alternative blank, and the other has only punctuation characters? If so, choose the blank (e.g. "" vs ".")
+* doExtraPunctuationMerge(): Do both alternatives have non-punctuation, and does one alternative have less punctuation characters than the other? If so, choose the one with less punctuation (e.g. "the" vs. "'the.").
+
+After the two alternatives, are merged, there's some post-processing, namely via the markNonWords() method, we highlight any words that are probably misspelled. 
+
+merge.py outputs either text or html. The text can be color coded if desired. Blue is where we think we chose the correct alternative, red is where we either guessed, or this is a word that's spelled wrong.  
+Usage is
+```
+./merge.py inputDirectory1 inputDirectory2 outputDirectory [options]
+```
+Options must **not** be separated by spaces. For example 'hc', not 'h c'. Options are as follows:
+* h: output html instead of text
+* c: output color-coded
+* d: output debug view (same as color coded, except shows the rejected alternative crossed out in yellow; only supported for plain text)
 
 ### Post-OCR Editing Interface
 
-See [README of pentimenti.github.io](https://github.com/pentimenti/pentimenti.github.io)
+See [README of pentimenti.github.io](https://github.com/pentimenti/pentimenti.github.io)  
+
 The output of the merge step can be used to add new books to this project. 
-The required pentimenti book directories can be copied from these places
+The required pentimenti book directories can be copied from these places  
 * pentimenti.github.io/bookTitle/htmls/: data/outputDataDir/merged_ocr/step[n]-html/ 
 * pentimenti.github.io/bookTitle/txts/: data/outputDataDir/merged_ocr/step[n]-txt/
-* pentimenti.github.io/bookTitle/pngs/: data/outputDataDir/pngs/
+* pentimenti.github.io/bookTitle/pngs/: data/outputDataDir/pngs/  
+
 (Where n is the biggest number available)
 
 ### Named Entity Recognition
