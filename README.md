@@ -103,7 +103,7 @@ The persName tags will have a ref attribute with a normalized version of the nam
 
 ## Technical Documentation
 
-### OCR
+### Batch OCR Processing
 
 This process is broken into two parts:  
 1. [pdfToTxt.sh](https://github.com/Linguistics575/pentimento/blob/master/pdfToTxt.sh) Run an open-source OCR tool to transform pdfs to txt files.  
@@ -114,17 +114,17 @@ This process is broken into two parts:
 This script performs these steps
 * Separate pdf into pages using the command 'pdfseparate'
 * Convert each page into a .tiff file. This is the input for the OCR engine.
-* run ./do_ocr.py, which is just a wrapper around the library [tesserocr](https://github.com/sirfz/tesserocr)
+* run [do_ocr.py](https://github.com/Linguistics575/pentimento/blob/master/ocr/do_ocr.py), which is just a wrapper around the library [tesserocr](https://github.com/sirfz/tesserocr)
 * Remove the .tiff files because they are really big, and we don't really need them
 * Also convert pdfs to png, since that's useful for the interface
 
 #### ocrPostProcess.sh
 
-This has two components: normalize.py and merge.py
+This has two components: [normalize.py](https://github.com/Linguistics575/pentimento/blob/master/ocr/normalize.py) and [merge.py](https://github.com/Linguistics575/pentimento/blob/master/ocr/merge.py)
 
 The input should be the two alternative text outputs of pdfToText.sh, or some collection of folders in the same format. There should be at least two input sets. Otherwise, merge.py will not run. 
 
-normalize.py corrects spacing errors by performing tokenize and detokenize sequentially. Also, nonstandard characters are replaced with their standard equivalents (e.g. curly quotes are changed to ascii quotes). 
+normalize.py corrects spacing errors by performing tokenize and detokenize sequentially. Also, nonstandard characters are replaced with their standard equivalents (e.g. curly quotes are changed to ascii quotes).  
 Usage is
 ```
 ./normalize.py < inputFile > outputFile
@@ -160,6 +160,7 @@ The required pentimenti book directories can be copied from these places
 * pentimenti.github.io/bookTitle/htmls/: data/outputDataDir/merged_ocr/step[n]-html/ 
 * pentimenti.github.io/bookTitle/txts/: data/outputDataDir/merged_ocr/step[n]-txt/
 * pentimenti.github.io/bookTitle/pngs/: data/outputDataDir/pngs/  
+
 (Where n is the biggest number available)
 
 ### Named Entity Recognition
