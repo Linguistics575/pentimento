@@ -50,6 +50,7 @@ with open(os.path.join(output_dir, 'ner_output.txt'), 'r') as f:
     content = f.read()
 soup = BeautifulSoup(content, 'lxml')
 
+logging.info(' Getting elements')
 elems = []    
 p = soup.p
 e = soup.p.next_element
@@ -84,6 +85,7 @@ with open(os.path.join(output_dir, 'ner_output.txt'), 'w') as f:
 
 person_names = []
 
+logging.info(' Getting ships and hotels')
 with open(os.path.join(output_dir, 'ner_output.txt'), 'r') as f:
     content = f.read()
 soup = BeautifulSoup(content, 'lxml')                
@@ -106,7 +108,7 @@ with open(os.path.join(output_dir, 'ner_output.txt'), 'w') as f:
     f.write(soup)
 person_names = Counter(person_names)
 
-
+logging.info(' Lexical sims')
 with open(os.path.join(output_dir, 'ner_output.txt'), 'r') as f:
     content = f.read()
 soup = BeautifulSoup(content, "lxml")
@@ -120,20 +122,25 @@ for i in range(0, len(person_dict)):
     for j in range(0, len(person_dict)):
         lex_sim_mat[i, j] = jaro_winkler(person_dict[i], person_dict[j])
 
-elems = []    
-p = soup.p
-e = soup.p.next_element
+logging.info(' Getting elements')
+elems = []
+if soup.p:
+	e = soup.p.next_element
+else:
+	e = soup.body.next_element
 elems.append(e)  
 while e.next_sibling:
     e = e.next_sibling
     elems.append(e)
-    
+   
+logging.info(' Getting contexts') 
 contexts = []
 for e in elems:
     if e.name == 'persname':
         context = [' '.join(e.previous_sibling.split()[-5:]) + ' '.join(e.next_sibling.split()[0:5])]
         contexts.append(context[0])
 
+logging.info(' Getting semantic sims')
 tfidf = TfidfVectorizer(binary = True)
 tfidf_vecs = tfidf.fit_transform(contexts)
 svd = TruncatedSVD(200)
@@ -143,9 +150,12 @@ vecs = pipeline.fit_transform(tfidf_vecs)
 sem_sim_mat = cosine_similarity(vecs)
 
 sim_mat = lex_sim_mat + sem_sim_mat
+
+logging.info(' Clustering')
 af = AffinityPropagation(damping = 0.74, affinity = 'precomputed')
 clusters = af.fit_predict(sim_mat)
 
+logging.info(' Creating cluster dict')
 cluster_dict = dict()
 num_clusters = len(set(clusters))
 for i in range(0, num_clusters):
@@ -158,10 +168,13 @@ for i in range(0, num_clusters):
     cluster_name = re.sub(' ', '_', cluster_name)
     cluster_dict[i] = cluster_name
     
+logging.info(' Creating ref dict')
 ref_dict = dict()
 for ix in person_dict.keys():
     ref_dict[ix] = cluster_dict[clusters[ix]]
 ix = 0
+
+logging.info(' Adding ref attributes')
 for e in elems:
     if e.name == 'persname':
         if e.text == 'Theo' or e.text == 'Theodore':
@@ -171,17 +184,19 @@ for e in elems:
         else:
             e['ref'] = ref_dict[ix]
         ix += 1
-        
+       
+logging.info(' Converting to string') 
 soup = str(soup)
+logging.info(' Removing HTML tags')
 soup = re.sub('</p></body></html>', '', soup)
 soup = re.sub('<html><body><p>', '', soup)
+soup = re.sub('</body></html>', '', soup)
+soup = re.sub('<html><body>', '', soup)
 soup = re.sub('persname', 'persName', soup)
 soup = re.sub('placename', 'placeName', soup)
 soup = re.sub('orgname', 'orgName', soup)
 
-
+logging.info(' Saving result')
 with open(os.path.join(output_dir, 'ner_output.txt'), 'w') as f:
-    f.write(soup)   
-
-    
-
+    f.write(soup)
+logging.info(' Saved result')
