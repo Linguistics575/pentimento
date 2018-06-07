@@ -134,7 +134,7 @@ merge.py takes the two alternative OCR results, and combines them via an algorit
 
 Here is an overview of the rules applied, with their corresponding functions
 * doSpellingMerge(): Is only one alternative a valid English word? If so, choose valid word. ("the" vs. "tlo")
-* doCapitalizationMerge(): Is only one alternative captialized correctly? If so, choose correct capitalization. ("I know what to do" vs. "I know What to do")
+* doCapitalizationMerge(): Is only one alternative capitalized correctly? If so, choose correct capitalization. ("I know what to do" vs. "I know What to do")
 * doUnigramFrequncyMerge(): Is one alternative a much more common word than the other alternative? If so, choose the more common word (e.g. "must" vs. "mash")
 * doPunctuationGarbageMerge(): Is one alternative blank, and the other has only punctuation characters? If so, choose the blank (e.g. "" vs ".")
 * doExtraPunctuationMerge(): Do both alternatives have non-punctuation, and does one alternative have less punctuation characters than the other? If so, choose the one with less punctuation (e.g. "the" vs. "'the.").
@@ -171,7 +171,7 @@ The NER module uses the Stanford CoreNLP library to generate persName, placeName
 
 The named entity normalization step for people consists of two steps: lexical similarity and semantic similarity. The lexical similarity of named entities is computed using Levenshtein distance. 
 
-The semantic similarity is computed using cosine distane between the contexts in which any two named entities appear. Context is defined to be the paragraph in which the named entitiy appears. The paragraphs are vectorized using a tf-idf vectorizer and then reduced to a 200-dimensional vector via SVD. 
+The semantic similarity is computed using cosine distance between the contexts in which any two named entities appear. Context is defined to be the paragraph in which the named entity appears. The paragraphs are vectorized using a tf-idf vectorizer and then reduced to a 200-dimensional vector via SVD. 
 
 The lexical similarity and semantic similarity are added and then clustered using affinity propagation. The most frequently occurring named entity in the cluster is used as the ref attribute.
 
